@@ -1,7 +1,7 @@
 [
 {
 "iso": "IT",
-"en": "Poland",
+"en": "Italy",
 "zh": "義大利",
 "regions": [
 "europe"
@@ -19,29 +19,25 @@
 },
 {
 "iso": "FR",
-"en": "Italy",
+"en": "France",
 "zh": "法國",
 "regions": [
-"asia",
-"europe",
-"latam"
+"europe"
 ],
 "n": 56
 },
 {
 "iso": "DE",
-"en": "France",
+"en": "Germany",
 "zh": "德國",
 "regions": [
-"asia",
-"europe",
-"latam"
+"europe"
 ],
 "n": 55
 },
 {
 "iso": "ES",
-"en": "Germany",
+"en": "Spain",
 "zh": "西班牙",
 "regions": [
 "europe"
@@ -50,12 +46,10 @@
 },
 {
 "iso": "IN",
-"en": "Japan",
+"en": "India",
 "zh": "印度",
 "regions": [
-"asia",
-"europe",
-"latam"
+"asia"
 ],
 "n": 45
 },
@@ -70,7 +64,7 @@
 },
 {
 "iso": "GB",
-"en": "Italy",
+"en": "United Kingdom",
 "zh": "英國",
 "regions": [
 "europe"
@@ -79,38 +73,34 @@
 },
 {
 "iso": "RU",
-"en": "Russian Federation",
+"en": "Russia",
 "zh": "俄羅斯",
 "regions": [
-"asia",
 "europe"
 ],
 "n": 33
 },
 {
 "iso": "IR",
-"en": "Iran (Islamic Republic of)",
+"en": "Iran",
 "zh": "伊朗",
 "regions": [
-"asia",
-"europe"
+"asia"
 ],
 "n": 30
 },
 {
 "iso": "JP",
-"en": "Switzerland",
+"en": "Japan",
 "zh": "日本",
 "regions": [
-"asia",
-"europe",
-"latam"
+"asia"
 ],
 "n": 27
 },
 {
 "iso": "US",
-"en": "United States of America",
+"en": "United States",
 "zh": "美國",
 "regions": [
 "europe"
@@ -164,7 +154,7 @@
 },
 {
 "iso": "PL",
-"en": "Slovakia",
+"en": "Poland",
 "zh": "波蘭",
 "regions": [
 "europe"
@@ -182,7 +172,7 @@
 },
 {
 "iso": "PT",
-"en": "Spain",
+"en": "Portugal",
 "zh": "葡萄牙",
 "regions": [
 "europe"
@@ -191,7 +181,7 @@
 },
 {
 "iso": "KR",
-"en": "Republic of Korea",
+"en": "South Korea",
 "zh": "南韓",
 "regions": [
 "asia"
@@ -200,12 +190,10 @@
 },
 {
 "iso": "BE",
-"en": "Bosnia and Herzegovina",
+"en": "Belgium",
 "zh": "比利時",
 "regions": [
-"asia",
-"europe",
-"latam"
+"europe"
 ],
 "n": 16
 },
@@ -220,12 +208,10 @@
 },
 {
 "iso": "CH",
-"en": "Croatia",
+"en": "Switzerland",
 "zh": "瑞士",
 "regions": [
-"asia",
-"europe",
-"latam"
+"europe"
 ],
 "n": 13
 },
@@ -240,7 +226,7 @@
 },
 {
 "iso": "NL",
-"en": "Netherlands (Kingdom of the)",
+"en": "Netherlands",
 "zh": "荷蘭",
 "regions": [
 "europe"
@@ -249,7 +235,7 @@
 },
 {
 "iso": "DK",
-"en": "Germany",
+"en": "Denmark",
 "zh": "丹麥",
 "regions": [
 "europe"
@@ -270,8 +256,6 @@
 "en": "Argentina",
 "zh": "阿根廷",
 "regions": [
-"asia",
-"europe",
 "latam"
 ],
 "n": 12
@@ -296,7 +280,7 @@
 },
 {
 "iso": "RO",
-"en": "Slovenia",
+"en": "Romania",
 "zh": "羅馬尼亞",
 "regions": [
 "europe"
@@ -314,7 +298,7 @@
 },
 {
 "iso": "HR",
-"en": "North Macedonia",
+"en": "Croatia",
 "zh": "克羅埃西亞",
 "regions": [
 "europe"
@@ -350,7 +334,7 @@
 },
 {
 "iso": "VN",
-"en": "Viet Nam",
+"en": "Vietnam",
 "zh": "越南",
 "regions": [
 "asia"
@@ -395,7 +379,7 @@
 },
 {
 "iso": "SK",
-"en": "Switzerland",
+"en": "Slovakia",
 "zh": "斯洛伐克",
 "regions": [
 "europe"
@@ -431,7 +415,7 @@
 },
 {
 "iso": "NO",
-"en": "Republic of Moldova",
+"en": "Norway",
 "zh": "挪威",
 "regions": [
 "europe"
@@ -485,7 +469,7 @@
 },
 {
 "iso": "BO",
-"en": "Bolivia (Plurinational State of)",
+"en": "Bolivia",
 "zh": "玻利維亞",
 "regions": [
 "latam"
@@ -503,7 +487,7 @@
 },
 {
 "iso": "KZ",
-"en": "Kyrgyzstan",
+"en": "Kazakhstan",
 "zh": "哈薩克",
 "regions": [
 "asia"
@@ -524,8 +508,7 @@
 "en": "Mongolia",
 "zh": "蒙古",
 "regions": [
-"asia",
-"europe"
+"asia"
 ],
 "n": 7
 },
@@ -558,7 +541,7 @@
 },
 {
 "iso": "TZ",
-"en": "United Republic of Tanzania",
+"en": "Tanzania",
 "zh": "坦尚尼亞",
 "regions": [
 "africa"
@@ -603,7 +586,7 @@
 },
 {
 "iso": "PS",
-"en": "State of Palestine",
+"en": "Palestinian Territories",
 "zh": "巴勒斯坦自治區",
 "regions": [
 "arab"
@@ -612,7 +595,7 @@
 },
 {
 "iso": "SY",
-"en": "Syrian Arab Republic",
+"en": "Syria",
 "zh": "敘利亞",
 "regions": [
 "arab"
@@ -621,7 +604,7 @@
 },
 {
 "iso": "BA",
-"en": "Belgium",
+"en": "Bosnia & Herzegovina",
 "zh": "波士尼亞與赫塞哥維納",
 "regions": [
 "europe"
@@ -630,7 +613,7 @@
 },
 {
 "iso": "SI",
-"en": "Spain",
+"en": "Slovenia",
 "zh": "斯洛維尼亞",
 "regions": [
 "europe"
@@ -651,14 +634,13 @@
 "en": "Azerbaijan",
 "zh": "亞塞拜然",
 "regions": [
-"asia",
 "europe"
 ],
 "n": 5
 },
 {
 "iso": "LT",
-"en": "Latvia",
+"en": "Lithuania",
 "zh": "立陶宛",
 "regions": [
 "europe"
@@ -685,7 +667,7 @@
 },
 {
 "iso": "CI",
-"en": "Côte d'Ivoire",
+"en": "Côte d’Ivoire",
 "zh": "象牙海岸",
 "regions": [
 "africa"
@@ -730,7 +712,7 @@
 },
 {
 "iso": "CD",
-"en": "Democratic Republic of the Congo",
+"en": "Congo - Kinshasa",
 "zh": "剛果（金夏沙）",
 "regions": [
 "africa"
@@ -784,7 +766,7 @@
 },
 {
 "iso": "BF",
-"en": "Benin",
+"en": "Burkina Faso",
 "zh": "布吉納法索",
 "regions": [
 "africa"
@@ -811,7 +793,7 @@
 },
 {
 "iso": "LA",
-"en": "Lao People's Democratic Republic",
+"en": "Laos",
 "zh": "寮國",
 "regions": [
 "asia"
@@ -856,7 +838,7 @@
 },
 {
 "iso": "LV",
-"en": "Lithuania",
+"en": "Latvia",
 "zh": "拉脫維亞",
 "regions": [
 "europe"
@@ -865,7 +847,7 @@
 },
 {
 "iso": "BJ",
-"en": "Burkina Faso",
+"en": "Benin",
 "zh": "貝南",
 "regions": [
 "africa"
@@ -883,7 +865,7 @@
 },
 {
 "iso": "CM",
-"en": "Congo",
+"en": "Cameroon",
 "zh": "喀麥隆",
 "regions": [
 "africa"
@@ -892,7 +874,7 @@
 },
 {
 "iso": "KG",
-"en": "Kazakhstan",
+"en": "Kyrgyzstan",
 "zh": "吉爾吉斯",
 "regions": [
 "asia"
@@ -937,7 +919,7 @@
 },
 {
 "iso": "KP",
-"en": "Democratic People's Republic of Korea",
+"en": "North Korea",
 "zh": "北韓",
 "regions": [
 "asia"
@@ -1036,7 +1018,7 @@
 },
 {
 "iso": "VE",
-"en": "Venezuela (Bolivarian Republic of)",
+"en": "Venezuela",
 "zh": "委內瑞拉",
 "regions": [
 "latam"
@@ -1045,7 +1027,7 @@
 },
 {
 "iso": "MK",
-"en": "Romania",
+"en": "North Macedonia",
 "zh": "北馬其頓",
 "regions": [
 "europe"
@@ -1063,7 +1045,7 @@
 },
 {
 "iso": "CF",
-"en": "Cameroon",
+"en": "Central African Republic",
 "zh": "中非共和國",
 "regions": [
 "africa"
@@ -1072,7 +1054,7 @@
 },
 {
 "iso": "CG",
-"en": "Central African Republic",
+"en": "Congo - Brazzaville",
 "zh": "剛果（布拉薩）",
 "regions": [
 "africa"
@@ -1090,7 +1072,7 @@
 },
 {
 "iso": "VA",
-"en": "Italy",
+"en": "Vatican City",
 "zh": "梵蒂岡",
 "regions": [
 "europe"
@@ -1198,7 +1180,7 @@
 },
 {
 "iso": "MM",
-"en": "Myanmar",
+"en": "Myanmar (Burma)",
 "zh": "緬甸",
 "regions": [
 "asia"
@@ -1252,7 +1234,7 @@
 },
 {
 "iso": "MD",
-"en": "Norway",
+"en": "Moldova",
 "zh": "摩爾多瓦",
 "regions": [
 "europe"
@@ -1315,7 +1297,7 @@
 },
 {
 "iso": "AG",
-"en": "Antigua and Barbuda",
+"en": "Antigua & Barbuda",
 "zh": "安地卡及巴布達",
 "regions": [
 "latam"
@@ -1342,7 +1324,7 @@
 },
 {
 "iso": "CV",
-"en": "Cabo Verde",
+"en": "Cape Verde",
 "zh": "維德角",
 "regions": [
 "africa"
@@ -1450,7 +1432,7 @@
 },
 {
 "iso": "FM",
-"en": "Micronesia (Federated States of)",
+"en": "Micronesia",
 "zh": "密克羅尼西亞",
 "regions": [
 "asia"
@@ -1495,7 +1477,7 @@
 },
 {
 "iso": "KN",
-"en": "Saint Kitts and Nevis",
+"en": "St. Kitts & Nevis",
 "zh": "聖克里斯多福及尼維斯",
 "regions": [
 "latam"
@@ -1504,7 +1486,7 @@
 },
 {
 "iso": "LC",
-"en": "Saint Lucia",
+"en": "St. Lucia",
 "zh": "聖露西亞",
 "regions": [
 "latam"
@@ -1522,7 +1504,7 @@
 },
 {
 "iso": "ST",
-"en": "Sao Tome and Principe",
+"en": "São Tomé & Príncipe",
 "zh": "聖多美普林西比",
 "regions": [
 "africa"

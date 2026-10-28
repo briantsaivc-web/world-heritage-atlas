@@ -4,7 +4,7 @@ import json, re, html, sys
 from babel import Locale
 import opencc
 AUD = '/home/claude/atlas-audit/whc/'; R = '/home/claude/world-heritage-atlas/data/'
-cc = opencc.OpenCC('s2twp'); L = Locale.parse('zh_Hant_TW')
+cc = opencc.OpenCC('s2twp'); L = Locale.parse('zh_Hant_TW'); LE = Locale.parse('en')
 U = json.load(open(AUD + 'unesco.json')); W = json.load(open(AUD + 'wikidata.json'))['items']
 by = {}
 for d in W:
@@ -28,16 +28,24 @@ for u in U:
         if m: coord = [round(float(m.group(2)), 4), round(float(m.group(1)), 4)]; break
     isos = [x.strip().upper() for x in u['iso_code'].split(',') if x.strip()]
     regs = [REG[r.strip()][0] for r in u['regions'].split(',') if r.strip() in REG]
-    for iso, st in zip(isos, [s.strip() for s in u['states'].split(',')]):
-        c = countries.setdefault(iso, {'iso': iso, 'en': st, 'zh': L.territories.get(iso, st), 'regions': set(), 'n': 0})
-        c['n'] += 1; c['regions'] |= set(regs)
+    for iso in isos:
+        c = countries.setdefault(iso, {'iso': iso, 'en': LE.territories.get(iso, iso), 'zh': L.territories.get(iso, iso), 'regions': {}, 'n': 0})
+        c['n'] += 1
+        if len(isos) == 1:
+            for r in regs: c['regions'][r] = c['regions'].get(r, 0) + 1
     desc = html.unescape(re.sub('<[^>]+>', ' ', u['short_description'])).strip()
     sites.append({'id': sid, 'en': html.unescape(u['site']), 'zh': zh, 'zh_src': zsrc, 'cat': CAT[u['category']],
                   'criteria': re.findall(r'\(([ivx]+)\)', u['criteria_txt']), 'year': int(u['date_inscribed']) if u['date_inscribed'].isdigit() else None,
                   'ext': [int(x) for x in u['secondary_dates'].split(',') if x.strip().isdigit()], 'danger': u['danger'] == '1',
                   'trans': u['transnational'] == '1', 'iso': isos, 'regions': regs, 'coord': coord, 'unesco': u['http_url'],
                   'q': [d['q'] for d in main if sid in d['whs']], 'en_desc': re.sub(r'\s+', ' ', desc)})
-for c in countries.values(): c['regions'] = sorted(c['regions'])
+allreg = {}
+for s_ in sites:
+    for i in s_['iso']:
+        for r in s_['regions']: allreg.setdefault(i, {}).setdefault(r, 0); allreg[i][r] += 1
+for c in countries.values():
+    src = c['regions'] or allreg.get(c['iso'], {})
+    c['regions'] = [max(src, key=src.get)] if src else []
 sites.sort(key=lambda s: int(s['id']))
 json.dump(sites, open(R + 'sites.json', 'w'), ensure_ascii=False, indent=0)
 json.dump(sorted(countries.values(), key=lambda c: -c['n']), open(R + 'countries.json', 'w'), ensure_ascii=False, indent=0)
