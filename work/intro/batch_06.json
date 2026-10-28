@@ -1,0 +1,1098 @@
+[
+ {
+  "id": "430",
+  "en": "Frontiers of the Roman Empire",
+  "zh": "羅馬帝國邊界",
+  "countries": [
+   "德國",
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [
+   2005,
+   2008
+  ],
+  "danger": false,
+  "en_desc": "The ‘Roman Limes’ represents the border line of the Roman Empire at its greatest extent in the 2nd century AD. It stretched over 5,000 km from the Atlantic coast of northern Britain, through Europe to the Black Sea, and from there to the Red Sea and across North Africa to the Atlantic coast. The remains of the Limes today consist of vestiges of built walls, ditches, forts, fortresses, watchtowers and civilian settlements. Certain elements of the line have been excavated, some reconstructed and a few destroyed. The two sections of the Limes in Germany cover a length of 550 km from the north-west of the country to the Danube in the south-east. The 118-km-long Hadrian’s Wall (UK) was built on the orders of the Emperor Hadrian c. AD 122 at the northernmost limits of the Roman province of Britannia. It is a striking example of the organization of a military zone and illustrates the defensive techniques and geopolitical strategies of ancient Rome. The Antonine Wall, a 60-km long fortification in Scotland was started by Emperor Antonius Pius in 142 AD as a defense against the “barbarians” of the north. It constitutes the northwestern-most portion of the Roman Limes."
+ },
+ {
+  "id": "433",
+  "en": "Bahla Fort",
+  "zh": "巴赫萊要塞",
+  "countries": [
+   "阿曼"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The oasis of Bahla owes its prosperity to the Banu Nebhan, the dominant tribe in the area from the 12th to the end of the 15th century. The ruins of the immense fort, with its walls and towers of unbaked brick and its stone foundations, is a remarkable example of this type of fortification and attests to the power of the Banu Nebhan."
+ },
+ {
+  "id": "434",
+  "en": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+  "zh": "巴特、庫特姆和艾因考古遺址",
+  "countries": [
+   "阿曼"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The protohistoric site of Bat lies near a palm grove in the interior of the Sultanate of Oman. Together with the neighbouring sites, it forms the most complete collection of settlements and necropolises from the 3rd millennium B.C. in the world."
+ },
+ {
+  "id": "437",
+  "en": "Mount Taishan",
+  "zh": "泰山",
+  "countries": [
+   "中國"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "v",
+   "vi",
+   "vii"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The sacred Mount Tai ('shan' means 'mountain') was the object of an imperial cult for nearly 2,000 years, and the artistic masterpieces found there are in perfect harmony with the natural landscape. It has always been a source of inspiration for Chinese artists and scholars and symbolizes ancient Chinese civilizations and beliefs."
+ },
+ {
+  "id": "438",
+  "en": "The Great Wall",
+  "zh": "長城",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In c. 220 B.C., under Qin Shi Huang, sections of earlier fortifications were joined together to form a united defence system against invasions from the north. Construction continued up to the Ming dynasty (1368–1644), when the Great Wall became the world's largest military structure. Its historic and strategic importance is matched only by its architectural significance."
+ },
+ {
+  "id": "439",
+  "en": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+  "zh": "北京及瀋陽的明清皇家宮殿",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [
+   2004
+  ],
+  "danger": false,
+  "en_desc": "Seat of supreme power for over five centuries (1416-1911), the Forbidden City in Beijing, with its landscaped gardens and many buildings (whose nearly 10,000 rooms contain furniture and works of art), constitutes a priceless testimony to Chinese civilization during the Ming and Qing dynasties. The Imperial Palace of the Qing Dynasty in Shenyang consists of 114 buildings constructed between 1625–26 and 1783. It contains an important library and testifies to the foundation of the last dynasty that ruled China, before it expanded its power to the centre of the country and moved the capital to Beijing. This palace then became auxiliary to the Imperial Palace in Beijing. This remarkable architectural edifice offers important historical testimony to the history of the Qing Dynasty and to the cultural traditions of the Manchu and other tribes in the north of China."
+ },
+ {
+  "id": "440",
+  "en": "Mogao Caves",
+  "zh": "莫高窟",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "v",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated at a strategic point along the Silk Route, at the crossroads of trade as well as religious, cultural and intellectual influences, the 492 cells and cave sanctuaries in Mogao are famous for their statues and wall paintings, spanning 1,000 years of Buddhist art."
+ },
+ {
+  "id": "441",
+  "en": "Mausoleum of the First Qin Emperor",
+  "zh": "秦始皇陵",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "No doubt thousands of statues still remain to be unearthed at this archaeological site, which was not discovered until 1974. Qin (d. 210 B.C.), the first unifier of China, is buried, surrounded by the famous terracotta warriors, at the centre of a complex designed to mirror the urban plan of the capital, Xianyan. The small figures are all different; with their horses, chariots and weapons, they are masterpieces of realism and also of great historical interest."
+ },
+ {
+  "id": "442",
+  "en": "Monticello and the University of Virginia in Charlottesville",
+  "zh": null,
+  "countries": [
+   "美國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Thomas Jefferson (1743–1826), author of the American Declaration of Independence and third president of the United States, was also a talented architect of neoclassical buildings. He designed Monticello (1769–1809), his plantation home, and his ideal 'academical village' (1817–26), which is still the heart of the University of Virginia. Jefferson's use of an architectural vocabulary based upon classical antiquity symbolizes both the aspirations of the new American republic as the inheritor of European tradition and the cultural experimentation that could be expected as the country matured."
+ },
+ {
+  "id": "444",
+  "en": "Ksar of Ait-Ben-Haddou",
+  "zh": "艾本哈杜",
+  "countries": [
+   "摩洛哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ksar , a group of earthen buildings surrounded by high walls, is a traditional pre-Saharan habitat. The houses crowd together within the defensive walls, which are reinforced by corner towers. Ait-Ben-Haddou, in Ouarzazate province, is a striking example of the architecture of southern Morocco."
+ },
+ {
+  "id": "445",
+  "en": "Brasilia",
+  "zh": "巴西利亞",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Brasilia, a capital created ex nihilo in the centre of the country in 1956, was a landmark in the history of town planning. Urban planner Lucio Costa and architect Oscar Niemeyer intended that every element – from the layout of the residential and administrative districts (often compared to the shape of a bird in flight) to the symmetry of the buildings themselves – should be in harmony with the city’s overall design. The official buildings, in particular, are innovative and imaginative."
+ },
+ {
+  "id": "447",
+  "en": "Ulu<U>r</U>u-Kata Tju<U>t</U>a National Park",
+  "zh": "烏魯魯－卡塔丘塔國家公園",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "v",
+   "vi",
+   "vii",
+   "viii"
+  ],
+  "year": 1987,
+  "ext": [
+   1994
+  ],
+  "danger": false,
+  "en_desc": "This park, formerly called Uluru (Ayers Rock – Mount Olga) National Park, features spectacular geological formations that dominate the vast red sandy plain of central Australia. Uluru, an immense monolith, and Kata Tjuta, the rock domes located west of Uluru, form part of the traditional belief system of one of the oldest human societies in the world. The traditional owners of Uluru-Kata Tjuta are the Anangu Aboriginal people."
+ },
+ {
+  "id": "448",
+  "en": "Nemrut Dağ",
+  "zh": "內姆魯特山",
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The mausoleum of Antiochus I (69–34 B.C.), who reigned over Commagene, a kingdom founded north of Syria and the Euphrates after the breakup of Alexander's empire, is one of the most ambitious constructions of the Hellenistic period. The syncretism of its pantheon, and the lineage of its kings, which can be traced back through two sets of legends, Greek and Persian, is evidence of the dual origin of this kingdom's culture."
+ },
+ {
+  "id": "449",
+  "en": "Peking Man Site at Zhoukoudian",
+  "zh": "周口店遺址",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Scientific work at the site, which lies 42 km south-west of Beijing, is still underway. So far, it has led to the discovery of the remains of Sinanthropus pekinensis , who lived in the Middle Pleistocene, along with various objects, and remains of Homo sapiens sapiens dating as far back as 18,000–11,000 B.C. The site is not only an exceptional reminder of the prehistorical human societies of the Asian continent, but also illustrates the process of evolution."
+ },
+ {
+  "id": "450",
+  "en": "Sacred City of Kandy",
+  "zh": "康提",
+  "countries": [
+   "斯里蘭卡"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "vi"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site."
+ },
+ {
+  "id": "451",
+  "en": "Old Town of Galle and its Fortifications",
+  "zh": null,
+  "countries": [
+   "斯里蘭卡"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions."
+ },
+ {
+  "id": "452",
+  "en": "Sundarbans National Park",
+  "zh": "孫德爾本斯國家公園",
+  "countries": [
+   "印度"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Sundarbans covers 10,000 km 2 of land and water (more than half of it in India, the rest in Bangladesh) in the Ganges delta. It contains the world's largest area of mangrove forests. A number of rare or endangered species live in the park, including tigers, aquatic mammals, birds and reptiles."
+ },
+ {
+  "id": "454",
+  "en": "Mount Athos",
+  "zh": "阿索斯山",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "v",
+   "vi",
+   "vii"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "An Orthodox spiritual centre since 1054, Mount Athos has enjoyed an autonomous statute since Byzantine times. The 'Holy Mountain', which is forbidden to women and children, is also a recognized artistic site. The layout of the monasteries (about 20 of which are presently inhabited by some 1,400 monks) had an influence as far afield as Russia, and its school of painting influenced the history of Orthodox art."
+ },
+ {
+  "id": "455",
+  "en": "Meteora",
+  "zh": "邁泰奧拉",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "v",
+   "vii"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In a region of almost inaccessible sandstone peaks, monks settled on these 'columns of the sky' from the 11th century onwards. Twenty-four of these monasteries were built, despite incredible difficulties, at the time of the great revival of the eremetic ideal in the 15th century. Their 16th-century frescoes mark a key stage in the development of post-Byzantine painting."
+ },
+ {
+  "id": "456",
+  "en": "Paleochristian and Byzantine Monuments of Thessalonika",
+  "zh": "塞薩洛尼基的古基督教和拜占庭遺址",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in 315 B.C., the provincial capital and sea port of Thessalonika was one of the first bases for the spread of Christianity. Among its Christian monuments are fine churches, some built on the Greek cross plan and others on the three-nave basilica plan. Constructed over a long period, from the 4th to the 15th century, they constitute a diachronic typological series, which had considerable influence in the Byzantine world. The mosaics of the rotunda, St Demetrius and St David are among the great masterpieces of early Christian art."
+ },
+ {
+  "id": "460",
+  "en": "Trinidad and the Valley de los Ingenios",
+  "zh": "特立尼達和因赫尼奧斯山谷",
+  "countries": [
+   "古巴"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade."
+ },
+ {
+  "id": "474",
+  "en": "Hortobágy National Park - the <em>Puszta</em>",
+  "zh": "霍爾託巴吉",
+  "countries": [
+   "匈牙利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia."
+ },
+ {
+  "id": "475",
+  "en": "Manovo-Gounda St Floris National Park",
+  "zh": "馬諾沃-貢達聖弗洛里斯國家公園",
+  "countries": [
+   "中非共和國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": true,
+  "en_desc": "The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains."
+ },
+ {
+  "id": "476",
+  "en": "Chongoni Rock-Art Area",
+  "zh": null,
+  "countries": [
+   "馬拉威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 2006,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated within a cluster of forested granite hills and covering an area of 126.4 km2, high up the plateau of central Malawi, the 127 sites of this area feature the richest concentration of rock art in Central Africa. They reflect the comparatively scarce tradition of farmer rock art, as well as paintings by BaTwa hunter-gatherers who inhabited the area from the late Stone Age. The Chewa agriculturalists, whose ancestors lived there from the late Iron Age, practised rock painting until well into the 20th century. The symbols in the rock art, which are strongly associated with women, still have cultural relevance amongst the Chewa, and the sites are actively associated with ceremonies and rituals."
+ },
+ {
+  "id": "479",
+  "en": "Town of Luang Prabang",
+  "zh": "琅勃拉邦",
+  "countries": [
+   "寮國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "v"
+  ],
+  "year": 1995,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Luang Prabang is an outstanding example of the fusion of traditional architecture and Lao urban structures with those built by the European colonial authorities in the 19th and 20th centuries. Its unique, remarkably well-preserved townscape illustrates a key stage in the blending of these two distinct cultural traditions."
+ },
+ {
+  "id": "481",
+  "en": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+  "zh": "占巴塞文化景觀內的瓦普廟與相關古民居",
+  "countries": [
+   "寮國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Champasak cultural landscape, including the Vat Phou Temple complex, is a remarkably well-preserved planned landscape more than 1,000 years old. It was shaped to express the Hindu vision of the relationship between nature and humanity, using an axis from mountain top to river bank to lay out a geometric pattern of temples, shrines and waterworks extending over some 10 km. Two planned cities on the banks of the Mekong River are also part of the site, as well as Phou Kao mountain. The whole represents a development ranging from the 5th to 15th centuries, mainly associated with the Khmer Empire."
+ },
+ {
+  "id": "482",
+  "en": "Historic Town of Guanajuato and Adjacent Mines",
+  "zh": "瓜納華托",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded by the Spanish in the early 16th century, Guanajuato became the world's leading silver-extraction centre in the 18th century. This past can be seen in its 'subterranean streets' and the 'Boca del Inferno', a mineshaft that plunges a breathtaking 600 m. The town's fine Baroque and neoclassical buildings, resulting from the prosperity of the mines, have influenced buildings throughout central Mexico. The churches of La Compañía and La Valenciana are considered to be among the most beautiful examples of Baroque architecture in Central and South America. Guanajuato was also witness to events which changed the history of the country."
+ },
+ {
+  "id": "483",
+  "en": "Pre-Hispanic City of Chichen-Itza",
+  "zh": "奇琴伊察",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This sacred site was one of the greatest Mayan centres of the Yucatán peninsula. Throughout its nearly 1,000-year history, different peoples have left their mark on the city. The Maya and Toltec vision of the world and the universe is revealed in their stone monuments and artistic works. The fusion of Mayan construction techniques with new elements from central Mexico make Chichen-Itza one of the most important examples of the Mayan-Toltec civilization in Yucatán. Several buildings have survived, such as the Warriors’ Temple, El Castillo and the circular observatory known as El Caracol."
+ },
+ {
+  "id": "484",
+  "en": "Xanthos-Letoon",
+  "zh": "桑索斯和萊頓",
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This site, which was the capital of Lycia, illustrates the blending of Lycian traditions and Hellenic influence, especially in its funerary art. The epigraphic inscriptions are crucial for our understanding of the history of the Lycian people and their Indo-European language."
+ },
+ {
+  "id": "485",
+  "en": "Hierapolis-Pamukkale",
+  "zh": "赫拉波利斯和帕穆克卡萊",
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "iii",
+   "iv",
+   "vii"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Deriving from springs in a cliff almost 200 m high overlooking the plain, calcite-laden waters have created at Pamukkale (Cotton Palace) an unreal landscape, made up of mineral forests, petrified waterfalls and a series of terraced basins. At the end of the 2nd century B.C. the dynasty of the Attalids, the kings of Pergamon, established the thermal spa of Hierapolis. The ruins of the baths, temples and other Greek monuments can be seen at the site."
+ },
+ {
+  "id": "486",
+  "en": "Wet Tropics of Queensland",
+  "zh": "昆士蘭濕熱帶地區",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This area, which stretches along the north-east coast of Australia for some 450 km, is made up largely of tropical rainforests. This biotope offers a particularly extensive and varied array of plants, as well as marsupials and singing birds, along with other rare and endangered animals and plant species."
+ },
+ {
+  "id": "487",
+  "en": "Henderson Island",
+  "zh": "亨德森島",
+  "countries": [
+   "英國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Henderson Island, which lies in the eastern South Pacific, is one of the few atolls in the world whose ecology has been practically untouched by a human presence. Its isolated location provides the ideal context for studying the dynamics of insular evolution and natural selection. It is particularly notable for the 10 plants and four land birds that are endemic to the island."
+ },
+ {
+  "id": "488",
+  "en": "Tower of London",
+  "zh": "倫敦塔",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The massive White Tower is a typical example of Norman military architecture, whose influence was felt throughout the kingdom. It was built on the Thames by William the Conqueror to protect London and assert his power. The Tower of London – an imposing fortress with many layers of history, which has become one of the symbols of royalty – was built around the White Tower."
+ },
+ {
+  "id": "491",
+  "en": "Sanctuary of Asklepios at Epidaurus",
+  "zh": "埃皮達魯斯的阿斯克勒庇俄斯神廟",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In a small valley in the Peloponnesus, the shrine of Asklepios, the god of medicine, developed out of a much earlier cult of Apollo (Maleatas), during the 6th century BC at the latest, as the official cult of the city state of Epidaurus. Its principal monuments, particularly the temple of Asklepios, the Tholos and the Theatre - considered one of the purest masterpieces of Greek architecture – date from the 4th century. The vast site, with its temples and hospital buildings devoted to its healing gods, provides valuable insight into the healing cults of Greek and Roman times."
+ },
+ {
+  "id": "492",
+  "en": "Taos Pueblo",
+  "zh": null,
+  "countries": [
+   "美國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1992,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated in the valley of a small tributary of the Rio Grande, this adobe settlement – consisting of dwellings and ceremonial buildings – represents the culture of the Pueblo Indians of Arizona and New Mexico."
+ },
+ {
+  "id": "493",
+  "en": "Medieval City of Rhodes",
+  "zh": "羅得中世紀舊城",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "v"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Order of St John of Jerusalem occupied Rhodes from 1309 to 1523 and set about transforming the city into a stronghold. It subsequently came under Turkish and Italian rule. With the Palace of the Grand Masters, the Great Hospital and the Street of the Knights, the Upper Town is one of the most beautiful urban ensembles of the Gothic period. In the Lower Town, Gothic architecture coexists with mosques, public baths and other buildings dating from the Ottoman period."
+ },
+ {
+  "id": "494",
+  "en": "Andrefana Dry Forests",
+  "zh": "黥基·德·貝馬拉哈自然保護區",
+  "countries": [
+   "馬達加斯加"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 1990,
+  "ext": [
+   2023
+  ],
+  "danger": false,
+  "en_desc": "This serial property in western Madagascar comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. Undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds. The component parts of the property cover almost the full range of ecological and evolutionary variation within the western forests of Madagascar, including western dry forests and southwestern spiny forest-thicket. These sites contain a spectacular array of endemic and threatened biodiversity, including baobabs, flame trees ( Delonix ), as well as unique evolutionary lineages such as the Mesitornithiformes, an order of birds which is 54 million years old."
+ },
+ {
+  "id": "495",
+  "en": "Strasbourg, Grande-Île and <em>Neustadt</em>",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [
+   2017
+  ],
+  "danger": false,
+  "en_desc": "The initial property, inscribed in 1988 on the World Heritage List, was formed by the Grande-Île, the historic centre of Strasbourg, structured around the cathedral. The extension concerns the Neustadt , new town, designed and built under the German administration (1871-1918). The Neustadt draws the inspiration for its urban layout partially from the Haussmannian model, while adopting an architectural idiom of Germanic inspiration. This dual influence has enabled the creation of an urban space that is specific to Strasbourg, where the perspectives created around the cathedral open to a unified landscape around the rivers and canals."
+ },
+ {
+  "id": "496",
+  "en": "Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",
+  "zh": "坎特伯雷大教堂、聖奧古斯丁修道院和聖馬丁教堂",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "vi"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Canterbury, in Kent, has been the seat of the spiritual head of the Church of England for nearly five centuries. Canterbury's other important monuments are the modest Church of St Martin, the oldest church in England; the ruins of the Abbey of St Augustine, a reminder of the saint's evangelizing role in the Heptarchy from 597; and Christ Church Cathedral, a breathtaking mixture of Romanesque and Perpendicular Gothic, where Archbishop Thomas Becket was murdered in 1170."
+ },
+ {
+  "id": "498",
+  "en": "Medina of Sousse",
+  "zh": "蘇塞的阿拉伯老城",
+  "countries": [
+   "突尼西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Sousse was an important commercial and military port during the Aghlabid period (800–909) and is a typical example of a town dating from the first centuries of Islam. With its kasbah, ramparts, medina (with the Great Mosque), Bu Ftata Mosque and typical ribat (both a fort and a religious building), Sousse was part of a coastal defence system."
+ },
+ {
+  "id": "499",
+  "en": "Kairouan",
+  "zh": "凱魯萬",
+  "countries": [
+   "突尼西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "v",
+   "vi"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in 670, Kairouan flourished under the Aghlabid dynasty in the 9th century. Despite the transfer of the political capital to Tunis in the 12th century, Kairouan remained the Maghreb's principal holy city. Its rich architectural heritage includes the Great Mosque, with its marble and porphyry columns, and the 9th-century Mosque of the Three Gates."
+ },
+ {
+  "id": "500",
+  "en": "Historic Centre of Lima",
+  "zh": "利馬歷史中心",
+  "countries": [
+   "秘魯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [
+   1991
+  ],
+  "danger": false,
+  "en_desc": "Although severely damaged by earthquakes, this 'City of the Kings' was, until the middle of the 18th century, the capital and most important city of the Spanish dominions in South America. Many of its buildings, such as the Convent of San Francisco (the largest of its type in this part of the world), are the result of collaboration between local craftspeople and others from the Old World."
+ },
+ {
+  "id": "502",
+  "en": "Historic City of Vigan",
+  "zh": "美岸",
+  "countries": [
+   "菲律賓"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Established in the 16th century, Vigan is the best-preserved example of a planned Spanish colonial town in Asia. Its architecture reflects the coming together of cultural elements from elsewhere in the Philippines, from China and from Europe, resulting in a culture and townscape that have no parallel anywhere in East and South-East Asia."
+ },
+ {
+  "id": "505",
+  "en": "Monastery of Alcobaça",
+  "zh": "阿爾科巴薩修道院",
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Monastery of Santa Maria d'Alcobaça, north of Lisbon, was founded in the 12th century by King Alfonso I. Its size, the purity of its architectural style, the beauty of the materials and the care with which it was built make this a masterpiece of Cistercian Gothic art."
+ },
+ {
+  "id": "506",
+  "en": "Banc d'Arguin National Park",
+  "zh": "阿爾金岩石礁國家公園",
+  "countries": [
+   "茅利塔尼亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found."
+ },
+ {
+  "id": "509",
+  "en": "Mosi-oa-Tunya / Victoria Falls",
+  "zh": null,
+  "countries": [
+   "尚比亞",
+   "辛巴威"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away."
+ },
+ {
+  "id": "511",
+  "en": "Archaeological Site of Mystras",
+  "zh": "米斯特拉斯",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Mystras, the 'wonder of the Morea', was built as an amphitheatre around the fortress erected in 1249 by the prince of Achaia, William of Villehardouin. Reconquered by the Byzantines, then occupied by the Turks and the Venetians, the city was abandoned in 1832, leaving only the breathtaking medieval ruins, standing in a beautiful landscape."
+ },
+ {
+  "id": "514",
+  "en": "Heart of Neolithic Orkney",
+  "zh": "新石器時代奧克尼的中心",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The group of Neolithic monuments on Orkney consists of a large chambered tomb (Maes Howe), two ceremonial stone circles (the Stones of Stenness and the Ring of Brodgar) and a settlement (Skara Brae), together with a number of unexcavated burial, ceremonial and settlement sites. The group constitutes a major prehistoric cultural landscape which gives a graphic depiction of life in this remote archipelago in the far north of Scotland some 5,000 years ago."
+ },
+ {
+  "id": "515",
+  "en": "Abbey and Altenmünster of Lorsch",
+  "zh": "洛爾施隱修院",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1991,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition."
+ },
+ {
+  "id": "516",
+  "en": "Cliff of Bandiagara (Land of the Dogons)",
+  "zh": "邦賈加拉懸崖",
+  "countries": [
+   "馬利"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "v",
+   "vii"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na , or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites."
+ },
+ {
+  "id": "517",
+  "en": "Archaeological Site of Olympia",
+  "zh": "奧林匹亞考古遺址",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The site of Olympia, in a valley in the Peloponnesus, has been inhabited since prehistoric times. In the 10th century B.C., Olympia became a centre for the worship of Zeus. The Altis – the sanctuary to the gods – has one of the highest concentrations of masterpieces from the ancient Greek world. In addition to temples, there are the remains of all the sports structures erected for the Olympic Games, which were held in Olympia every four years beginning in 776 B.C."
+ },
+ {
+  "id": "518",
+  "en": "Poblet Monastery",
+  "zh": "波夫萊特修道院",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1991,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This Cistercian abbey in Catalonia is one of the largest in Spain. At its centre is a 12th-century church. The austere, majestic monastery, which has a fortified royal residence and contains the pantheon of the kings of Catalonia and Aragon, is an impressive sight."
+ },
+ {
+  "id": "522",
+  "en": "Renaissance Monumental Ensembles of Úbeda and Baeza",
+  "zh": null,
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The urban morphology of the two small cities of Úbeda and Baeza in southern Spain dates back to the Moorish 9th century and to the Reconquista in the 13th century. An important development took place in the 16th century, when the cities were subject to renovation along the lines of the emerging Renaissance. This planning intervention was part of the introduction into Spain of new humanistic ideas from Italy, which went on to have a great influence on the architecture of Latin America."
+ },
+ {
+  "id": "524",
+  "en": "Buddhist Monuments at Sanchi",
+  "zh": "桑吉",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1989,
+  "ext": [],
+  "danger": false,
+  "en_desc": "On a hill overlooking the plain and about 40 km from Bhopal, the site of Sanchi comprises a group of Buddhist monuments (monolithic pillars, palaces, temples and monasteries) all in different states of conservation most of which date back to the 2nd and 1st centuries B.C. It is the oldest Buddhist sanctuary in existence and was a major Buddhist centre in India until the 12th century A.D."
+ },
+ {
+  "id": "526",
+  "en": "Colonial City of Santo Domingo",
+  "zh": "聖多明各的殖民城",
+  "countries": [
+   "多明尼加共和國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1990,
+  "ext": [],
+  "danger": false,
+  "en_desc": "After Christopher Columbus's arrival on the island in 1492, Santo Domingo became the site of the first cathedral, hospital, customs house and university in the Americas. This colonial town, founded in 1498, was laid out on a grid pattern that became the model for almost all town planners in the New World."
+ },
+ {
+  "id": "527",
+  "en": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+  "zh": null,
+  "countries": [
+   "烏克蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1990,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Designed to rival Hagia Sophia in Constantinople, Kyiv's Saint-Sophia Cathedral symbolizes the 'new Constantinople', capital of the Christian principality of Kyiv, which was created in the 11th century in a region evangelized after the baptism of St Vladimir in 988. The spiritual and intellectual influence of Kyiv-Pechersk Lavra contributed to the spread of Orthodox thought and the Orthodox faith in the Russian world from the 17th to the 19th century."
+ },
+ {
+  "id": "529",
+  "en": "Jesuit Missions of the Chiquitos",
+  "zh": "奇基托斯耶穌傳教區",
+  "countries": [
+   "玻利維亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v"
+  ],
+  "year": 1990,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Between 1696 and 1760, six ensembles of reducciones (settlements of Christianized Indians) inspired by the 'ideal cities' of the 16th-century philosophers were founded by the Jesuits in a style that married Catholic architecture with local traditions. The six that remain – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – make up a living heritage on the former territory of the Chiquitos."
+ },
+ {
+  "id": "530",
+  "en": "Delos",
+  "zh": "提洛島",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1990,
+  "ext": [],
+  "danger": false,
+  "en_desc": "According to Greek mythology, Apollo was born on this tiny island in the Cyclades archipelago. Apollo's sanctuary attracted pilgrims from all over Greece and Delos was a prosperous trading port. The island bears traces of the succeeding civilizations in the Aegean world, from the 3rd millennium B.C. to the palaeochristian era. The archaeological site is exceptionally extensive and rich and conveys the image of a great cosmopolitan Mediterranean port."
+ },
+ {
+  "id": "532",
+  "en": "Palaces and Parks of Potsdam and Berlin",
+  "zh": "波茨坦和柏林的宮殿和公園建築群",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1990,
+  "ext": [
+   1992,
+   1999
+  ],
+  "danger": false,
+  "en_desc": "With 500 ha of parks and 150 buildings constructed between 1730 and 1916, Potsdam's complex of palaces and parks forms an artistic whole, whose eclectic nature reinforces its sense of uniqueness. It extends into the district of Berlin-Zehlendorf, with the palaces and parks lining the banks of the River Havel and Lake Glienicke. Voltaire stayed at the Sans-Souci Palace, built under Frederick II between 1745 and 1747."
+ },
+ {
+  "id": "534",
+  "en": "Garden Kingdom of Dessau-Wörlitz",
+  "zh": "德紹-沃利茨園林王國",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Garden Kingdom of Dessau-Wörlitz is an exceptional example of landscape design and planning of the Age of the Enlightenment, the 18th century. Its diverse components - outstanding buildings, landscaped parks and gardens in the English style, and subtly modified expanses of agricultural land - serve aesthetic, educational, and economic purposes in an exemplary manner."
+ }
+]

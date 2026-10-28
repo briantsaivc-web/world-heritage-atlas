@@ -1,0 +1,1072 @@
+[
+ {
+  "id": "1",
+  "en": "Galápagos Islands",
+  "zh": "加拉巴哥群島",
+  "countries": [
+   "厄瓜多"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1978,
+  "ext": [
+   2001
+  ],
+  "danger": false,
+  "en_desc": "Situated in the Pacific Ocean some 1,000 km from the South American continent, these 19 islands and the surrounding marine reserve have been called a unique ‘living museum and showcase of evolution’. Located at the confluence of three ocean currents, the Galápagos are a ‘melting pot’ of marine species. Ongoing seismic and volcanic activity reflects the processes that formed the islands. These processes, together with the extreme isolation of the islands, led to the development of unusual animal life – such as the land iguana, the giant tortoise and the many types of finch – that inspired Charles Darwin’s theory of evolution by natural selection following his visit in 1835."
+ },
+ {
+  "id": "2",
+  "en": "City of Quito",
+  "zh": null,
+  "countries": [
+   "厄瓜多"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art."
+ },
+ {
+  "id": "3",
+  "en": "Aachen Cathedral",
+  "zh": "亞琛主教座堂",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages."
+ },
+ {
+  "id": "4",
+  "en": "L’Anse aux Meadows National Historic Site",
+  "zh": "蘭塞奧茲牧草地",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "At the tip of the Great Northern Peninsula of the island of Newfoundland, the remains of an 11th-century Viking settlement are evidence of the first European presence in North America. The excavated remains of wood-framed peat-turf buildings are similar to those found in Norse Greenland and Iceland."
+ },
+ {
+  "id": "8",
+  "en": "Ichkeul National Park",
+  "zh": "艾什凱勒湖",
+  "countries": [
+   "突尼西亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "x"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Ichkeul lake and wetland are a major stopover point for hundreds of thousands of migrating birds, such as ducks, geese, storks and pink flamingoes, who come to feed and nest there. Ichkeul is the last remaining lake in a chain that once extended across North Africa."
+ },
+ {
+  "id": "9",
+  "en": "Simien National Park",
+  "zh": "塞米恩國家公園",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Massive erosion over the years on the Ethiopian plateau has created one of the most spectacular landscapes in the world, with jagged mountain peaks, deep valleys and sharp precipices dropping some 1,500 m. The park is home to some extremely rare animals such as the Gelada baboon, the Simien fox and the Walia ibex, a goat found nowhere else in the world."
+ },
+ {
+  "id": "10",
+  "en": "Lower Valley of the Awash",
+  "zh": "阿瓦什低谷",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Awash valley contains one of the most important groupings of palaeontological sites on the African continent. The remains found at the site, the oldest of which date back at least 4 million years, provide evidence of human evolution which has modified our conception of the history of humankind. The most spectacular discovery came in 1974, when 52 fragments of a skeleton enabled the famous Lucy to be reconstructed."
+ },
+ {
+  "id": "12",
+  "en": "Tiya",
+  "zh": null,
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Tiya is among the most important of the roughly 160 archaeological sites discovered so far in the Soddo region, south of Addis Ababa. The site contains 36 monuments, including 32 carved stelae covered with symbols, most of which are difficult to decipher. They are the remains of an ancient Ethiopian culture whose age has not yet been precisely determined."
+ },
+ {
+  "id": "13",
+  "en": "Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia",
+  "zh": null,
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 2024,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located in the Upper Awash Valley in Ethiopia, the serial property is a cluster of prehistoric sites that preserve archaeological and palaeontological records – including footprints – that testify to the area’s occupation by the hominin groups from two million years ago. The sites, situated about 2,000 to 2,200 metres above sea level, yielded Homo erectus , Homo heidelbergensis and archaic Homo sapiens fossils, documented in well-dated strata in association with various tools made from volcanic rocks. The cultural sequence includes four consecutive phases of the Oldowan, Acheulean, Middle Stone Age and Late Stone Age techno-complexes. Fragments of palaeo-landscapes, preserved buried under volcanic and sedimentary deposits with fossil fauna and flora, allow reconstruction of the high-mountain ecosystem of the Ethiopian Highlands during the Pleistocene. Conclusions can thus be drawn on the adaptation of hominin groups to the challenges and climatic conditions of high altitudes."
+ },
+ {
+  "id": "15",
+  "en": "Aksum",
+  "zh": "阿克蘇姆",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ruins of the ancient city of Aksum are found close to Ethiopia's northern border. They mark the location of the heart of ancient Ethiopia, when the Kingdom of Aksum was the most powerful state between the Eastern Roman Empire and Persia. The massive ruins, dating from between the 1st and the 13th century A.D., include monolithic obelisks, giant stelae, royal tombs and the ruins of ancient castles. Long after its political decline in the 10th century, Ethiopian emperors continued to be crowned in Aksum."
+ },
+ {
+  "id": "17",
+  "en": "Lower Valley of the Omo",
+  "zh": "奧莫河",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "A prehistoric site near Lake Turkana, the lower valley of the Omo is renowned the world over. The discovery of many fossils there, especially Homo gracilis , has been of fundamental importance in the study of human evolution."
+ },
+ {
+  "id": "18",
+  "en": "Rock-Hewn Churches, Lalibela",
+  "zh": "拉利貝拉岩石教堂",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The 11 medieval monolithic cave churches of this 13th-century 'New Jerusalem' are situated in a mountainous region in the heart of Ethiopia near a traditional village with circular-shaped dwellings. Lalibela is a high place of Ethiopian Christianity, still today a place of pilmigrage and devotion."
+ },
+ {
+  "id": "19",
+  "en": "Fasil Ghebbi, Gondar Region",
+  "zh": "法西爾蓋比",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the 16th and 17th centuries, the fortress-city of Fasil Ghebbi was the residence of the Ethiopian emperor Fasilides and his successors. Surrounded by a 900-m-long wall, the city contains palaces, churches, monasteries and unique public and private buildings marked by Hindu and Arab influences, subsequently transformed by the Baroque style brought to Gondar by the Jesuit missionaries."
+ },
+ {
+  "id": "20",
+  "en": "Ancient City of Damascus",
+  "zh": "大馬士革古城",
+  "countries": [
+   "敘利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary."
+ },
+ {
+  "id": "21",
+  "en": "Ancient City of Aleppo",
+  "zh": "阿勒頗古城",
+  "countries": [
+   "敘利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation."
+ },
+ {
+  "id": "22",
+  "en": "Ancient City of Bosra",
+  "zh": null,
+  "countries": [
+   "敘利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls."
+ },
+ {
+  "id": "23",
+  "en": "Site of Palmyra",
+  "zh": "帕爾米拉",
+  "countries": [
+   "敘利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": true,
+  "en_desc": "An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monumental ruins of a great city that was one of the most important cultural centres of the ancient world. From the 1st to the 2nd century, the art and architecture of Palmyra, standing at the crossroads of several civilizations, married Graeco-Roman techniques with local traditions and Persian influences."
+ },
+ {
+  "id": "24",
+  "en": "Nahanni National Park",
+  "zh": "納漢尼國家公園",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located along the South Nahanni River, one of the most spectacular wild rivers in North America, this park contains deep canyons and huge waterfalls, as well as a unique limestone cave system. The park is also home to animals of the boreal forest, such as wolves, grizzly bears and caribou. Dall's sheep and mountain goats are found in the park's alpine environment."
+ },
+ {
+  "id": "25",
+  "en": "Djoudj National Bird Sanctuary",
+  "zh": "朱賈國家鳥類保護區",
+  "countries": [
+   "塞內加爾"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant."
+ },
+ {
+  "id": "26",
+  "en": "Island of Gorée",
+  "zh": "格雷島",
+  "countries": [
+   "塞內加爾"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation."
+ },
+ {
+  "id": "27",
+  "en": "Mesa Verde National Park",
+  "zh": "梅薩維德國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "A great concentration of ancestral Pueblo Indian dwellings, built from the 6th to the 12th century, can be found on the Mesa Verde plateau in south-west Colorado at an altitude of more than 2,600 m. Some 4,400 sites have been recorded, including villages built on the Mesa top. There are also imposing cliff dwellings, built of stone and comprising more than 100 rooms."
+ },
+ {
+  "id": "28",
+  "en": "Yellowstone National Park",
+  "zh": "黃石國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The vast natural forest of Yellowstone National Park covers nearly 9,000 km 2 ; 96% of the park lies in Wyoming, 3% in Montana and 1% in Idaho. Yellowstone contains half of all the world's known geothermal features, with more than 10,000 examples. It also has the world's largest concentration of geysers (more than 300 geyers, or two thirds of all those on the planet). Established in 1872, Yellowstone is equally known for its wildlife, such as grizzly bears, wolves, bison and wapitis."
+ },
+ {
+  "id": "29",
+  "en": "Historic Centre of Kraków",
+  "zh": "克拉科夫老城",
+  "countries": [
+   "波蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1978,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Historic Centre of Kraków, the former capital of Poland, is situated at the foot of the Royal Wawel Castle. The 13th-century merchants' town has Europe's largest market square and numerous historical houses, palaces and churches with their magnificent interiors. Further evidence of the town's fascinating history is provided by the remnants of the 14th-century fortifications and the medieval site of Kazimierz with its ancient synagogues in the southern part of town, Jagellonian University and the Gothic cathedral where the kings of Poland were buried."
+ },
+ {
+  "id": "30",
+  "en": "Historic Centre of Warsaw",
+  "zh": "華沙老城",
+  "countries": [
+   "波蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "During the Warsaw Uprising in August 1944, more than 85% of Warsaw's historic centre was destroyed by Nazi troops. After the war, a five-year reconstruction campaign by its citizens resulted in today's meticulous restoration of the Old Town, with its churches, palaces and market-place. It is an outstanding example of a near-total reconstruction of a span of history covering the 13th to the 20th century."
+ },
+ {
+  "id": "31",
+  "en": "Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>",
+  "zh": "奧斯威辛 - 比克瑙國家博物館",
+  "countries": [
+   "波蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The fortified walls, barbed wire, platforms, barracks, gallows, gas chambers and cremation ovens show the conditions within which the Nazi genocide took place in the former concentration and extermination camp of Auschwitz-Birkenau, the largest in the Third Reich. According to historical investigations, 1.5 million people, among them a great number of Jews, were systematically starved, tortured and murdered in this camp, the symbol of humanity's cruelty to its fellow human beings in the 20th century."
+ },
+ {
+  "id": "32",
+  "en": "Wieliczka and Bochnia Royal Salt Mines",
+  "zh": null,
+  "countries": [
+   "波蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1978,
+  "ext": [
+   2008,
+   2013
+  ],
+  "danger": false,
+  "en_desc": "The deposit of rock salt in Wieliczka and Bochnia has been mined since the 13th century. This major industrial undertaking has royal status and is the oldest of its type in Europe. The site is a serial property consisting of Wieliczka and Bochnia salt mines and Wieliczka Saltworks Castle. The Wieliczka and Bochnia Royal Salt Mines illustrate the historic stages of the development of mining techniques in Europe from the 13th to the 20th centuries: both mines have hundreds of kilometers of galleries with works of art, underground chapels and statues sculpted in the salt, making a fascinating pilgrimage into the past. The mines were administratively and technically run by Wieliczka Saltworks Castle, which dates from the medieval period and has been rebuilt several times in the course of its history."
+ },
+ {
+  "id": "33",
+  "en": "Białowieża Forest",
+  "zh": null,
+  "countries": [
+   "白俄羅斯",
+   "波蘭"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [
+   1992,
+   2014
+  ],
+  "danger": false,
+  "en_desc": "The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison."
+ },
+ {
+  "id": "34",
+  "en": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+  "zh": "迦納城堡",
+  "countries": [
+   "迦納"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The remains of fortified trading-posts, erected between 1482 and 1786, can still be seen along the coast of Ghana between Keta and Beyin. They were links in the trade routes established by the Portuguese in many areas of the world during their era of great maritime exploration."
+ },
+ {
+  "id": "35",
+  "en": "Asante Traditional Buildings",
+  "zh": "阿散蒂傳統建築",
+  "countries": [
+   "迦納"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "v"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "To the north-east of Kumasi, these are the last material remains of the great Asante civilization, which reached its high point in the 18th century. Since the dwellings are made of earth, wood and straw, they are vulnerable to the onslaught of time and weather."
+ },
+ {
+  "id": "36",
+  "en": "Medina of Tunis",
+  "zh": "突尼西亞市的阿拉伯老城",
+  "countries": [
+   "突尼西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "v"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Under the Almohads and the Hafsids, from the 12th to the 16th century, Tunis was considered one of the greatest and wealthiest cities in the Islamic world. Some 700 monuments, including palaces, mosques, mausoleums, madrasas and fountains, testify to this remarkable past."
+ },
+ {
+  "id": "37",
+  "en": "Archaeological Site of Carthage",
+  "zh": "迦太基考古遺址",
+  "countries": [
+   "突尼西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Carthage was founded in the 9th century B.C. on the Gulf of Tunis. From the 6th century onwards, it developed into a great trading empire covering much of the Mediterranean and was home to a brilliant civilization. In the course of the long Punic wars, Carthage occupied territories belonging to Rome, which finally destroyed its rival in 146 B.C. A second – Roman – Carthage was then established on the ruins of the first."
+ },
+ {
+  "id": "38",
+  "en": "Amphitheatre of El Jem",
+  "zh": "埃爾傑姆圓形劇場",
+  "countries": [
+   "突尼西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The impressive ruins of the largest colosseum in North Africa, a huge amphitheatre which could hold up to 35,000 spectators, are found in the small village of El Jem. This 3rd-century monument illustrates the grandeur and extent of Imperial Rome."
+ },
+ {
+  "id": "39",
+  "en": "Ngorongoro Conservation Area",
+  "zh": "恩戈羅恩戈羅自然保護區",
+  "countries": [
+   "坦尚尼亞"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "iv",
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [
+   2010
+  ],
+  "danger": false,
+  "en_desc": "The Ngorongoro Conservation Area spans vast expanses of highland plains, savanna, savanna woodlands and forests. Established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practicing traditional livestock grazing, it includes the spectacular Ngorongoro Crater, the world’s largest caldera. The property has global importance for biodiversity conservation due to the presence of globally threatened species, the density of wildlife inhabiting the area, and the annual migration of wildebeest, zebra, gazelles and other animals into the northern plains. Extensive archaeological research has also yielded a long sequence of evidence of human evolution and human-environment dynamics, including early hominid footprints dating back 3.6 million years."
+ },
+ {
+  "id": "42",
+  "en": "Boyana Church",
+  "zh": "博雅納教堂",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art."
+ },
+ {
+  "id": "43",
+  "en": "Madara Rider",
+  "zh": "馬達拉騎士浮雕",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801."
+ },
+ {
+  "id": "44",
+  "en": "Thracian Tomb of Kazanlak",
+  "zh": "卡贊勒克的色雷斯人墓",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period."
+ },
+ {
+  "id": "45",
+  "en": "Rock-Hewn Churches of Ivanovo",
+  "zh": "伊凡諾沃巖洞教堂",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting."
+ },
+ {
+  "id": "55",
+  "en": "Røros Mining Town and the Circumference",
+  "zh": null,
+  "countries": [
+   "挪威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 1980,
+  "ext": [
+   2010
+  ],
+  "danger": false,
+  "en_desc": "Røros Mining Town and the Circumference is linked to the copper mines, established in the 17th century and exploited for 333 years until 1977. The site comprises the Town and its industrial-rural cultural landscapes; Femundshytta, a smelter with its associated area; and the Winter Transport Route. Completely rebuilt after its destruction by Swedish troops in 1679, Røros contains about 2000 wooden one- and two-storey houses and a smelting house. Many of these buildings have preserved their blackened wooden façades, giving the town a medieval appearance. Surrounded by a buffer zone, coincident with the area of privileges (the Circumference) granted to the mining enterprise by the Danish-Norwegian Crown (1646), the property illustrates the establishment and flourishing of a lasting culture based on copper mining in a remote region with a harsh climate."
+ },
+ {
+  "id": "58",
+  "en": "Urnes Stave Church",
+  "zh": "烏爾內斯木板教堂",
+  "countries": [
+   "挪威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The wooden church of Urnes (the stavkirke ) stands in the natural setting of Sogn og Fjordane. It was built in the 12th and 13th centuries and is an outstanding example of traditional Scandinavian wooden architecture. It brings together traces of Celtic art, Viking traditions and Romanesque spatial structures."
+ },
+ {
+  "id": "59",
+  "en": "Bryggen",
+  "zh": "布呂根",
+  "countries": [
+   "挪威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Bryggen, the old wharf of Bergen, is a reminder of the town’s importance as part of the Hanseatic League’s trading empire from the 14th to the mid-16th century. Many fires, the last in 1955, have ravaged the characteristic wooden houses of Bryggen. Its rebuilding has traditionally followed old patterns and methods, thus leaving its main structure preserved, which is a relic of an ancient wooden urban structure once common in Northern Europe. Today, some 62 buildings remain of this former townscape."
+ },
+ {
+  "id": "63",
+  "en": "Virunga National Park",
+  "zh": "維龍加國家公園",
+  "countries": [
+   "剛果（金夏沙）"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there."
+ },
+ {
+  "id": "64",
+  "en": "Tikal National Park",
+  "zh": null,
+  "countries": [
+   "瓜地馬拉"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "iii",
+   "iv",
+   "ix",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the heart of the jungle, surrounded by lush vegetation, lies one of the major sites of Mayan civilization, inhabited from the 6th century B.C. to the 10th century A.D. The ceremonial centre contains superb temples and palaces, and public squares accessed by means of ramps. Remains of dwellings are scattered throughout the surrounding countryside."
+ },
+ {
+  "id": "65",
+  "en": "Antigua Guatemala",
+  "zh": "安提瓜瓜地馬拉",
+  "countries": [
+   "瓜地馬拉"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Antigua, the capital of the Captaincy-General of Guatemala, was founded in the early 16th century. Built 1,500 m above sea-level, in an earthquake-prone region, it was largely destroyed by an earthquake in 1773 but its principal monuments are still preserved as ruins. In the space of under three centuries the city, which was built on a grid pattern inspired by the Italian Renaissance, acquired a number of superb monuments."
+ },
+ {
+  "id": "71",
+  "en": "Dinosaur Provincial Park",
+  "zh": "省立恐龍公園",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In addition to its particularly beautiful scenery, Dinosaur Provincial Park – located at the heart of the province of Alberta's badlands – contains some of the most important fossil discoveries ever made from the 'Age of Reptiles', in particular about 35 species of dinosaur, dating back some 75 million years."
+ },
+ {
+  "id": "72",
+  "en": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+  "zh": "克盧恩/弗蘭格爾-聖伊萊亞斯/冰川灣/塔琴希尼-阿爾塞克",
+  "countries": [
+   "加拿大",
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [
+   1992,
+   1994
+  ],
+  "danger": false,
+  "en_desc": "These parks comprise an impressive complex of glaciers and high peaks on both sides of the border between Canada (Yukon Territory and British Columbia) and the United States (Alaska). The spectacular natural landscapes are home to many grizzly bears, caribou and Dall's sheep. The site contains the largest non-polar icefield in the world."
+ },
+ {
+  "id": "75",
+  "en": "Grand Canyon National Park",
+  "zh": "大峽谷國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Carved out by the Colorado River, the Grand Canyon (nearly 1,500 m deep) is the most spectacular gorge in the world. Located in the state of Arizona, it cuts across the Grand Canyon National Park. Its horizontal strata retrace the geological history of the past 2 billion years. There are also prehistoric traces of human adaptation to a particularly harsh environment."
+ },
+ {
+  "id": "76",
+  "en": "Everglades National Park",
+  "zh": "大沼澤地國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This site at the southern tip of Florida has been called 'a river of grass flowing imperceptibly from the hinterland into the sea'. The exceptional variety of its water habitats has made it a sanctuary for a large number of birds and reptiles, as well as for threatened species such as the manatee."
+ },
+ {
+  "id": "78",
+  "en": "Independence Hall",
+  "zh": "美國獨立紀念館",
+  "countries": [
+   "美國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Declaration of Independence (1776) and the Constitution of the United States (1787) were both signed in this building in Philadelphia. The universal principles of freedom and democracy set forth in these documents are of fundamental importance to American history and have also had a profound impact on law-makers around the world."
+ },
+ {
+  "id": "79",
+  "en": "Paphos",
+  "zh": null,
+  "countries": [
+   "賽普勒斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world."
+ },
+ {
+  "id": "80",
+  "en": "Mont-Saint-Michel and its Bay",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Perched on a rocky islet in the midst of vast sandbanks exposed to powerful tides between Normandy and Brittany stand the 'Wonder of the West', a Gothic-style Benedictine abbey dedicated to the archangel St Michael, and the village that grew up in the shadow of its great walls. Built between the 11th and 16th centuries, the abbey is a technical and artistic tour de force , having had to adapt to the problems posed by this unique natural site."
+ },
+ {
+  "id": "81",
+  "en": "Chartres Cathedral",
+  "zh": "沙特爾主教座堂",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Partly built starting in 1145, and then reconstructed over a 26-year period after the fire of 1194, Chartres Cathedral marks the high point of French Gothic art. The vast nave, in pure ogival style, the porches adorned with fine sculptures from the middle of the 12th century, and the magnificent 12th- and 13th-century stained-glass windows, all in remarkable condition, combine to make it a masterpiece."
+ },
+ {
+  "id": "83",
+  "en": "Palace and Park of Versailles",
+  "zh": "凡爾賽宮",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Palace of Versailles was the principal residence of the French kings from the time of Louis XIV to Louis XVI. Embellished by several generations of architects, sculptors, decorators and landscape architects, it provided Europe with a model of the ideal royal residence for over a century."
+ },
+ {
+  "id": "84",
+  "en": "Vézelay, Church and Hill",
+  "zh": "韋茲萊隱修院",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Shortly after its foundation in the 9th century, the Benedictine abbey of Vézelay acquired the relics of St Mary Magdalene and since then it has been an important place of pilgrimage. St Bernard preached the Second Crusade there in 1146 and Richard the Lion-Hearted and Philip II Augustus met there to leave for the Third Crusade in 1190. With its sculpted capitals and portal, the Madeleine of Vézelay – a 12th-century monastic church – is a masterpiece of Burgundian Romanesque art and architecture."
+ },
+ {
+  "id": "85",
+  "en": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+  "zh": "韋澤爾谷",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Vézère valley contains 147 prehistoric sites dating from the Palaeolithic and 25 decorated caves. It is particularly interesting from an ethnological and anthropological, as well as an aesthetic point of view because of its cave paintings, especially those of the Lascaux Cave, whose discovery in 1940 was of great importance for the history of prehistoric art. The hunting scenes show some 100 animal figures, which are remarkable for their detail, rich colours and lifelike quality."
+ },
+ {
+  "id": "86",
+  "en": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+  "zh": "孟菲斯及其墓地金字塔",
+  "countries": [
+   "埃及"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The capital of the Old Kingdom of Egypt has some extraordinary funerary monuments, including rock tombs, ornate mastabas, temples and pyramids. In ancient times, the site was considered one of the Seven Wonders of the World."
+ },
+ {
+  "id": "87",
+  "en": "Ancient Thebes with its Necropolis",
+  "zh": null,
+  "countries": [
+   "埃及"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Thebes, the city of the god Amon, was the capital of Egypt during the period of the Middle and New Kingdoms. With the temples and palaces at Karnak and Luxor, and the necropolises of the Valley of the Kings and the Valley of the Queens, Thebes is a striking testimony to Egyptian civilization at its height."
+ },
+ {
+  "id": "88",
+  "en": "Nubian Monuments from Abu Simbel to Philae",
+  "zh": "努比亞遺址",
+  "countries": [
+   "埃及"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This outstanding archaeological area contains such magnificent monuments as the Temples of Ramses II at Abu Simbel and the Sanctuary of Isis at Philae, which were saved from the rising waters of the Nile thanks to the International Campaign launched by UNESCO, in 1960 to 1980."
+ },
+ {
+  "id": "89",
+  "en": "Historic Cairo",
+  "zh": "開羅伊斯蘭老城",
+  "countries": [
+   "埃及"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "v",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Tucked away amid the modern urban area of Cairo lies one of the world's oldest Islamic cities, with its famous mosques, madrasas, hammams and fountains. Founded in the 10th century, it became the new centre of the Islamic world, reaching its golden age in the 14th century."
+ },
+ {
+  "id": "90",
+  "en": "Abu Mena",
+  "zh": "阿布米那",
+  "countries": [
+   "埃及"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296."
+ },
+ {
+  "id": "91",
+  "en": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+  "zh": null,
+  "countries": [
+   "義大利",
+   "梵蒂岡"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [
+   1990
+  ],
+  "danger": false,
+  "en_desc": "Founded, according to legend, by Romulus and Remus in 753 BC, Rome was first the centre of the Roman Republic, then of the Roman Empire, and it became the capital of the Christian world in the 4th century. The World Heritage site, extended in 1990 to the walls of Urban VIII, includes some of the major monuments of antiquity such as the Forums, the Mausoleum of Augustus, the Mausoleum of Hadrian, the Pantheon, Trajan’s Column and the Column of Marcus Aurelius, as well as the religious and public buildings of papal Rome."
+ }
+]

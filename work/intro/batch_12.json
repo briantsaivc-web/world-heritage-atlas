@@ -1,0 +1,1053 @@
+[
+ {
+  "id": "928",
+  "en": "Area de Conservación Guanacaste",
+  "zh": "瓜納卡斯特自然保護區",
+  "countries": [
+   "哥斯大黎加"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1999,
+  "ext": [
+   2004
+  ],
+  "danger": false,
+  "en_desc": "The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments."
+ },
+ {
+  "id": "929",
+  "en": "San Cristóbal de La Laguna",
+  "zh": "聖克里斯托巴-德拉拉古納",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "San Cristóbal de La Laguna, in the Canary Islands, has two nuclei: the original, unplanned Upper Town; and the Lower Town, the first ideal 'city-territory' laid out according to philosophical principles. Its wide streets and open spaces have a number of fine churches and public and private buildings dating from the 16th to the 18th century."
+ },
+ {
+  "id": "930",
+  "en": "Palmeral of Elche",
+  "zh": "帕梅拉爾",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "v"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Palmeral of Elche, a landscape of groves of date palms, was formally laid out, with elaborate irrigation systems, at the time the Muslim city of Elche was erected, towards the end of the tenth century A.C., when much of the Iberian peninsula was Arab. The Palmeral is an oasis, a system for agrarian production in arid areas. It is also a unique example of Arab agricultural practices on the European continent. Cultivation of date palms in Elche is known at least since the Iberian times, dating around the fifth century B.C."
+ },
+ {
+  "id": "931",
+  "en": "City of Graz – Historic Centre and Schloss Eggenberg",
+  "zh": null,
+  "countries": [
+   "奧地利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [
+   2010
+  ],
+  "danger": false,
+  "en_desc": "The City of Graz – Historic Centre and Schloss Eggenberg bear witness to an exemplary model of the living heritage of a central European urban complex influenced by the secular presence of the Habsburgs and the cultural and artistic role played by the main aristocratic families. They are a harmonious blend of the architectural styles and artistic movements that have succeeded each other from the Middle Ages until the 18th century, from the many neighbouring regions of Central and Mediterranean Europe. They embody a diversified and highly comprehensive ensemble of architectural, decorative and landscape examples of these interchanges of influence."
+ },
+ {
+  "id": "932",
+  "en": "Jurisdiction of Saint-Emilion",
+  "zh": "聖艾米倫區",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Viticulture was introduced to this fertile region of Aquitaine by the Romans, and intensified in the Middle Ages. The Saint-Emilion area benefited from its location on the pilgrimage route to Santiago de Compostela and many churches, monasteries and hospices were built there from the 11th century onwards. It was granted the special status of a 'jurisdiction' during the period of English rule in the 12th century. It is an exceptional landscape devoted entirely to wine-growing, with many fine historic monuments in its towns and villages."
+ },
+ {
+  "id": "933",
+  "en": "The Loire Valley between Sully-sur-Loire and Chalonnes",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Loire Valley is an outstanding cultural landscape of great beauty, containing historic towns and villages, great architectural monuments (the châteaux), and cultivated lands formed by many centuries of interaction between their population and the physical environment, primarily the river Loire itself."
+ },
+ {
+  "id": "934",
+  "en": "Laurisilva of Madeira",
+  "zh": "馬德拉的月桂林",
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Laurisilva of Madeira is an outstanding relict of a previously widespread laurel forest type. It is the largest surviving area of laurel forest and is believed to be 90% primary forest. It contains a unique suite of plants and animals, including many endemic species such as the Madeiran long-toed pigeon."
+ },
+ {
+  "id": "936",
+  "en": "Cueva de las Manos, Río Pinturas",
+  "zh": "手洞",
+  "countries": [
+   "阿根廷"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Cueva de las Manos, Río Pinturas, contains an exceptional assemblage of cave art, executed between 13,000 and 9,500 years ago. It takes its name (Cave of the Hands) from the stencilled outlines of human hands in the cave, but there are also many depictions of animals, such as guanacos ( Lama guanicoe ), still commonly found in the region, as well as hunting scenes. The people responsible for the paintings may have been the ancestors of the historic hunter-gatherer communities of Patagonia found by European settlers in the 19th century."
+ },
+ {
+  "id": "937",
+  "en": "Península Valdés",
+  "zh": "瓦爾德斯半島",
+  "countries": [
+   "阿根廷"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "x"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Península Valdés in Patagonia is a site of global significance for the conservation of marine mammals. It is home to an important breeding population of the endangered southern right whale as well as important breeding populations of southern elephant seals and southern sea lions. The orcas in this area have developed a unique hunting strategy to adapt to local coastal conditions."
+ },
+ {
+  "id": "938",
+  "en": "Sukur Cultural Landscape",
+  "zh": "宿庫盧文化景觀",
+  "countries": [
+   "奈及利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "v",
+   "vi"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Sukur Cultural Landscape, with the Palace of the Hidi (Chief) on a hill dominating the villages below, the terraced fields and their sacred symbols, and the extensive remains of a former flourishing iron industry, is a remarkably intact physical expression of a society and its spiritual and material culture."
+ },
+ {
+  "id": "939",
+  "en": "Archaeological Monuments Zone of Xochicalco",
+  "zh": "霍奇卡爾科",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Xochicalco is an exceptionally well-preserved example of a fortified political, religious and commercial centre from the troubled period of 650–900 that followed the break-up of the great Mesoamerican states such as Teotihuacan, Monte Albán, Palenque and Tikal."
+ },
+ {
+  "id": "940",
+  "en": "Historic Inner City of Paramaribo",
+  "zh": null,
+  "countries": [
+   "蘇利南"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Paramaribo is a former Dutch colonial town from the 17th and 18th centuries planted on the northern coast of tropical South America. The original and highly characteristic street plan of the historic centre remains intact. Its buildings illustrate the gradual fusion of Dutch architectural influence with traditional local techniques and materials."
+ },
+ {
+  "id": "941",
+  "en": "Archaeological Sites of Mycenae and Tiryns",
+  "zh": "邁錫尼和梯林斯的考古遺址",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The archaeological sites of Mycenae and Tiryns are the imposing ruins of the two greatest cities of the Mycenaean civilization, which dominated the eastern Mediterranean world from the 15th to the 12th century B.C. and played a vital role in the development of classical Greek culture. These two cities are indissolubly linked to the Homeric epics, the Iliad and the Odyssey , which have influenced European art and literature for more than three millennia."
+ },
+ {
+  "id": "942",
+  "en": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+  "zh": "神學家聖若望修道院",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The small island of Pátmos in the Dodecanese is reputed to be where St John the Theologian wrote both his Gospel and the Apocalypse. A monastery dedicated to the ‘beloved disciple’ was founded there in the late 10th century and it has been a place of pilgrimage and Greek Orthodox learning ever since. The fine monastic complex dominates the island. The old settlement of Chorá, associated with it, contains many religious and secular buildings."
+ },
+ {
+  "id": "943",
+  "en": "Belfries of Belgium and France",
+  "zh": "比利時和法國的鐘樓",
+  "countries": [
+   "比利時",
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [
+   2005
+  ],
+  "danger": false,
+  "en_desc": "Twenty-three belfries in the north of France and the belfry of Gembloux in Belgium were inscribed in 2005, as an extension to the 32 Belgian belfries inscribed in 1999 as Belfries of Flanders and Wallonia. Built between the 11th and 17th centuries, they showcase the Roman, Gothic, Renaissance and Baroque styles of architecture. They are highly significant tokens of the winning of civil liberties. While Italian, German and English towns mainly opted to build town halls, in part of north-western Europe, greater emphasis was placed on building belfries. Compared with the keep (symbol of the seigneurs) and the bell-tower (symbol of the Church), the belfry, the third tower in the urban landscape, symbolizes the power of the aldermen. Over the centuries, they came to represent the influence and wealth of the towns."
+ },
+ {
+  "id": "944",
+  "en": "Mountain Railways of India",
+  "zh": "印度山區鐵路",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1999,
+  "ext": [
+   2005,
+   2008
+  ],
+  "danger": false,
+  "en_desc": "This site includes three railways. The Darjeeling Himalayan Railway was the first, and is still the most outstanding, example of a hill passenger railway. Opened in 1881, its design applies bold and ingenious engineering solutions to the problem of establishing an effective rail link across a mountainous terrain of great beauty. The construction of the Nilgiri Mountain Railway, a 46-km long metre-gauge single-track railway in Tamil Nadu State was first proposed in 1854, but due to the difficulty of the mountainous location the work only started in 1891 and was completed in 1908. This railway, scaling an elevation of 326 m to 2,203 m, represented the latest technology of the time. The Kalka Shimla Railway, a 96-km long, single track working rail link built in the mid-19th century to provide a service to the highland town of Shimla is emblematic of the technical and material efforts to disenclave mountain populations through the railway. All three railways are still fully operational."
+ },
+ {
+  "id": "945",
+  "en": "Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+  "zh": "賈特拉帕蒂·希瓦吉·摩訶羅阇終點站",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Chhatrapati Shivaji Terminus, formerly known as Victoria Terminus Station, in Mumbai, is an outstanding example of Victorian Gothic Revival architecture in India, blended with themes deriving from Indian traditional architecture. The building, designed by the British architect F. W. Stevens, became the symbol of Bombay as the ‘Gothic City’ and the major international mercantile port of India. The terminal was built over 10 years, starting in 1878, according to a High Victorian Gothic design based on late medieval Italian models. Its remarkable stone dome, turrets, pointed arches and eccentric ground plan are close to traditional Indian palace architecture. It is an outstanding example of the meeting of two cultures, as British architects worked with Indian craftsmen to include Indian architectural tradition and idioms thus forging a new style unique to Bombay."
+ },
+ {
+  "id": "946",
+  "en": "Old Bridge Area of the Old City of Mostar",
+  "zh": null,
+  "countries": [
+   "波士尼亞與赫塞哥維納"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 2005,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The historic town of Mostar, spanning a deep valley of the Neretva River, developed in the 15th and 16th centuries as an Ottoman frontier town and during the Austro-Hungarian period in the 19th and 20th centuries. Mostar has long been known for its old Turkish houses and Old Bridge, Stari Most, after which it is named. In the 1990s conflict, however, most of the historic town and the Old Bridge, designed by the renowned architect Sinan, was destroyed. The Old Bridge was recently rebuilt and many of the edifices in the Old Town have been restored or rebuilt with the contribution of an international scientific committee established by UNESCO. The Old Bridge area, with its pre-Ottoman, eastern Ottoman, Mediterranean and western European architectural features, is an outstanding example of a multicultural urban settlement. The reconstructed Old Bridge and Old City of Mostar is a symbol of reconciliation, international co-operation and of the coexistence of diverse cultural, ethnic and religious communities."
+ },
+ {
+  "id": "948",
+  "en": "Hoi An Ancient Town",
+  "zh": "會安古鎮",
+  "countries": [
+   "越南"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "v"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site."
+ },
+ {
+  "id": "949",
+  "en": "My Son Sanctuary",
+  "zh": "美山聖地",
+  "countries": [
+   "越南"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence."
+ },
+ {
+  "id": "950",
+  "en": "Royal Hill of Ambohimanga",
+  "zh": "安布希曼加",
+  "countries": [
+   "馬達加斯加"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere."
+ },
+ {
+  "id": "951",
+  "en": "Phong Nha-Ke Bang National Park and Hin Nam No National Park",
+  "zh": "石林國家保護區",
+  "countries": [
+   "寮國",
+   "越南"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 2003,
+  "ext": [
+   2015,
+   2025
+  ],
+  "danger": false,
+  "en_desc": "This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts."
+ },
+ {
+  "id": "954",
+  "en": "Saint Catherine Area",
+  "zh": null,
+  "countries": [
+   "埃及"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Orthodox Monastery of St Catherine stands at the foot of Mount Horeb where, the Old Testament records, Moses received the Tablets of the Law. The mountain is known and revered by Muslims as Jebel Musa. The entire area is sacred to three world religions: Christianity, Islam, and Judaism. The Monastery, founded in the 6th century, is the oldest Christian monastery still in use for its initial function. Its walls and buildings of great significance to studies of Byzantine architecture and the Monastery houses outstanding collections of early Christian manuscripts and icons. The rugged mountainous landscape, containing numerous archaeological and religious sites and monuments, forms a perfect backdrop to the Monastery."
+ },
+ {
+  "id": "955",
+  "en": "Lorentz National Park",
+  "zh": "洛倫茨國家公園",
+  "countries": [
+   "印尼"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Lorentz National Park (2.35 million ha) is the largest protected area in South-East Asia. It is the only protected area in the world to incorporate a continuous, intact transect from snowcap to tropical marine environment, including extensive lowland wetlands. Located at the meeting-point of two colliding continental plates, the area has a complex geology with ongoing mountain formation as well as major sculpting by glaciation. The area also contains fossil sites which provide evidence of the evolution of life on New Guinea, a high level of endemism and the highest level of biodiversity in the region."
+ },
+ {
+  "id": "956",
+  "en": "Island of Saint-Louis",
+  "zh": "聖路易島",
+  "countries": [
+   "塞內加爾"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity."
+ },
+ {
+  "id": "958",
+  "en": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower",
+  "zh": null,
+  "countries": [
+   "亞塞拜然"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built on a site inhabited since the Palaeolithic period, the Walled City of Baku reveals evidence of Zoroastrian, Sasanian, Arabic, Persian, Shirvani, Ottoman, and Russian presence in cultural continuity. The Inner City (Icheri Sheher) has preserved much of its 12th-century defensive walls. The 12th-century Maiden Tower (Giz Galasy) is built over earlier structures dating from the 7th to 6th centuries BC, and the 15th-century Shirvanshahs' Palace is one of the pearls of Azerbaijan's architecture."
+ },
+ {
+  "id": "959",
+  "en": "Historic Quarter of the Seaport City of Valparaíso",
+  "zh": null,
+  "countries": [
+   "智利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The colonial city of Valparaíso presents an excellent example of late 19th-century urban and architectural development in Latin America. In its natural amphitheatre-like setting, the city is characterized by a vernacular urban fabric adapted to the hillsides that are dotted with a great variety of church spires. It contrasts with the geometrical layout utilized in the plain. The city has well preserved its interesting early industrial infrastructures, such as the numerous ‘elevators’ on the steep hillsides."
+ },
+ {
+  "id": "960",
+  "en": "Monastery of Geghard and the Upper Azat Valley",
+  "zh": "格加爾德修道院和上阿扎特山谷",
+  "countries": [
+   "亞美尼亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The monastery of Geghard contains a number of churches and tombs, most of them cut into the rock, which illustrate the very peak of Armenian medieval architecture. The complex of medieval buildings is set into a landscape of great natural beauty, surrounded by towering cliffs at the entrance to the Azat Valley."
+ },
+ {
+  "id": "963",
+  "en": "The Cathedral of St James in Šibenik",
+  "zh": "聖雅各伯主教座堂",
+  "countries": [
+   "克羅埃西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Cathedral of St James in Šibenik (1431-1535), on the Dalmatian coast, bears witness to the considerable exchanges in the field of monumental arts between Northern Italy, Dalmatia and Tuscany in the 15th and 16th centuries. The three architects who succeeded one another in the construction of the Cathedral - Francesco di Giacomo, Georgius Mathei Dalmaticus and Niccolò di Giovanni Fiorentino - developed a structure built entirely from stone and using unique construction techniques for the vaulting and the dome of the Cathedral. The form and the decorative elements of the Cathedral, such as a remarkable frieze decorated with 71 sculptured faces of men, women, and children, also illustrate the successful fusion of Gothic and Renaissance art."
+ },
+ {
+  "id": "965",
+  "en": "Rietveld Schröderhuis (Rietveld Schröder House)",
+  "zh": "里特費爾德的施洛德住宅",
+  "countries": [
+   "荷蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Rietveld Schröder House in Utrecht was commissioned by Ms Truus Schröder-Schräder, designed by the architect Gerrit Thomas Rietveld, and built in 1924. This small family house, with its interior, the flexible spatial arrangement, and the visual and formal qualities, was a manifesto of the ideals of the De Stijl group of artists and architects in the Netherlands in the 1920s, and has since been considered one of the icons of the Modern Movement in architecture."
+ },
+ {
+  "id": "966",
+  "en": "Ischigualasto / Talampaya Natural Parks",
+  "zh": "伊沙瓜拉斯托－塔拉姆佩雅自然公園",
+  "countries": [
+   "阿根廷"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "These two contiguous parks, extending over 275,300 ha in the desert region on the western border of the Sierra Pampeanas of central Argentina, contain the most complete continental fossil record known from the Triassic Period (245-208 million years ago). Six geological formations in the parks contain fossils of a wide range of ancestors of mammals, dinosaurs and plants revealing the evolution of vertebrates and the nature of palaeo-environments in the Triassic Period."
+ },
+ {
+  "id": "967",
+  "en": "Noel Kempff Mercado National Park",
+  "zh": "諾爾埃普夫墨爾加多國家公園",
+  "countries": [
+   "玻利維亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park."
+ },
+ {
+  "id": "968",
+  "en": "Agricultural Landscape of Southern Öland",
+  "zh": "厄蘭島南部農業景觀",
+  "countries": [
+   "瑞典"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau. Human beings have lived here for some five thousand years and adapted their way of life to the physical constraints of the island. As a consequence, the landscape is unique, with abundant evidence of continuous human settlement from prehistoric times to the present day."
+ },
+ {
+  "id": "970",
+  "en": "Wachau Cultural Landscape",
+  "zh": "瓦豪",
+  "countries": [
+   "奧地利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Wachau is a stretch of the Danube Valley between Melk and Krems, a landscape of high visual quality. It preserves in an intact and visible form many traces - in terms of architecture, (monasteries, castles, ruins), urban design, (towns and villages), and agricultural use, principally for the cultivation of vines - of its evolution since prehistoric times."
+ },
+ {
+  "id": "971",
+  "en": "Churches of Chiloé",
+  "zh": "奇洛埃的教堂群",
+  "countries": [
+   "智利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Churches of Chiloé represent a unique example in Latin America of an outstanding form of ecclesiastical wooden architecture. They represent a tradition initiated by the Jesuit Peripatetic Mission in the 17th and 18th centuries, continued and enriched by the Franciscans during the 19th century and still prevailing today. These churches embody the intangible richness of the Chiloé Archipelago, and bear witness to a successful fusion of indigenous and European culture, the full integration of its architecture in the landscape and environment, as well as to the spiritual values of the communities."
+ },
+ {
+  "id": "972",
+  "en": "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+  "zh": "琉球王國的城堡以及相關遺產群",
+  "countries": [
+   "日本"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Five hundred years of Ryukyuan history (12th-17th century) are represented by this group of sites and monuments. The ruins of the castles, on imposing elevated sites, are evidence for the social structure over much of that period, while the sacred sites provide mute testimony to the rare survival of an ancient form of religion into the modern age. The wide- ranging economic and cultural contacts of the Ryukyu Islands over that period gave rise to a unique culture."
+ },
+ {
+  "id": "973",
+  "en": "Bardejov Town Conservation Reserve",
+  "zh": null,
+  "countries": [
+   "斯洛伐克"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Bardejov is a small but exceptionally complete and well-preserved example of a fortified medieval town, which typifies the urbanisation in this region. Among other remarkable features, it also contains a small Jewish quarter around a fine 18th-century synagogue."
+ },
+ {
+  "id": "974",
+  "en": "Monastic Island of Reichenau",
+  "zh": "賴興瑙島",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The island of Reichenau on Lake Constance preserves the traces of the Benedictine monastery, founded in 724, which exercised remarkable spiritual, intellectual and artistic influence. The churches of St Mary and Marcus, St Peter and St Paul, and St George, mainly built between the 9th and 11th centuries, provide a panorama of early medieval monastic architecture in central Europe. Their wall paintings bear witness to impressive artistic activity."
+ },
+ {
+  "id": "975",
+  "en": "Zollverein Coal Mine Industrial Complex in Essen",
+  "zh": "關稅同盟煤礦工業建築群",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Zollverein industrial complex in Land Nordrhein-Westfalen consists of the complete infrastructure of a historical coal-mining site, with some 20th-century buildings of outstanding architectural merit. It constitutes remarkable material evidence of the evolution and decline of an essential industry over the past 150 years."
+ },
+ {
+  "id": "976",
+  "en": "Gyeongju Historic Areas",
+  "zh": "慶州歷史遺迹地區",
+  "countries": [
+   "南韓"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Gyeongju Historic Areas contain a remarkable concentration of outstanding examples of Korean Buddhist art, in the form of sculptures, reliefs, pagodas, and the remains of temples and palaces from the flowering, in particular between the 7th and 10th centuries, of this form of unique artistic expression."
+ },
+ {
+  "id": "977",
+  "en": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+  "zh": "高敞、和順、江華支石墓遺址",
+  "countries": [
+   "南韓"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The prehistoric cemeteries at Gochang, Hwasun, and Ganghwa contain many hundreds of examples of dolmens - tombs from the 1st millennium BC constructed of large stone slabs. They form part of the Megalithic culture, found in many parts of the world, but nowhere in such a concentrated form."
+ },
+ {
+  "id": "978",
+  "en": "Old Town of Corfu",
+  "zh": "克基拉",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 2007,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Old Town of Corfu, on the Island of Corfu off the western coasts of Albania and Greece, is located in a strategic position at the entrance of the Adriatic Sea, and has its roots in the 8th century BC. The three forts of the town, designed by renowned Venetian engineers, were used for four centuries to defend the maritime trading interests of the Republic of Venice against the Ottoman Empire. In the course of time, the forts were repaired and partly rebuilt several times, more recently under British rule in the 19th century. The mainly neoclassical housing stock of the Old Town is partly from the Venetian period, partly of later construction, notably the 19th century. As a fortified Mediterranean port, Corfu’s urban and port ensemble is notable for its high level of integrity and authenticity."
+ },
+ {
+  "id": "980",
+  "en": "Historic and Architectural Complex of the Kazan Kremlin",
+  "zh": "喀山克里姆林宮",
+  "countries": [
+   "俄羅斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built on an ancient site, the Kazan Kremlin dates from the Muslim period of the Golden Horde and the Kazan Khanate. It was conquered by Ivan the Terrible in 1552 and became the Christian See of the Volga Land. The only surviving Tatar fortress in Russia and an important place of pilgrimage, the Kazan Kremlin consists of an outstanding group of historic buildings dating from the 16th to 19th centuries, integrating remains of earlier structures of the 10th to 16th centuries."
+ },
+ {
+  "id": "981",
+  "en": "Bolgar Historical and Archaeological Complex",
+  "zh": "韃靼斯坦博爾格爾歷史和考古遺址",
+  "countries": [
+   "俄羅斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "vi"
+  ],
+  "year": 2014,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This property lies on the shores of the Volga River, south of its confluence with the River Kama, and south of the capital of Tatarstan, Kazan. It contains evidence of the medieval city of Bolgar, an early settlement of the civilization of Volga-Bolgars, which existed between the 7th and 15th centuries AD, and was the first capital of the Golden Horde in the 13th century. Bolgar represents the historical cultural exchanges and transformations of Eurasia over several centuries that played a pivotal role in the formation of civilizations, customs and cultural traditions. The property provides remarkable evidence of historic continuity and cultural diversity. It is a symbolic reminder of the acceptance of Islam by the Volga-Bolgars in AD 922 and remains a sacred pilgrimage destination to the Tatar Muslims."
+ },
+ {
+  "id": "982",
+  "en": "Ensemble of the Ferapontov Monastery",
+  "zh": "費拉邦多夫修道院",
+  "countries": [
+   "俄羅斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Ferapontov Monastery, in the Vologda region in northern Russia, is an exceptionally well-preserved and complete example of a Russian Orthodox monastic complex of the 15th-17th centuries, a period of great significance in the development of the unified Russian state and its culture. The architecture of the monastery is outstanding in its inventiveness and purity. The interior is graced by the magnificent wall paintings of Dionisy, the greatest Russian artist of the end of the 15th century."
+ },
+ {
+  "id": "983",
+  "en": "Historic Town of St George and Related Fortifications, Bermuda",
+  "zh": "百慕大群島上的聖喬治鎮及相關的要塞",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Town of St George, founded in 1612, is an outstanding example of the earliest English urban settlement in the New World. Its associated fortifications graphically illustrate the development of English military engineering from the 17th to the 20th century, being adapted to take account of the development of artillery over this period."
+ },
+ {
+  "id": "984",
+  "en": "Blaenavon Industrial Landscape",
+  "zh": "布萊納文工業區景觀",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The area around Blaenavon is evidence of the pre-eminence of South Wales as the world's major producer of iron and coal in the 19th century. All the necessary elements can still be seen - coal and ore mines, quarries, a primitive railway system, furnaces, workers' homes, and the social infrastructure of their community."
+ },
+ {
+  "id": "985",
+  "en": "Maloti-Drakensberg Park",
+  "zh": "馬羅提-德拉肯斯堡公園",
+  "countries": [
+   "賴索托",
+   "南非"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "iii",
+   "vii",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [
+   2013
+  ],
+  "danger": false,
+  "en_desc": "The Maloti-Drakensberg Park is a transnational property composed of the uKhahlamba Drakensberg National Park in South Africa and the Sehlathebe National Park in Lesotho. The site has exceptional natural beauty in its soaring basaltic buttresses, incisive dramatic cutbacks, and golden sandstone ramparts as well as visually spectacular sculptured arches, caves, cliffs, pillars and rock pools. The site's diversity of habitats protects a high level of endemic and globally important plants. The site harbors endangered species such as the Cape vulture ( Gyps coprotheres ) and the bearded vulture ( Gypaetus barbatus ). Lesotho’s Sehlabathebe National Park also harbors the Maloti minnow ( Pseudobarbus quathlambae ), a critically endangered fish species only found in this park. This spectacular natural site contains many caves and rock-shelters with the largest and most concentrated group of paintings in Africa south of the Sahara. They represent the spiritual life of the San people, who lived in this area over a period of 4,000 years."
+ },
+ {
+  "id": "986",
+  "en": "Ciudad Universitaria de Caracas",
+  "zh": "加拉加斯大學城",
+  "countries": [
+   "委內瑞拉"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Ciudad Universitaria de Caracas, built to the design of the architect Carlos Raúl Villanueva, between 1940 and 1960, is an outstanding example of the Modern Movement in architecture. The university campus integrates the large number of buildings and functions into a clearly articulated ensemble, including masterpieces of modern architecture and visual arts, such as the Aula Magna with the \"Clouds\" of Alexander Calder, the Olympic Stadium, and the Covered Plaza."
+ },
+ {
+  "id": "987",
+  "en": "Roman Walls of Lugo",
+  "zh": "盧戈羅馬城牆",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The walls of Lugo were built in the later part of the 3rd century to defend the Roman town of Lucus. The entire circuit survives intact and is the finest example of late Roman fortifications in western Europe."
+ },
+ {
+  "id": "988",
+  "en": "Catalan Romanesque Churches of the Vall de Boí",
+  "zh": "博伊谷地的羅馬式教堂建築",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The narrow Vall de Boí is situated in the high Pyrénées, in the Alta Ribagorça region and is surrounded by steep mountains. Each village in the valley contains a Romanesque church, and is surrounded by a pattern of enclosed fields. There are extensive seasonally-used grazing lands on the higher slopes."
+ },
+ {
+  "id": "989",
+  "en": "Archaeological Site of Atapuerca",
+  "zh": "阿塔普埃爾卡山",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "v"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The caves of the Sierra de Atapuerca contain a rich fossil record of the earliest human beings in Europe, from nearly one million years ago and extending up to the Common Era. They represent an exceptional reserve of data, the scientific study of which provides priceless information about the appearance and the way of life of these remote human ancestors."
+ },
+ {
+  "id": "990",
+  "en": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+  "zh": "阿西西古鎮的方濟各會修道院與大教堂",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Assisi, a medieval city built on a hill, is the birthplace of Saint Francis, closely associated with the work of the Franciscan Order. Its medieval art masterpieces, such as the Basilica of San Francesco and paintings by Cimabue, Pietro Lorenzetti, Simone Martini and Giotto, have made Assisi a fundamental reference point for the development of Italian and European art and architecture."
+ },
+ {
+  "id": "993",
+  "en": "Historic Centre of the Town of Goiás",
+  "zh": null,
+  "countries": [
+   "巴西"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Goiás testifies to the occupation and colonization of the lands of central Brazil in the 18th and 19th centuries. The urban layout is an example of the organic development of a mining town, adapted to the conditions of the site. Although modest, both public and private architecture form a harmonious whole, thanks to the coherent use of local materials and vernacular techniques."
+ },
+ {
+  "id": "994",
+  "en": "Curonian Spit",
+  "zh": "庫爾斯沙嘴",
+  "countries": [
+   "立陶宛",
+   "俄羅斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "v"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects."
+ },
+ {
+  "id": "995",
+  "en": "Jesuit Block and Estancias of Córdoba",
+  "zh": "科爾多巴耶穌會牧場和街區",
+  "countries": [
+   "阿根廷"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Jesuit Block in Córdoba, heart of the former Jesuit Province of Paraguay, contains the core buildings of the Jesuit system: the university, the church and residence of the Society of Jesus, and the college. Along with the five estancias, or farming estates, they contain religious and secular buildings, which illustrate the unique religious, social, and economic experiment carried out in the world for a period of over 150 years in the 17th and 18th centuries."
+ },
+ {
+  "id": "996",
+  "en": "Historic Centre of Brugge",
+  "zh": null,
+  "countries": [
+   "比利時"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Brugge is an outstanding example of a medieval historic settlement, which has maintained its historic fabric as this has evolved over the centuries, and where original Gothic constructions form part of the town's identity. As one of the commercial and cultural capitals of Europe, Brugge developed cultural links to different parts of the world. It is closely associated with the school of Flemish Primitive painting."
+ },
+ {
+  "id": "998",
+  "en": "Central Amazon Conservation Complex",
+  "zh": "亞馬孫河中心綜合保護區",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [
+   2003
+  ],
+  "danger": false,
+  "en_desc": "The Central Amazon Conservation Complex makes up the largest protected area in the Amazon Basin and is one of the planet’s richest regions in terms of biodiversity. It also includes an important sample of varzea ecosystems, igapó forests, lakes and channels which take the form of a constantly evolving aquatic mosaic that is home to the largest array of electric fish in the world. The site protects key threatened species, including giant arapaima fish, the Amazonian manatee, the black caiman and two species of river dolphin."
+ },
+ {
+  "id": "999",
+  "en": "Pantanal Conservation Area",
+  "zh": "潘特納爾濕地",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Pantanal Conservation Area consists of a cluster of four protected areas with a total area of 187,818 ha. Located in western central Brazil at the south-west corner of the State of Mato Grosso, the site represents 1.3% of Brazil's Pantanal region, one of the world's largest freshwater wetland ecosystems. The headwaters of the region's two major river systems, the Cuiabá and the Paraguay rivers, are located here, and the abundance and diversity of its vegetation and animal life are spectacular."
+ },
+ {
+  "id": "1000",
+  "en": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+  "zh": null,
+  "countries": [
+   "巴西"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Peaks of the Southern Atlantic submarine ridge form the Fernando de Noronha Archipelago and Rocas Atoll off the coast of Brazil. They represent a large proportion of the island surface of the South Atlantic and their rich waters are extremely important for the breeding and feeding of tuna, shark, turtle and marine mammals. The islands are home to the largest concentration of tropical seabirds in the Western Atlantic. Baia de Golfinhos has an exceptional population of resident dolphin and at low tide the Rocas Atoll provides a spectacular seascape of lagoons and tidal pools teeming with fish."
+ }
+]

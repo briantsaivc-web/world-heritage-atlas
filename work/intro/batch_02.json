@@ -1,0 +1,1055 @@
+[
+ {
+  "id": "93",
+  "en": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+  "zh": "恩寵聖母",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The refectory of the Convent of Santa Maria delle Grazie forms an integral part of this architectural complex, begun in Milan in 1463 and reworked at the end of the 15th century by Bramante. On the north wall is The Last Supper , the unrivalled masterpiece painted between 1495 and 1497 by Leonardo da Vinci, whose work was to herald a new era in the history of art."
+ },
+ {
+  "id": "94",
+  "en": "Rock Drawings in Valcamonica",
+  "zh": "卡莫尼卡谷地巖畫",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Valcamonica, situated in the Lombardy plain, has one of the world's greatest collections of prehistoric petroglyphs – more than 140,000 symbols and figures carved in the rock over a period of 8,000 years and depicting themes connected with agriculture, navigation, war and magic."
+ },
+ {
+  "id": "95",
+  "en": "Old City of Dubrovnik",
+  "zh": "杜布羅夫尼克舊城",
+  "countries": [
+   "克羅埃西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [
+   1994
+  ],
+  "danger": false,
+  "en_desc": "The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO."
+ },
+ {
+  "id": "96",
+  "en": "Stari Ras and Sopoćani",
+  "zh": null,
+  "countries": [
+   "塞爾維亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "On the outskirts of Stari Ras, the first capital of Serbia, there is an impressive group of medieval monuments consisting of fortresses, churches and monasteries. The monastery at Sopoćani is a reminder of the contacts between Western civilization and the Byzantine world."
+ },
+ {
+  "id": "97",
+  "en": "Historical Complex of Split with the Palace of Diocletian",
+  "zh": "斯普利特歷史建築群及戴克裡先宮",
+  "countries": [
+   "克羅埃西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area."
+ },
+ {
+  "id": "98",
+  "en": "Plitvice Lakes National Park",
+  "zh": "普利特維采湖群國家公園",
+  "countries": [
+   "克羅埃西亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix"
+  ],
+  "year": 1979,
+  "ext": [
+   2000
+  ],
+  "danger": false,
+  "en_desc": "The waters flowing over the limestone and chalk have, over thousands of years, deposited travertine barriers, creating natural dams which in turn have created a series of beautiful lakes, caves and waterfalls. These geological processes continue today. The forests in the park are home to bears, wolves and many rare bird species."
+ },
+ {
+  "id": "99",
+  "en": "Natural and Cultural Heritage of the Ohrid region",
+  "zh": "奧赫裡德地區文化歷史遺蹟及其自然景觀世界文化與自然雙重遺產",
+  "countries": [
+   "阿爾巴尼亞",
+   "北馬其頓"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "iii",
+   "iv",
+   "vii"
+  ],
+  "year": 1979,
+  "ext": [
+   2019,
+   1980
+  ],
+  "danger": false,
+  "en_desc": "A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century."
+ },
+ {
+  "id": "100",
+  "en": "Durmitor National Park",
+  "zh": null,
+  "countries": [
+   "蒙特內哥羅"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "x"
+  ],
+  "year": 1980,
+  "ext": [
+   2005
+  ],
+  "danger": false,
+  "en_desc": "This breathtaking national park was formed by glaciers and is traversed by rivers and underground streams. Along the Tara river canyon, which has the deepest gorges in Europe, the dense pine forests are interspersed with clear lakes and harbour a wide range of endemic flora."
+ },
+ {
+  "id": "102",
+  "en": "Al Qal'a of Beni Hammad",
+  "zh": "貝尼•哈瑪德的卡拉城",
+  "countries": [
+   "阿爾及利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In a mountainous site of extraordinary beauty, the ruins of the first capital of the Hammadid emirs, founded in 1007 and demolished in 1152, provide an authentic picture of a fortified Muslim city. The mosque, whose prayer room has 13 aisles with eight bays, is one of the largest in Algeria."
+ },
+ {
+  "id": "111",
+  "en": "Bale Mountains National Park",
+  "zh": "巴萊山國家公園",
+  "countries": [
+   "衣索比亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 2023,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This property protects a landscape mosaic of extraordinary beauty that is shaped by the combined forces of ancient lava outpourings, glaciation and the dissection by the Great Rift Valley. It features volcanic peaks and ridges, dramatic escarpments, sweeping valleys, glacial lakes, lush forests, deep gorges and numerous waterfalls, creating exceptional natural beauty. The property harbours diverse and unique biodiversity at ecosystem, species and genetic levels, and five major rivers originate within the Park, estimated to supply water and support the livelihoods of millions of people in and beyond Ethiopia."
+ },
+ {
+  "id": "113",
+  "en": "Tchogha Zanbil",
+  "zh": "恰高·佔比爾",
+  "countries": [
+   "伊朗"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ruins of the holy city of the Kingdom of Elam, surrounded by three huge concentric walls, are found at Tchogha Zanbil. Founded c. 1250 B.C., the city remained unfinished after it was invaded by Ashurbanipal, as shown by the thousands of unused bricks left at the site."
+ },
+ {
+  "id": "114",
+  "en": "Persepolis",
+  "zh": "波斯波利斯",
+  "countries": [
+   "伊朗"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded by Darius I in 518 B.C., Persepolis was the capital of the Achaemenid Empire. It was built on an immense half-artificial, half-natural terrace, where the king of kings created an impressive palace complex inspired by Mesopotamian models. The importance and quality of the monumental ruins make it a unique archaeological site."
+ },
+ {
+  "id": "115",
+  "en": "Meidan Emam, Esfahan",
+  "zh": "伊瑪目廣場",
+  "countries": [
+   "伊朗"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "v",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built by Shah Abbas I the Great at the beginning of the 17th century, and bordered on all sides by monumental buildings linked by a series of two-storeyed arcades, the site is known for the Royal Mosque, the Mosque of Sheykh Lotfollah, the magnificent Portico of Qaysariyyeh and the 15th-century Timurid palace. They are an impressive testimony to the level of social and cultural life in Persia during the Safavid era."
+ },
+ {
+  "id": "116",
+  "en": "Old Towns of Djenné",
+  "zh": null,
+  "countries": [
+   "馬利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks ( toguere ) as protection from the seasonal floods."
+ },
+ {
+  "id": "119",
+  "en": "Timbuktu",
+  "zh": null,
+  "countries": [
+   "馬利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "v"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Home of the prestigious Koranic Sankore University and other madrasas , Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification."
+ },
+ {
+  "id": "120",
+  "en": "Sagarmatha National Park",
+  "zh": "薩加瑪塔國家公園",
+  "countries": [
+   "尼泊爾"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site."
+ },
+ {
+  "id": "121",
+  "en": "Kathmandu Valley",
+  "zh": "加德滿都谷地",
+  "countries": [
+   "尼泊爾"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The cultural heritage of the Kathmandu Valley is illustrated by seven groups of monuments and buildings which display the full range of historic and artistic achievements for which the Kathmandu Valley is world famous. The seven include the Durbar Squares of Hanuman Dhoka (Kathmandu), Patan and Bhaktapur, the Buddhist stupas of Swayambhu and Bauddhanath and the Hindu temples of Pashupati and Changu Narayan."
+ },
+ {
+  "id": "124",
+  "en": "Historic Town of Ouro Preto",
+  "zh": "歐魯普雷圖歷史名鎮",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded at the end of the 17th century, Ouro Preto (Black Gold) was the focal point of the gold rush and Brazil’s golden age in the 18th century. With the exhaustion of the gold mines in the 19th century, the city’s influence declined but many churches, bridges and fountains remain as a testimony to its past prosperity and the exceptional talent of the Baroque sculptor Aleijadinho."
+ },
+ {
+  "id": "125",
+  "en": "Natural and Culturo-Historical Region of Kotor",
+  "zh": "科托爾自然保護區和文化歷史區",
+  "countries": [
+   "蒙特內哥羅"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1979,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the Middle Ages, this natural harbour on the Adriatic coast in Montenegro was an important artistic and commercial centre with its own famous schools of masonry and iconography. A large number of the monuments (including four Romanesque churches and the town walls) were seriously damaged by the 1979 earthquake but the town has been restored, largely with UNESCO’s help."
+ },
+ {
+  "id": "129",
+  "en": "Maya Site of Copan",
+  "zh": "科潘",
+  "countries": [
+   "宏都拉斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Discovered in 1570 by Diego García de Palacio, the ruins of Copán, one of the most important sites of the Mayan civilization, were not excavated until the 19th century. The ruined citadel and imposing public squares reveal the three main stages of development before the city was abandoned in the early 10th century."
+ },
+ {
+  "id": "130",
+  "en": "Ħal Saflieni Hypogeum",
+  "zh": "哈爾薩夫列尼地宮",
+  "countries": [
+   "馬爾他"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times."
+ },
+ {
+  "id": "131",
+  "en": "City of Valletta",
+  "zh": "法勒他",
+  "countries": [
+   "馬爾他"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The capital of Malta is inextricably linked to the history of the military and charitable Order of St John of Jerusalem. It was ruled successively by the Phoenicians, Greeks, Carthaginians, Romans, Byzantines, Arabs and the Order of the Knights of St John. Valletta’s 320 monuments, all within an area of 55 ha, make it one of the most concentrated historic areas in the world."
+ },
+ {
+  "id": "132",
+  "en": "Megalithic Temples of Malta",
+  "zh": null,
+  "countries": [
+   "馬爾他"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [
+   1992
+  ],
+  "danger": false,
+  "en_desc": "Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta."
+ },
+ {
+  "id": "134",
+  "en": "Redwood National and State Parks",
+  "zh": "紅木國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Redwood National Park comprises a region of coastal mountains bordering the Pacific Ocean north of San Francisco. It is covered with a magnificent forest of coastal redwood trees, the tallest and most impressive trees in the world. The marine and land life are equally remarkable, in particular the sea lions, the bald eagle and the endangered California brown pelican."
+ },
+ {
+  "id": "135",
+  "en": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+  "zh": null,
+  "countries": [
+   "巴拿馬"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade."
+ },
+ {
+  "id": "136",
+  "en": "Garamba National Park",
+  "zh": "加蘭巴國家公園",
+  "countries": [
+   "剛果（金夏沙）"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1980,
+  "ext": [
+   2026
+  ],
+  "danger": false,
+  "en_desc": "The property, located in the north-eastern Democratic Republic of the Congo, forms part of one of the last extensive and continuous forest–savanna mosaic landscapes in Central Africa. Representing a major ecological transition zone between the Guineo-Congolian forest biome and the Sudanian savanna, it encompasses a diverse range of habitats, including grasslands, wooded savannas, semi-deciduous forests, rivers, gallery forests, marshes, and papyrus wetlands. Ecological processes such as fire, herbivory, and seasonal flooding continue to shape the landscape and maintain its forest–savanna dynamics. The park supports a rich assemblage of wildlife, including significant populations of African Forest Elephants, Kordofan Giraffes, Common Hippopotamuses, African buffaloes, lions, pangolins, and numerous primate species. It is home to more than 150 mammal species, 459 bird species, 83 reptile species, and 43 amphibian species, including threatened and regional endemic species."
+ },
+ {
+  "id": "137",
+  "en": "Kahuzi-Biega National Park",
+  "zh": "卡胡茲－別加國家公園",
+  "countries": [
+   "剛果（金夏沙）"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "x"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": true,
+  "en_desc": "A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level."
+ },
+ {
+  "id": "138",
+  "en": "Archaeological Ruins at Moenjodaro",
+  "zh": "摩亨佐-達羅",
+  "countries": [
+   "巴基斯坦"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ruins of the huge city of Moenjodaro – built entirely of unbaked brick in the 3rd millennium B.C. – lie in the Indus valley. The acropolis, set on high embankments, the ramparts, and the lower town, which is laid out according to strict rules, provide evidence of an early system of town planning."
+ },
+ {
+  "id": "139",
+  "en": "Taxila",
+  "zh": "塔克西拉",
+  "countries": [
+   "巴基斯坦"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "From the ancient Neolithic tumulus of Saraikala to the ramparts of Sirkap (2nd century B.C.) and the city of Sirsukh (1st century A.D.), Taxila illustrates the different stages in the development of a city on the Indus that was alternately influenced by Persia, Greece and Central Asia and which, from the 5th century B.C. to the 2nd century A.D., was an important Buddhist centre of learning."
+ },
+ {
+  "id": "140",
+  "en": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+  "zh": "塔克特依巴依佛教遺址和薩爾依巴赫洛古遺址",
+  "countries": [
+   "巴基斯坦"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1980,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Buddhist monastic complex of Takht-i-Bahi (Throne of Origins) was founded in the early 1st century. Owing to its location on the crest of a high hill, it escaped successive invasions and is still exceptionally well preserved. Nearby are the ruins of Sahr-i-Bahlol, a small fortified city dating from the same period."
+ },
+ {
+  "id": "143",
+  "en": "Historical Monuments at Makli, Thatta",
+  "zh": null,
+  "countries": [
+   "巴基斯坦"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The capital of three successive dynasties and later ruled by the Mughal emperors of Delhi, Thatta was constantly embellished from the 14th to the 18th century. The remains of the city and its necropolis provide a unique view of civilization in Sind."
+ },
+ {
+  "id": "144",
+  "en": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+  "zh": null,
+  "countries": [
+   "坦尚尼亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands."
+ },
+ {
+  "id": "145",
+  "en": "Los Glaciares National Park",
+  "zh": "冰川國家公園",
+  "countries": [
+   "阿根廷"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Los Glaciares National Park is an area of exceptional natural beauty, with rugged, towering mountains and numerous glacial lakes, including Lake Argentino, which is 160 km long. At its farthest end, three glaciers meet to dump their effluvia into the milky grey glacial water, launching massive igloo icebergs into the lake with thunderous splashes."
+ },
+ {
+  "id": "147",
+  "en": "Kakadu National Park",
+  "zh": "卡卡杜國家公園",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "vi",
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [
+   1987,
+   1992
+  ],
+  "danger": false,
+  "en_desc": "This unique archaeological and ethnological reserve, located in the Northern Territory, has been inhabited continuously for more than 40,000 years. The cave paintings, rock carvings and archaeological sites record the skills and way of life of the region’s inhabitants, from the hunter-gatherers of prehistoric times to the Aboriginal people still living there. It is a unique example of a complex of ecosystems, including tidal flats, floodplains, lowlands and plateaux, and provides a habitat for a wide range of rare or endemic species of plants and animals."
+ },
+ {
+  "id": "148",
+  "en": "Old City of Jerusalem and its Walls",
+  "zh": null,
+  "countries": [],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": true,
+  "en_desc": "As a holy city for Judaism, Christianity and Islam, Jerusalem has always been of great symbolic importance. Among its 220 historic monuments, the Dome of the Rock stands out: built in the 7th century, it is decorated with beautiful geometric and floral motifs. It is recognized by all three religions as the site of Abraham's sacrifice. The Wailing Wall delimits the quarters of the different religious communities, while the Resurrection rotunda in the Church of the Holy Sepulchre houses Christ's tomb."
+ },
+ {
+  "id": "149",
+  "en": "Archaeological Park and Ruins of Quirigua",
+  "zh": "基里瓜遺址",
+  "countries": [
+   "瓜地馬拉"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Inhabited since the 2nd century A.D., Quirigua had become during the reign of Cauac Sky (723–84) the capital of an autonomous and prosperous state. The ruins of Quirigua contain some outstanding 8th-century monuments and an impressive series of carved stelae and sculpted calendars that constitute an essential source for the study of Mayan civilization."
+ },
+ {
+  "id": "150",
+  "en": "Mammoth Cave National Park",
+  "zh": "猛獁洞國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Mammoth Cave National Park, located in the state of Kentucky, has the world's largest network of natural caves and underground passageways, which are characteristic examples of limestone formations. The park and its underground network of more than 560 surveyed km of passageways are home to a varied flora and fauna, including a number of endangered species."
+ },
+ {
+  "id": "151",
+  "en": "Olympic National Park",
+  "zh": "奧林匹克國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout."
+ },
+ {
+  "id": "153",
+  "en": "Niokolo-Koba National Park",
+  "zh": "尼奧科羅-科巴國家公園",
+  "countries": [
+   "塞內加爾"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "x"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians."
+ },
+ {
+  "id": "154",
+  "en": "Great Barrier Reef",
+  "zh": "大堡礁",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Great Barrier Reef is a site of remarkable variety and beauty on the north-east coast of Australia. It contains the world’s largest collection of coral reefs, with 400 types of coral, 1,500 species of fish and 4,000 types of mollusc. It also holds great scientific interest as the habitat of species such as the dugong (‘sea cow’) and the large green turtle, which are threatened with extinction."
+ },
+ {
+  "id": "155",
+  "en": "Mount Nimba Strict Nature Reserve",
+  "zh": "寧巴山嚴格自然保護區",
+  "countries": [
+   "象牙海岸",
+   "幾內亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [
+   1982
+  ],
+  "danger": true,
+  "en_desc": "Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools."
+ },
+ {
+  "id": "156",
+  "en": "Serengeti National Park",
+  "zh": "塞倫蓋提國家公園",
+  "countries": [
+   "坦尚尼亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world."
+ },
+ {
+  "id": "157",
+  "en": "S<U>G</U>ang Gwaay",
+  "zh": "尼斯亭斯",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The village of Ninstints (Nans Dins) is located on a small island off the west coast of the Queen Charlotte Islands (Haida Gwaii). Remains of houses, together with carved mortuary and memorial poles, illustrate the Haida people's art and way of life. The site commemorates the living culture of the Haida people and their relationship to the land and sea, and offers a visual key to their oral traditions."
+ },
+ {
+  "id": "158",
+  "en": "Head-Smashed-In Buffalo Jump",
+  "zh": "碎頭野牛跳崖",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In south-west Alberta, the remains of marked trails and an aboriginal camp, and a tumulus where vast quantities of buffalo (American Bison) skeletons can still be found, are evidence of a custom practised by aboriginal peoples of the North American plains for nearly 6,000 years. Using their excellent knowledge of the topography and of buffalo behaviour, they killed their prey by chasing them over a precipice; the carcasses were later carved up in the camp below."
+ },
+ {
+  "id": "159",
+  "en": "Darien National Park",
+  "zh": "達連國家公園",
+  "countries": [
+   "巴拿馬"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park."
+ },
+ {
+  "id": "160",
+  "en": "Palace and Park of Fontainebleau",
+  "zh": "楓丹白露宮",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "vi"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Used by the kings of France from the 12th century, the medieval royal hunting lodge of Fontainebleau, standing at the heart of a vast forest in the Ile-de-France, was transformed, enlarged and embellished in the 16th century by François I, who wanted to make a 'New Rome' of it. Surrounded by an immense park, the Italianate palace combines Renaissance and French artistic traditions."
+ },
+ {
+  "id": "162",
+  "en": "Amiens Cathedral",
+  "zh": "亞眠主教座堂",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Amiens Cathedral, in the heart of Picardy, is one of the largest 'classic' Gothic churches of the 13th century. It is notable for the coherence of its plan, the beauty of its three-tier interior elevation and the particularly fine display of sculptures on the principal facade and in the south transept."
+ },
+ {
+  "id": "163",
+  "en": "Roman Theatre and its Surroundings and the \"Triumphal Arch\" of Orange",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated in the Rhone valley, the ancient theatre of Orange, with its 103-m-long facade, is one of the best preserved of all the great Roman theatres. Built between A.D. 10 and 25, the Roman arch is one of the most beautiful and interesting surviving examples of a provincial triumphal arch from the reign of Augustus. It is decorated with low reliefs commemorating the establishment of the Pax Romana."
+ },
+ {
+  "id": "164",
+  "en": "Arles, Roman and Romanesque Monuments",
+  "zh": "阿爾勒古羅馬建築",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Arles is a good example of the adaptation of an ancient city to medieval European civilization. It has some impressive Roman monuments, of which the earliest – the arena, the Roman theatre and the cryptoporticus (subterranean galleries) – date back to the 1st century B.C. During the 4th century Arles experienced a second golden age, as attested by the baths of Constantine and the necropolis of Alyscamps. In the 11th and 12th centuries, Arles once again became one of the most attractive cities in the Mediterranean. Within the city walls, Saint-Trophime, with its cloister, is one of Provence's major Romanesque monuments."
+ },
+ {
+  "id": "165",
+  "en": "Cistercian Abbey of Fontenay",
+  "zh": "豐特萊隱修院",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This stark Burgundian monastery was founded by St Bernard in 1119. With its church, cloister, refectory, sleeping quarters, bakery and ironworks, it is an excellent illustration of the ideal of self-sufficiency as practised by the earliest communities of Cistercian monks."
+ },
+ {
+  "id": "166",
+  "en": "Sydney Opera House",
+  "zh": null,
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i"
+  ],
+  "year": 2007,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Inaugurated in 1973, the Sydney Opera House is a great architectural work of the 20th century that brings together multiple strands of creativity and innovation in both architectural form and structural design. A great urban sculpture set in a remarkable waterscape, at the tip of a peninsula projecting into Sydney Harbour, the building has had an enduring influence on architecture. The Sydney Opera House comprises three groups of interlocking vaulted ‘shells’ which roof two main performance halls and a restaurant. These shell-structures are set upon a vast platform and are surrounded by terrace areas that function as pedestrian concourses. In 1957, when the project of the Sydney Opera House was awarded by an international jury to Danish architect Jørn Utzon, it marked a radically new approach to construction."
+ },
+ {
+  "id": "167",
+  "en": "Willandra Lakes Region",
+  "zh": "威蘭德拉湖區",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "iii",
+   "viii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The fossil remains of a series of lakes and sand formations that date from the Pleistocene can be found in this region, together with archaeological evidence of human occupation dating from 45–60,000 years ago. It is a unique landmark in the study of human evolution on the Australian continent. Several well-preserved fossils of giant marsupials have also been found here."
+ },
+ {
+  "id": "168",
+  "en": "Speyer Cathedral",
+  "zh": "施派爾主教座堂",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Speyer Cathedral, a basilica with four towers and two domes, was founded by Conrad II in 1030 and remodelled at the end of the 11th century. It is one of the most important Romanesque monuments from the time of the Holy Roman Empire. The cathedral was the burial place of the German emperors for almost 300 years."
+ },
+ {
+  "id": "169",
+  "en": "Würzburg Residence with the Court Gardens and Residence Square",
+  "zh": "維爾茨堡官邸",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This magnificent Baroque palace – one of the largest and most beautiful in Germany and surrounded by wonderful gardens – was created under the patronage of the prince-bishops Lothar Franz and Friedrich Carl von Schönborn. It was built and decorated in the 18th century by an international team of architects, painters (including Tiepolo), sculptors and stucco-workers, led by Balthasar Neumann."
+ },
+ {
+  "id": "170",
+  "en": "Medina of Fez",
+  "zh": null,
+  "countries": [
+   "摩洛哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "v"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in the 9th century, Fez reached its height in the 13th–14th centuries under the Marinids, when it replaced Marrakesh as the capital of the kingdom. The urban fabric and the principal monuments in the medina – madrasas, fondouks , palaces, residences, mosques and fountains - date from this period. Although the political capital of Morocco was transferred to Rabat in 1912, Fez has retained its status as the country's cultural and spiritual centre."
+ },
+ {
+  "id": "171",
+  "en": "Fort and Shalamar Gardens in Lahore",
+  "zh": null,
+  "countries": [
+   "巴基斯坦"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1981,
+  "ext": [],
+  "danger": false,
+  "en_desc": "These are two masterpieces from the time of the brilliant Mughal civilization, which reached its height during the reign of the Emperor Shah Jahan. The fort contains marble palaces and mosques decorated with mosaics and gilt. The elegance of these splendid gardens, built near the city of Lahore on three terraces with lodges, waterfalls and large ornamental ponds, is unequalled."
+ },
+ {
+  "id": "173",
+  "en": "Stone Town of Zanzibar",
+  "zh": null,
+  "countries": [
+   "坦尚尼亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium."
+ },
+ {
+  "id": "174",
+  "en": "Historic Centre of Florence",
+  "zh": "佛羅倫薩歷史中心",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built on the site of an Etruscan settlement, Florence, the symbol of the Renaissance, rose to economic and cultural pre-eminence under the Medici in the 15th and 16th centuries. Its 600 years of extraordinary artistic activity can be seen above all in the 13th-century cathedral (Santa Maria del Fiore), the Church of Santa Croce, the Uffizi and the Pitti Palace, the work of great masters such as Giotto, Brunelleschi, Botticelli and Michelangelo."
+ },
+ {
+  "id": "175",
+  "en": "Medici Villas and Gardens in Tuscany",
+  "zh": "梅第奇別墅",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 2013,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Twelve villas and two gardens spread across the Tuscan landscape make up this site which bears testimony to the influence the Medici family exerted over modern European culture through its patronage of the arts. Built between the 15th and 17th centuries, they represent an innovative system of construction in harmony with nature and dedicated to leisure, the arts and knowledge. The villas embody an innovative form and function, a new type of princely residence that differed from both the farms owned by rich Florentines of the period and from the military might of baronial castles. The Medici villas form the first example of the connection between architecture, gardens, and the environment and became an enduring reference for princely residences throughout Italy and Europe. Their gardens and integration into the natural environment helped develop the appreciation of landscape characteristic Humanism and the Renaissance."
+ },
+ {
+  "id": "179",
+  "en": "Tassili n'Ajjer",
+  "zh": "阿杰爾的塔西利",
+  "countries": [
+   "阿爾及利亞"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "iii",
+   "vii",
+   "viii"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located in a strange lunar landscape of great geological interest, this site has one of the most important groupings of prehistoric cave art in the world. More than 15,000 drawings and engravings record the climatic changes, the animal migrations and the evolution of human life on the edge of the Sahara from 6000 BC to the first centuries of the present era. The geological formations are of outstanding scenic interest, with eroded sandstones forming ‘forests of rock’."
+ }
+]

@@ -1,0 +1,1577 @@
+[
+{
+"iso": "IT",
+"en": "Poland",
+"zh": "義大利",
+"regions": [
+"europe"
+],
+"n": 62
+},
+{
+"iso": "CN",
+"en": "China",
+"zh": "中國",
+"regions": [
+"asia"
+],
+"n": 61
+},
+{
+"iso": "FR",
+"en": "Italy",
+"zh": "法國",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 56
+},
+{
+"iso": "DE",
+"en": "France",
+"zh": "德國",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 55
+},
+{
+"iso": "ES",
+"en": "Germany",
+"zh": "西班牙",
+"regions": [
+"europe"
+],
+"n": 50
+},
+{
+"iso": "IN",
+"en": "Japan",
+"zh": "印度",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 45
+},
+{
+"iso": "MX",
+"en": "Mexico",
+"zh": "墨西哥",
+"regions": [
+"latam"
+],
+"n": 36
+},
+{
+"iso": "GB",
+"en": "Italy",
+"zh": "英國",
+"regions": [
+"europe"
+],
+"n": 35
+},
+{
+"iso": "RU",
+"en": "Russian Federation",
+"zh": "俄羅斯",
+"regions": [
+"asia",
+"europe"
+],
+"n": 33
+},
+{
+"iso": "IR",
+"en": "Iran (Islamic Republic of)",
+"zh": "伊朗",
+"regions": [
+"asia",
+"europe"
+],
+"n": 30
+},
+{
+"iso": "JP",
+"en": "Switzerland",
+"zh": "日本",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 27
+},
+{
+"iso": "US",
+"en": "United States of America",
+"zh": "美國",
+"regions": [
+"europe"
+],
+"n": 27
+},
+{
+"iso": "BR",
+"en": "Brazil",
+"zh": "巴西",
+"regions": [
+"latam"
+],
+"n": 26
+},
+{
+"iso": "CA",
+"en": "Canada",
+"zh": "加拿大",
+"regions": [
+"europe"
+],
+"n": 22
+},
+{
+"iso": "TR",
+"en": "Türkiye",
+"zh": "土耳其",
+"regions": [
+"europe"
+],
+"n": 22
+},
+{
+"iso": "AU",
+"en": "Australia",
+"zh": "澳洲",
+"regions": [
+"asia"
+],
+"n": 21
+},
+{
+"iso": "GR",
+"en": "Greece",
+"zh": "希臘",
+"regions": [
+"europe"
+],
+"n": 21
+},
+{
+"iso": "PL",
+"en": "Slovakia",
+"zh": "波蘭",
+"regions": [
+"europe"
+],
+"n": 18
+},
+{
+"iso": "CZ",
+"en": "Czechia",
+"zh": "捷克",
+"regions": [
+"europe"
+],
+"n": 17
+},
+{
+"iso": "PT",
+"en": "Spain",
+"zh": "葡萄牙",
+"regions": [
+"europe"
+],
+"n": 17
+},
+{
+"iso": "KR",
+"en": "Republic of Korea",
+"zh": "南韓",
+"regions": [
+"asia"
+],
+"n": 17
+},
+{
+"iso": "BE",
+"en": "Bosnia and Herzegovina",
+"zh": "比利時",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 16
+},
+{
+"iso": "SE",
+"en": "Sweden",
+"zh": "瑞典",
+"regions": [
+"europe"
+],
+"n": 15
+},
+{
+"iso": "CH",
+"en": "Croatia",
+"zh": "瑞士",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 13
+},
+{
+"iso": "PE",
+"en": "Peru",
+"zh": "秘魯",
+"regions": [
+"latam"
+],
+"n": 13
+},
+{
+"iso": "NL",
+"en": "Netherlands (Kingdom of the)",
+"zh": "荷蘭",
+"regions": [
+"europe"
+],
+"n": 13
+},
+{
+"iso": "DK",
+"en": "Germany",
+"zh": "丹麥",
+"regions": [
+"europe"
+],
+"n": 13
+},
+{
+"iso": "AT",
+"en": "Austria",
+"zh": "奧地利",
+"regions": [
+"europe"
+],
+"n": 12
+},
+{
+"iso": "AR",
+"en": "Argentina",
+"zh": "阿根廷",
+"regions": [
+"asia",
+"europe",
+"latam"
+],
+"n": 12
+},
+{
+"iso": "ZA",
+"en": "South Africa",
+"zh": "南非",
+"regions": [
+"africa"
+],
+"n": 12
+},
+{
+"iso": "ET",
+"en": "Ethiopia",
+"zh": "衣索比亞",
+"regions": [
+"africa"
+],
+"n": 12
+},
+{
+"iso": "RO",
+"en": "Slovenia",
+"zh": "羅馬尼亞",
+"regions": [
+"europe"
+],
+"n": 11
+},
+{
+"iso": "BG",
+"en": "Bulgaria",
+"zh": "保加利亞",
+"regions": [
+"europe"
+],
+"n": 10
+},
+{
+"iso": "HR",
+"en": "North Macedonia",
+"zh": "克羅埃西亞",
+"regions": [
+"europe"
+],
+"n": 10
+},
+{
+"iso": "ID",
+"en": "Indonesia",
+"zh": "印尼",
+"regions": [
+"asia"
+],
+"n": 10
+},
+{
+"iso": "TN",
+"en": "Tunisia",
+"zh": "突尼西亞",
+"regions": [
+"arab"
+],
+"n": 10
+},
+{
+"iso": "CO",
+"en": "Colombia",
+"zh": "哥倫比亞",
+"regions": [
+"latam"
+],
+"n": 9
+},
+{
+"iso": "VN",
+"en": "Viet Nam",
+"zh": "越南",
+"regions": [
+"asia"
+],
+"n": 9
+},
+{
+"iso": "CU",
+"en": "Cuba",
+"zh": "古巴",
+"regions": [
+"latam"
+],
+"n": 9
+},
+{
+"iso": "IL",
+"en": "Israel",
+"zh": "以色列",
+"regions": [
+"europe"
+],
+"n": 9
+},
+{
+"iso": "MA",
+"en": "Morocco",
+"zh": "摩洛哥",
+"regions": [
+"arab"
+],
+"n": 9
+},
+{
+"iso": "TH",
+"en": "Thailand",
+"zh": "泰國",
+"regions": [
+"asia"
+],
+"n": 9
+},
+{
+"iso": "SK",
+"en": "Switzerland",
+"zh": "斯洛伐克",
+"regions": [
+"europe"
+],
+"n": 8
+},
+{
+"iso": "UA",
+"en": "Ukraine",
+"zh": "烏克蘭",
+"regions": [
+"europe"
+],
+"n": 8
+},
+{
+"iso": "HU",
+"en": "Hungary",
+"zh": "匈牙利",
+"regions": [
+"europe"
+],
+"n": 8
+},
+{
+"iso": "FI",
+"en": "Finland",
+"zh": "芬蘭",
+"regions": [
+"europe"
+],
+"n": 8
+},
+{
+"iso": "NO",
+"en": "Republic of Moldova",
+"zh": "挪威",
+"regions": [
+"europe"
+],
+"n": 8
+},
+{
+"iso": "UZ",
+"en": "Uzbekistan",
+"zh": "烏茲別克",
+"regions": [
+"asia"
+],
+"n": 8
+},
+{
+"iso": "JO",
+"en": "Jordan",
+"zh": "約旦",
+"regions": [
+"arab"
+],
+"n": 8
+},
+{
+"iso": "KE",
+"en": "Kenya",
+"zh": "肯亞",
+"regions": [
+"africa"
+],
+"n": 8
+},
+{
+"iso": "SA",
+"en": "Saudi Arabia",
+"zh": "沙烏地阿拉伯",
+"regions": [
+"arab"
+],
+"n": 8
+},
+{
+"iso": "LK",
+"en": "Sri Lanka",
+"zh": "斯里蘭卡",
+"regions": [
+"asia"
+],
+"n": 8
+},
+{
+"iso": "BO",
+"en": "Bolivia (Plurinational State of)",
+"zh": "玻利維亞",
+"regions": [
+"latam"
+],
+"n": 7
+},
+{
+"iso": "CL",
+"en": "Chile",
+"zh": "智利",
+"regions": [
+"latam"
+],
+"n": 7
+},
+{
+"iso": "KZ",
+"en": "Kyrgyzstan",
+"zh": "哈薩克",
+"regions": [
+"asia"
+],
+"n": 7
+},
+{
+"iso": "SN",
+"en": "Senegal",
+"zh": "塞內加爾",
+"regions": [
+"africa"
+],
+"n": 7
+},
+{
+"iso": "MN",
+"en": "Mongolia",
+"zh": "蒙古",
+"regions": [
+"asia",
+"europe"
+],
+"n": 7
+},
+{
+"iso": "DZ",
+"en": "Algeria",
+"zh": "阿爾及利亞",
+"regions": [
+"arab"
+],
+"n": 7
+},
+{
+"iso": "EG",
+"en": "Egypt",
+"zh": "埃及",
+"regions": [
+"arab"
+],
+"n": 7
+},
+{
+"iso": "LB",
+"en": "Lebanon",
+"zh": "黎巴嫩",
+"regions": [
+"arab"
+],
+"n": 7
+},
+{
+"iso": "TZ",
+"en": "United Republic of Tanzania",
+"zh": "坦尚尼亞",
+"regions": [
+"africa"
+],
+"n": 7
+},
+{
+"iso": "IQ",
+"en": "Iraq",
+"zh": "伊拉克",
+"regions": [
+"arab"
+],
+"n": 6
+},
+{
+"iso": "MY",
+"en": "Malaysia",
+"zh": "馬來西亞",
+"regions": [
+"asia"
+],
+"n": 6
+},
+{
+"iso": "PK",
+"en": "Pakistan",
+"zh": "巴基斯坦",
+"regions": [
+"asia"
+],
+"n": 6
+},
+{
+"iso": "PH",
+"en": "Philippines",
+"zh": "菲律賓",
+"regions": [
+"asia"
+],
+"n": 6
+},
+{
+"iso": "PS",
+"en": "State of Palestine",
+"zh": "巴勒斯坦自治區",
+"regions": [
+"arab"
+],
+"n": 6
+},
+{
+"iso": "SY",
+"en": "Syrian Arab Republic",
+"zh": "敘利亞",
+"regions": [
+"arab"
+],
+"n": 6
+},
+{
+"iso": "BA",
+"en": "Belgium",
+"zh": "波士尼亞與赫塞哥維納",
+"regions": [
+"europe"
+],
+"n": 5
+},
+{
+"iso": "SI",
+"en": "Spain",
+"zh": "斯洛維尼亞",
+"regions": [
+"europe"
+],
+"n": 5
+},
+{
+"iso": "EC",
+"en": "Ecuador",
+"zh": "厄瓜多",
+"regions": [
+"latam"
+],
+"n": 5
+},
+{
+"iso": "AZ",
+"en": "Azerbaijan",
+"zh": "亞塞拜然",
+"regions": [
+"asia",
+"europe"
+],
+"n": 5
+},
+{
+"iso": "LT",
+"en": "Latvia",
+"zh": "立陶宛",
+"regions": [
+"europe"
+],
+"n": 5
+},
+{
+"iso": "RS",
+"en": "Serbia",
+"zh": "塞爾維亞",
+"regions": [
+"europe"
+],
+"n": 5
+},
+{
+"iso": "PA",
+"en": "Panama",
+"zh": "巴拿馬",
+"regions": [
+"latam"
+],
+"n": 5
+},
+{
+"iso": "CI",
+"en": "Côte d'Ivoire",
+"zh": "象牙海岸",
+"regions": [
+"africa"
+],
+"n": 5
+},
+{
+"iso": "TM",
+"en": "Turkmenistan",
+"zh": "土庫曼",
+"regions": [
+"asia"
+],
+"n": 5
+},
+{
+"iso": "TJ",
+"en": "Tajikistan",
+"zh": "塔吉克",
+"regions": [
+"asia"
+],
+"n": 5
+},
+{
+"iso": "ZW",
+"en": "Zimbabwe",
+"zh": "辛巴威",
+"regions": [
+"africa"
+],
+"n": 5
+},
+{
+"iso": "KH",
+"en": "Cambodia",
+"zh": "柬埔寨",
+"regions": [
+"asia"
+],
+"n": 5
+},
+{
+"iso": "CD",
+"en": "Democratic Republic of the Congo",
+"zh": "剛果（金夏沙）",
+"regions": [
+"africa"
+],
+"n": 5
+},
+{
+"iso": "LY",
+"en": "Libya",
+"zh": "利比亞",
+"regions": [
+"arab"
+],
+"n": 5
+},
+{
+"iso": "OM",
+"en": "Oman",
+"zh": "阿曼",
+"regions": [
+"arab"
+],
+"n": 5
+},
+{
+"iso": "YE",
+"en": "Yemen",
+"zh": "葉門",
+"regions": [
+"arab"
+],
+"n": 5
+},
+{
+"iso": "AL",
+"en": "Albania",
+"zh": "阿爾巴尼亞",
+"regions": [
+"europe"
+],
+"n": 4
+},
+{
+"iso": "BY",
+"en": "Belarus",
+"zh": "白俄羅斯",
+"regions": [
+"europe"
+],
+"n": 4
+},
+{
+"iso": "BF",
+"en": "Benin",
+"zh": "布吉納法索",
+"regions": [
+"africa"
+],
+"n": 4
+},
+{
+"iso": "ME",
+"en": "Montenegro",
+"zh": "蒙特內哥羅",
+"regions": [
+"europe"
+],
+"n": 4
+},
+{
+"iso": "CR",
+"en": "Costa Rica",
+"zh": "哥斯大黎加",
+"regions": [
+"latam"
+],
+"n": 4
+},
+{
+"iso": "LA",
+"en": "Lao People's Democratic Republic",
+"zh": "寮國",
+"regions": [
+"asia"
+],
+"n": 4
+},
+{
+"iso": "GE",
+"en": "Georgia",
+"zh": "喬治亞",
+"regions": [
+"europe"
+],
+"n": 4
+},
+{
+"iso": "GT",
+"en": "Guatemala",
+"zh": "瓜地馬拉",
+"regions": [
+"latam"
+],
+"n": 4
+},
+{
+"iso": "ML",
+"en": "Mali",
+"zh": "馬利",
+"regions": [
+"africa"
+],
+"n": 4
+},
+{
+"iso": "NP",
+"en": "Nepal",
+"zh": "尼泊爾",
+"regions": [
+"asia"
+],
+"n": 4
+},
+{
+"iso": "LV",
+"en": "Lithuania",
+"zh": "拉脫維亞",
+"regions": [
+"europe"
+],
+"n": 3
+},
+{
+"iso": "BJ",
+"en": "Burkina Faso",
+"zh": "貝南",
+"regions": [
+"africa"
+],
+"n": 3
+},
+{
+"iso": "NE",
+"en": "Niger",
+"zh": "尼日",
+"regions": [
+"africa"
+],
+"n": 3
+},
+{
+"iso": "CM",
+"en": "Congo",
+"zh": "喀麥隆",
+"regions": [
+"africa"
+],
+"n": 3
+},
+{
+"iso": "KG",
+"en": "Kazakhstan",
+"zh": "吉爾吉斯",
+"regions": [
+"asia"
+],
+"n": 3
+},
+{
+"iso": "AM",
+"en": "Armenia",
+"zh": "亞美尼亞",
+"regions": [
+"europe"
+],
+"n": 3
+},
+{
+"iso": "BH",
+"en": "Bahrain",
+"zh": "巴林",
+"regions": [
+"arab"
+],
+"n": 3
+},
+{
+"iso": "BD",
+"en": "Bangladesh",
+"zh": "孟加拉",
+"regions": [
+"asia"
+],
+"n": 3
+},
+{
+"iso": "CY",
+"en": "Cyprus",
+"zh": "賽普勒斯",
+"regions": [
+"europe"
+],
+"n": 3
+},
+{
+"iso": "KP",
+"en": "Democratic People's Republic of Korea",
+"zh": "北韓",
+"regions": [
+"asia"
+],
+"n": 3
+},
+{
+"iso": "IS",
+"en": "Iceland",
+"zh": "冰島",
+"regions": [
+"europe"
+],
+"n": 3
+},
+{
+"iso": "MG",
+"en": "Madagascar",
+"zh": "馬達加斯加",
+"regions": [
+"africa"
+],
+"n": 3
+},
+{
+"iso": "MW",
+"en": "Malawi",
+"zh": "馬拉威",
+"regions": [
+"africa"
+],
+"n": 3
+},
+{
+"iso": "MT",
+"en": "Malta",
+"zh": "馬爾他",
+"regions": [
+"europe"
+],
+"n": 3
+},
+{
+"iso": "NZ",
+"en": "New Zealand",
+"zh": "紐西蘭",
+"regions": [
+"asia"
+],
+"n": 3
+},
+{
+"iso": "SD",
+"en": "Sudan",
+"zh": "蘇丹",
+"regions": [
+"arab"
+],
+"n": 3
+},
+{
+"iso": "SR",
+"en": "Suriname",
+"zh": "蘇利南",
+"regions": [
+"latam"
+],
+"n": 3
+},
+{
+"iso": "UG",
+"en": "Uganda",
+"zh": "烏干達",
+"regions": [
+"africa"
+],
+"n": 3
+},
+{
+"iso": "AE",
+"en": "United Arab Emirates",
+"zh": "阿拉伯聯合大公國",
+"regions": [
+"arab"
+],
+"n": 3
+},
+{
+"iso": "UY",
+"en": "Uruguay",
+"zh": "烏拉圭",
+"regions": [
+"latam"
+],
+"n": 3
+},
+{
+"iso": "VE",
+"en": "Venezuela (Bolivarian Republic of)",
+"zh": "委內瑞拉",
+"regions": [
+"latam"
+],
+"n": 3
+},
+{
+"iso": "MK",
+"en": "Romania",
+"zh": "北馬其頓",
+"regions": [
+"europe"
+],
+"n": 2
+},
+{
+"iso": "EE",
+"en": "Estonia",
+"zh": "愛沙尼亞",
+"regions": [
+"europe"
+],
+"n": 2
+},
+{
+"iso": "CF",
+"en": "Cameroon",
+"zh": "中非共和國",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "CG",
+"en": "Central African Republic",
+"zh": "剛果（布拉薩）",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "GM",
+"en": "Gambia",
+"zh": "甘比亞",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "VA",
+"en": "Italy",
+"zh": "梵蒂岡",
+"regions": [
+"europe"
+],
+"n": 2
+},
+{
+"iso": "MZ",
+"en": "Mozambique",
+"zh": "莫三比克",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "AF",
+"en": "Afghanistan",
+"zh": "阿富汗",
+"regions": [
+"asia"
+],
+"n": 2
+},
+{
+"iso": "BW",
+"en": "Botswana",
+"zh": "波札那",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "TD",
+"en": "Chad",
+"zh": "查德",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "GA",
+"en": "Gabon",
+"zh": "加彭",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "GH",
+"en": "Ghana",
+"zh": "迦納",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "HN",
+"en": "Honduras",
+"zh": "宏都拉斯",
+"regions": [
+"latam"
+],
+"n": 2
+},
+{
+"iso": "IE",
+"en": "Ireland",
+"zh": "愛爾蘭",
+"regions": [
+"europe"
+],
+"n": 2
+},
+{
+"iso": "JM",
+"en": "Jamaica",
+"zh": "牙買加",
+"regions": [
+"latam"
+],
+"n": 2
+},
+{
+"iso": "MR",
+"en": "Mauritania",
+"zh": "茅利塔尼亞",
+"regions": [
+"arab"
+],
+"n": 2
+},
+{
+"iso": "MU",
+"en": "Mauritius",
+"zh": "模里西斯",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "MM",
+"en": "Myanmar",
+"zh": "緬甸",
+"regions": [
+"asia"
+],
+"n": 2
+},
+{
+"iso": "NA",
+"en": "Namibia",
+"zh": "納米比亞",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "NI",
+"en": "Nicaragua",
+"zh": "尼加拉瓜",
+"regions": [
+"latam"
+],
+"n": 2
+},
+{
+"iso": "NG",
+"en": "Nigeria",
+"zh": "奈及利亞",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "RW",
+"en": "Rwanda",
+"zh": "盧安達",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "SC",
+"en": "Seychelles",
+"zh": "塞席爾",
+"regions": [
+"africa"
+],
+"n": 2
+},
+{
+"iso": "MD",
+"en": "Norway",
+"zh": "摩爾多瓦",
+"regions": [
+"europe"
+],
+"n": 1
+},
+{
+"iso": "TG",
+"en": "Togo",
+"zh": "多哥",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "GN",
+"en": "Guinea",
+"zh": "幾內亞",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "LS",
+"en": "Lesotho",
+"zh": "賴索托",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "ZM",
+"en": "Zambia",
+"zh": "尚比亞",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "AD",
+"en": "Andorra",
+"zh": "安道爾",
+"regions": [
+"europe"
+],
+"n": 1
+},
+{
+"iso": "AO",
+"en": "Angola",
+"zh": "安哥拉",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "AG",
+"en": "Antigua and Barbuda",
+"zh": "安地卡及巴布達",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "BB",
+"en": "Barbados",
+"zh": "巴貝多",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "BZ",
+"en": "Belize",
+"zh": "貝里斯",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "CV",
+"en": "Cabo Verde",
+"zh": "維德角",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "KM",
+"en": "Comoros",
+"zh": "葛摩",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "DM",
+"en": "Dominica",
+"zh": "多米尼克",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "DO",
+"en": "Dominican Republic",
+"zh": "多明尼加共和國",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "SV",
+"en": "El Salvador",
+"zh": "薩爾瓦多",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "ER",
+"en": "Eritrea",
+"zh": "厄利垂亞",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "FJ",
+"en": "Fiji",
+"zh": "斐濟",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "GW",
+"en": "Guinea-Bissau",
+"zh": "幾內亞比索",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "HT",
+"en": "Haiti",
+"zh": "海地",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "KI",
+"en": "Kiribati",
+"zh": "吉里巴斯",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "LU",
+"en": "Luxembourg",
+"zh": "盧森堡",
+"regions": [
+"europe"
+],
+"n": 1
+},
+{
+"iso": "MH",
+"en": "Marshall Islands",
+"zh": "馬紹爾群島",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "FM",
+"en": "Micronesia (Federated States of)",
+"zh": "密克羅尼西亞",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "PW",
+"en": "Palau",
+"zh": "帛琉",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "PG",
+"en": "Papua New Guinea",
+"zh": "巴布亞紐幾內亞",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "PY",
+"en": "Paraguay",
+"zh": "巴拉圭",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "QA",
+"en": "Qatar",
+"zh": "卡達",
+"regions": [
+"arab"
+],
+"n": 1
+},
+{
+"iso": "KN",
+"en": "Saint Kitts and Nevis",
+"zh": "聖克里斯多福及尼維斯",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "LC",
+"en": "Saint Lucia",
+"zh": "聖露西亞",
+"regions": [
+"latam"
+],
+"n": 1
+},
+{
+"iso": "SM",
+"en": "San Marino",
+"zh": "聖馬利諾",
+"regions": [
+"europe"
+],
+"n": 1
+},
+{
+"iso": "ST",
+"en": "Sao Tome and Principe",
+"zh": "聖多美普林西比",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "SL",
+"en": "Sierra Leone",
+"zh": "獅子山",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "SG",
+"en": "Singapore",
+"zh": "新加坡",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "SB",
+"en": "Solomon Islands",
+"zh": "索羅門群島",
+"regions": [
+"asia"
+],
+"n": 1
+},
+{
+"iso": "SS",
+"en": "South Sudan",
+"zh": "南蘇丹",
+"regions": [
+"africa"
+],
+"n": 1
+},
+{
+"iso": "VU",
+"en": "Vanuatu",
+"zh": "萬那杜",
+"regions": [
+"asia"
+],
+"n": 1
+}
+]

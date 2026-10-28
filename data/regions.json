@@ -1,0 +1,27 @@
+[
+{
+"id": "africa",
+"zh": "非洲",
+"en": "Africa"
+},
+{
+"id": "arab",
+"zh": "阿拉伯國家",
+"en": "Arab States"
+},
+{
+"id": "asia",
+"zh": "亞洲及太平洋",
+"en": "Asia and the Pacific"
+},
+{
+"id": "europe",
+"zh": "歐洲及北美",
+"en": "Europe and North America"
+},
+{
+"id": "latam",
+"zh": "拉丁美洲及加勒比海",
+"en": "Latin America and the Caribbean"
+}
+]

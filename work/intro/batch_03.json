@@ -1,0 +1,1072 @@
+[
+ {
+  "id": "180",
+  "en": "National History Park – Citadel, Sans Souci, Ramiers",
+  "zh": "國家歷史公園：城堡、聖蘇西宮、拉米爾斯堡壘",
+  "countries": [
+   "海地"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "vi"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "These Haitian monuments date from the beginning of the 19th century, when Haiti proclaimed its independence. The Palace of Sans Souci, the buildings at Ramiers and, in particular, the Citadel serve as universal symbols of liberty, being the first monuments to be constructed by black slaves who had gained their freedom."
+ },
+ {
+  "id": "181",
+  "en": "Tasmanian Wilderness",
+  "zh": "塔斯曼尼亞荒野",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi",
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1982,
+  "ext": [
+   1989
+  ],
+  "danger": false,
+  "en_desc": "In a region that has been subjected to severe glaciation, these parks and reserves, with their steep gorges, covering an area of over 1 million ha, constitute one of the last expanses of temperate rainforest in the world. Remains found in limestone caves attest to the human occupation of the area for more than 20,000 years."
+ },
+ {
+  "id": "183",
+  "en": "Archaeological Site of Leptis Magna",
+  "zh": "大萊普提斯",
+  "countries": [
+   "利比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts."
+ },
+ {
+  "id": "184",
+  "en": "Archaeological Site of Sabratha",
+  "zh": null,
+  "countries": [
+   "利比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": true,
+  "en_desc": "A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D."
+ },
+ {
+  "id": "185",
+  "en": "Aldabra Atoll",
+  "zh": "阿爾達布拉環礁",
+  "countries": [
+   "塞席爾"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The atoll is comprised of four large coral islands which enclose a shallow lagoon; the group of islands is itself surrounded by a coral reef. Due to difficulties of access and the atoll's isolation, Aldabra has been protected from human influence and thus retains some 152,000 giant tortoises, the world's largest population of this reptile."
+ },
+ {
+  "id": "186",
+  "en": "Lord Howe Island Group",
+  "zh": null,
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "A remarkable example of isolated oceanic islands, born of volcanic activity more than 2,000 m under the sea, these islands boast a spectacular topography and are home to numerous endemic species, especially birds."
+ },
+ {
+  "id": "187",
+  "en": "St Mary's Cathedral and St Michael's Church at Hildesheim",
+  "zh": "希爾德斯海姆的聖瑪利亞主教座堂和聖米迦爾教堂",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1985,
+  "ext": [],
+  "danger": false,
+  "en_desc": "St Michael's Church was built between 1010 and 1020 on a symmetrical plan with two apses that was characteristic of Ottonian Romanesque art in Old Saxony. Its interior, in particular the wooden ceiling and painted stucco-work, its famous bronze doors and the Bernward bronze column, are – together with the treasures of St Mary's Cathedral – of exceptional interest as examples of the Romanesque churches of the Holy Roman Empire."
+ },
+ {
+  "id": "188",
+  "en": "M'Zab Valley",
+  "zh": "姆扎卜山谷",
+  "countries": [
+   "阿爾及利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "v"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "A traditional human habitat, created in the 10th century by the Ibadites around their five ksour (fortified cities), has been preserved intact in the M’Zab valley. Simple, functional and perfectly adapted to the environment, the architecture of M’Zab was designed for community living, while respecting the structure of the family. It is a source of inspiration for today’s urban planners."
+ },
+ {
+  "id": "189",
+  "en": "Historic Centre of the Town of Olinda",
+  "zh": "奧林達歷史中心",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in the 16th century by the Portuguese, the town’s history is linked to the sugar-cane industry. Rebuilt after being looted by the Dutch, its basic urban fabric dates from the 18th century. The harmonious balance between the buildings, gardens, 20 Baroque churches, convents and numerous small passos (chapels) all contribute to Olinda’s particular charm."
+ },
+ {
+  "id": "190",
+  "en": "Archaeological Site of Cyrene",
+  "zh": "昔蘭尼",
+  "countries": [
+   "利比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": true,
+  "en_desc": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century."
+ },
+ {
+  "id": "191",
+  "en": "Djémila",
+  "zh": "傑米拉",
+  "countries": [
+   "阿爾及利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated 900 m above sea-level, Djémila, or Cuicul, with its forum, temples, basilicas, triumphal arches and houses, is an interesting example of Roman town planning adapted to a mountain location."
+ },
+ {
+  "id": "192",
+  "en": "Old Walled City of Shibam",
+  "zh": "希巴姆",
+  "countries": [
+   "葉門"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Surrounded by a fortified wall, the 16th-century city of Shibam is one of the oldest and best examples of urban planning based on the principle of vertical construction. Its impressive tower-like structures rise out of the cliff and have given the city the nickname of ‘the Manhattan of the desert’."
+ },
+ {
+  "id": "193",
+  "en": "Tipasa",
+  "zh": "蒂帕薩",
+  "countries": [
+   "阿爾及利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "On the shores of the Mediterranean, Tipasa was an ancient Punic trading-post conquered by Rome and turned into a strategic base for the conquest of the kingdoms of Mauritania. It comprises a unique group of Phoenician, Roman, palaeochristian and Byzantine ruins alongside indigenous monuments such as the Kbor er Roumia, the great royal mausoleum of Mauretania."
+ },
+ {
+  "id": "194",
+  "en": "Timgad",
+  "zh": "提姆加德",
+  "countries": [
+   "阿爾及利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Timgad lies on the northern slopes of the Aurès mountains and was created ex nihilo as a military colony by the Emperor Trajan in AD 100. With its square enclosure and orthogonal design based on the cardo and decumanus , the two perpendicular routes running through the city, it is an excellent example of Roman town planning."
+ },
+ {
+  "id": "195",
+  "en": "Taï National Park",
+  "zh": "塔伊國家公園",
+  "countries": [
+   "象牙海岸"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This park is one of the last major remnants of the primary tropical forest of West Africa. Its rich natural flora, and threatened mammal species such as the pygmy hippopotamus and 11 species of monkeys, are of great scientific interest."
+ },
+ {
+  "id": "196",
+  "en": "Río Plátano Biosphere Reserve",
+  "zh": "雷奧普拉塔諾生物圈保留地",
+  "countries": [
+   "宏都拉斯"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located on the watershed of the Río Plátano, the reserve is one of the few remains of a tropical rainforest in Central America and has an abundant and varied plant and wildlife. In its mountainous landscape sloping down to the Caribbean coast, over 2,000 indigenous people have preserved their traditional way of life."
+ },
+ {
+  "id": "198",
+  "en": "Cahokia Mounds State Historic Site",
+  "zh": null,
+  "countries": [
+   "美國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Cahokia Mounds, some 13 km north-east of St Louis, Missouri, is the largest pre-Columbian settlement north of Mexico. It was occupied primarily during the Mississippian period (800–1400), when it covered nearly 1,600 ha and included some 120 mounds. It is a striking example of a complex chiefdom society, with many satellite mound centres and numerous outlying hamlets and villages. This agricultural society may have had a population of 10–20,000 at its peak between 1050 and 1150. Primary features at the site include Monks Mound, the largest prehistoric earthwork in the Americas, covering over 5 ha and standing 30 m high."
+ },
+ {
+  "id": "199",
+  "en": "Selous Game Reserve",
+  "zh": "塞盧斯禁獵區",
+  "countries": [
+   "坦尚尼亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km 2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands."
+ },
+ {
+  "id": "200",
+  "en": "Sacred City of Anuradhapura",
+  "zh": "八聖地",
+  "countries": [
+   "斯里蘭卡"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again."
+ },
+ {
+  "id": "201",
+  "en": "Ancient City of Polonnaruwa",
+  "zh": "波隆納魯沃",
+  "countries": [
+   "斯里蘭卡"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century."
+ },
+ {
+  "id": "202",
+  "en": "Ancient City of Sigiriya",
+  "zh": "錫吉里耶",
+  "countries": [
+   "斯里蘭卡"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site."
+ },
+ {
+  "id": "203",
+  "en": "From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1982,
+  "ext": [
+   2009
+  ],
+  "danger": false,
+  "en_desc": "The Royal Saltworks of Arc-et-Senans, near Besançon, was built by Claude Nicolas Ledoux. Its construction, begun in 1775 during the reign of Louis XVI, was the first major achievement of industrial architecture, reflecting the ideal of progress of the Enlightenment. The vast, semicircular complex was designed to permit a rational and hierarchical organization of work and was to have been followed by the building of an ideal city, a project that was never realized. The Great Saltworks of Salins-les-Bains was active for at least 1200 years until stopping activity in 1962. From 1780 to 1895, its salt water travelled through 21 km of wood pipes to the Royal Saltworks of Arc-et-Senans. It was built near the immense Chaux Forest to ensure its supply of wood for fuel. The Saltworks of Salins shelters an underground gallery from the 13 th century including a hydraulic pump from the 19 th century that still functions. The boiler house demonstrates the difficulty of the saltworkers’ labour to collect the “White Gold”."
+ },
+ {
+  "id": "204",
+  "en": "Old Havana and its Fortification System",
+  "zh": null,
+  "countries": [
+   "古巴"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v"
+  ],
+  "year": 1982,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Havana was founded in 1519 by the Spanish. By the 17th century, it had become one of the Caribbean's main centres for ship-building. Although it is today a sprawling metropolis of 2 million inhabitants, its old centre retains an interesting mix of Baroque and neoclassical monuments, and a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards."
+ },
+ {
+  "id": "205",
+  "en": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+  "zh": null,
+  "countries": [
+   "哥斯大黎加",
+   "巴拿馬"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [
+   1990
+  ],
+  "danger": false,
+  "en_desc": "The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama."
+ },
+ {
+  "id": "206",
+  "en": "Central Zone of the Town of Angra do Heroismo in the Azores",
+  "zh": null,
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "vi"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated on one of the islands in the Azores archipelago, this was an obligatory port of call from the 15th century until the advent of the steamship in the 19th century. The 400-year-old San Sebastião and San João Baptista fortifications are unique examples of military architecture. Damaged by an earthquake in 1980, Angra is now being restored."
+ },
+ {
+  "id": "208",
+  "en": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+  "zh": null,
+  "countries": [
+   "阿富汗"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": true,
+  "en_desc": "The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art. The area contains numerous Buddhist monastic ensembles and sanctuaries, as well as fortified edifices from the Islamic period. The site is also testimony to the tragic destruction by the Taliban of the two standing Buddha statues, which shook the world in March 2001."
+ },
+ {
+  "id": "211",
+  "en": "Minaret and Archaeological Remains of Jam",
+  "zh": null,
+  "countries": [
+   "阿富汗"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": true,
+  "en_desc": "The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province."
+ },
+ {
+  "id": "216",
+  "en": "Rila Monastery",
+  "zh": null,
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "vi"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation."
+ },
+ {
+  "id": "217",
+  "en": "Ancient City of Nessebar",
+  "zh": null,
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period."
+ },
+ {
+  "id": "219",
+  "en": "Srebarna Nature Reserve",
+  "zh": "斯雷伯爾納自然保護區",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill."
+ },
+ {
+  "id": "225",
+  "en": "Pirin National Park",
+  "zh": "皮林國家公園",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix"
+  ],
+  "year": 1983,
+  "ext": [
+   2010
+  ],
+  "danger": false,
+  "en_desc": "Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits."
+ },
+ {
+  "id": "227",
+  "en": "Comoé National Park",
+  "zh": "科莫埃國家公園",
+  "countries": [
+   "象牙海岸"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "One of the largest protected areas in West Africa, this park is characterized by its great plant diversity. Due to the presence of the Comoé river, it contains plants which are normally only found much farther south, such as shrub savannahs and patches of thick rainforest."
+ },
+ {
+  "id": "228",
+  "en": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1995,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the 14th century, this city in the South of France was the seat of the papacy. The Palais des Papes, an austere-looking fortress lavishly decorated by Simone Martini and Matteo Giovanetti, dominates the city, the surrounding ramparts and the remains of a 12th-century bridge over the Rhone. Beneath this outstanding example of Gothic architecture, the Petit Palais and the Romanesque Cathedral of Notre-Dame-des-Doms complete an exceptional group of monuments that testify to the leading role played by Avignon in 14th-century Christian Europe."
+ },
+ {
+  "id": "229",
+  "en": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+  "zh": null,
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Nancy, the temporary residence of a king without a kingdom – Stanislas Leszczynski, later to become Duke of Lorraine – is paradoxically the oldest and most typical example of a modern capital where an enlightened monarch proved to be sensitive to the needs of the public. Built between 1752 and 1756 by a brilliant team led by the architect Héré, this was a carefully conceived project that succeeded in creating a capital that not only enhanced the sovereign's prestige but was also functional."
+ },
+ {
+  "id": "230",
+  "en": "Abbey Church of Saint-Savin sur Gartempe",
+  "zh": "聖薩萬",
+  "countries": [
+   "法國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation."
+ },
+ {
+  "id": "231",
+  "en": "Red Fort Complex",
+  "zh": null,
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 2007,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone, it is adjacent to an older fort, the Salimgarh, built by Islam Shah Suri in 1546, with which it forms the Red Fort Complex. The private apartments consist of a row of pavilions connected by a continuous water channel, known as the Nahr-i-Behisht (Stream of Paradise). The Red Fort is considered to represent the zenith of Mughal creativity which, under the Shah Jahan, was brought to a new level of refinement. The planning of the palace is based on Islamic prototypes, but each pavilion reveals architectural elements typical of Mughal building, reflecting a fusion of Persian, Timurid and Hindu traditions The Red Fort’s innovative planning and architectural style, including the garden design, strongly influenced later buildings and gardens in Rajasthan, Delhi, Agra and further afield."
+ },
+ {
+  "id": "232",
+  "en": "Humayun's Tomb, Delhi",
+  "zh": "胡馬雍陵",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1993,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This tomb, built in 1570, is of particular cultural significance as it was the first garden-tomb on the Indian subcontinent. It inspired several major architectural innovations, culminating in the construction of the Taj Mahal."
+ },
+ {
+  "id": "233",
+  "en": "Qutb Minar and its Monuments, Delhi",
+  "zh": "顧特卜塔古建築群",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1993,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built in the early 13th century a few kilometres south of Delhi, the red sandstone tower of Qutb Minar is 72.5 m high, tapering from 2.75 m in diameter at its peak to 14.32 m at its base, and alternating angular and rounded flutings. The surrounding archaeological area contains funerary buildings, notably the magnificent Alai-Darwaza Gate, the masterpiece of Indo-Muslim art (built in 1311), and two mosques, including the Quwwatu'l-Islam, the oldest in northern India, built of materials reused from some 20 Brahman temples."
+ },
+ {
+  "id": "234",
+  "en": "Churches and Convents of Goa",
+  "zh": null,
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The churches and convents of Goa, the former capital of the Portuguese Indies – particularly the Church of Bom Jesus, which contains the tomb of St Francis-Xavier – illustrate the evangelization of Asia. These monuments were influential in spreading forms of Manueline, Mannerist and Baroque art in all the countries of Asia where missions were established."
+ },
+ {
+  "id": "239",
+  "en": "Group of Monuments at Pattadakal",
+  "zh": null,
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South."
+ },
+ {
+  "id": "240",
+  "en": "Khajuraho Group of Monuments",
+  "zh": "克久拉霍古蹟",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The temples at Khajuraho were built during the Chandella dynasty, which reached its apogee between 950 and 1050. Only about 20 temples remain; they fall into three distinct groups and belong to two different religions – Hinduism and Jainism. They strike a perfect balance between architecture and sculpture. The Temple of Kandariya is decorated with a profusion of sculptures that are among the greatest masterpieces of Indian art."
+ },
+ {
+  "id": "241",
+  "en": "Group of Monuments at Hampi",
+  "zh": "亨比",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The austere, grandiose site of Hampi was the last capital of the last great Hindu Kingdom of Vijayanagar. Its fabulously rich princes built Dravidian temples and palaces which won the admiration of travellers between the 14th and 16th centuries. Conquered by the Deccan Muslim confederacy in 1565, the city was pillaged over a period of six months before being abandoned."
+ },
+ {
+  "id": "242",
+  "en": "Ajanta Caves",
+  "zh": "阿旃陀石窟",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries B.C. During the Gupta period (5th and 6th centuries A.D.), many more richly decorated caves were added to the original group. The paintings and sculptures of Ajanta, considered masterpieces of Buddhist religious art, have had a considerable artistic influence."
+ },
+ {
+  "id": "243",
+  "en": "Ellora Caves",
+  "zh": "埃洛拉石窟",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "These 34 monasteries and temples, extending over more than 2 km, were dug side by side in the wall of a high basalt cliff, not far from Aurangabad, in Maharashtra. Ellora, with its uninterrupted sequence of monuments dating from A.D. 600 to 1000, brings the civilization of ancient India to life. Not only is the Ellora complex a unique artistic creation and a technological exploit but, with its sanctuaries devoted to Buddhism, Hinduism and Jainism, it illustrates the spirit of tolerance that was characteristic of ancient India."
+ },
+ {
+  "id": "244",
+  "en": "Elephanta Caves",
+  "zh": null,
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The 'City of Caves', on an island in the Sea of Oman close to Mumbai, contains a collection of rock art linked to the cult of Shiva. Here, Indian art has found one of its most perfect expressions, particularly the huge high reliefs in the main cave."
+ },
+ {
+  "id": "246",
+  "en": "Sun Temple, Konârak",
+  "zh": "科納爾克",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1984,
+  "ext": [],
+  "danger": false,
+  "en_desc": "On the shores of the Bay of Bengal, bathed in the rays of the rising sun, the temple at Konarak is a monumental representation of the sun god Surya's chariot; its 24 wheels are decorated with symbolic designs and it is led by a team of six horses. Built in the 13th century, it is one of India's most famous Brahman sanctuaries."
+ },
+ {
+  "id": "247",
+  "en": "Hill Forts of Rajasthan",
+  "zh": null,
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2013,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The serial site, situated in the state of Rajastahan, includes six majestic forts in Chittorgarh; Kumbhalgarh; Sawai Madhopur; Jhalawar; Jaipur, and Jaisalmer. The ecclectic architecture of the forts, some up to 20 kilometres in circumference, bears testimony to the power of the Rajput princely states that flourished in the region from the 8th to the 18th centuries. Enclosed within defensive walls are major urban centres, palaces, trading centres and other buildings including temples that often predate the fortifications within which developed an elaborate courtly culture that supported learning, music and the arts. Some of the urban centres enclosed in the fortifications have survived, as have many of the site's temples and other sacred buildings. The forts use the natural defenses offered by the landscape: hills, deserts, rivers, and dense forests. They also feature extensive water harvesting structures, largely still in use today."
+ },
+ {
+  "id": "249",
+  "en": "Group of Monuments at Mahabalipuram",
+  "zh": "默哈伯利布勒姆古蹟群",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1984,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This group of sanctuaries, founded by the Pallava kings, was carved out of rock along the Coromandel coast in the 7th and 8th centuries. It is known especially for its rathas (temples in the form of chariots), mandapas (cave sanctuaries), giant open-air reliefs such as the famous 'Descent of the Ganges', and the temple of Rivage, with thousands of sculptures to the glory of Shiva."
+ },
+ {
+  "id": "250",
+  "en": "Great Living Chola Temples",
+  "zh": "朱羅王朝現存的神廟",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 1987,
+  "ext": [
+   2004
+  ],
+  "danger": false,
+  "en_desc": "The Great Living Chola Temples were built by kings of the Chola Empire, which stretched over all of south India and the neighbouring islands. The site includes three great 11th- and 12th-century Temples: the Brihadisvara Temple at Thanjavur, the Brihadisvara Temple at Gangaikondacholisvaram and the Airavatesvara Temple at Darasuram. The Temple of Gangaikondacholisvaram, built by Rajendra I, was completed in 1035. Its 53-m vimana (sanctum tower) has recessed corners and a graceful upward curving movement, contrasting with the straight and severe tower at Thanjavur. The Airavatesvara temple complex, built by Rajaraja II, at Darasuram features a 24-m vimana and a stone image of Shiva. The temples testify to the brilliant achievements of the Chola in architecture, sculpture, painting and bronze casting."
+ },
+ {
+  "id": "251",
+  "en": "Agra Fort",
+  "zh": "阿格拉堡",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques."
+ },
+ {
+  "id": "252",
+  "en": "Taj Mahal",
+  "zh": "泰姬陵",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."
+ },
+ {
+  "id": "255",
+  "en": "Fatehpur Sikri",
+  "zh": "法泰赫普爾西克里",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built during the second half of the 16th century by the Emperor Akbar, Fatehpur Sikri (the City of Victory) was the capital of the Mughal Empire for only some 10 years. The complex of monuments and temples, all in a uniform architectural style, includes one of the largest mosques in India, the Jama Masjid."
+ },
+ {
+  "id": "256",
+  "en": "Wood Buffalo National Park",
+  "zh": "木水牛國家公園",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated on the plains in the north-central region of Canada, the park (which covers 44,807 km2) is home to North America's largest population of wild bison. It is also the natural nesting place of the whooping crane. Another of the park's attractions is the world's largest inland delta, located at the mouth of the Peace and Athabasca rivers."
+ },
+ {
+  "id": "258",
+  "en": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+  "zh": "波爾託灣：皮亞納－卡蘭切斯、基羅拉塔灣、斯康多拉保護區",
+  "countries": [
+   "法國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life."
+ },
+ {
+  "id": "259",
+  "en": "Great Smoky Mountains National Park",
+  "zh": "大煙山國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Stretching over more than 200,000 ha, this exceptionally beautiful park is home to more than 3,500 plant species, including almost as many trees (130 natural species) as in all of Europe. Many endangered animal species are also found there, including what is probably the greatest variety of salamanders in the world. Since the park is relatively untouched, it gives an idea of temperate flora before the influence of humankind."
+ },
+ {
+  "id": "260",
+  "en": "Sangay National Park",
+  "zh": "桑蓋國家公園",
+  "countries": [
+   "厄瓜多"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor."
+ },
+ {
+  "id": "261",
+  "en": "Vallée de Mai Nature Reserve",
+  "zh": "馬埃谷地自然保護區",
+  "countries": [
+   "塞席爾"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the heart of the small island of Praslin, the reserve has the vestiges of a natural palm forest preserved in almost its original state. The famous coco de mer , from a palm-tree once believed to grow in the depths of the sea, is the largest seed in the plant kingdom."
+ },
+ {
+  "id": "262",
+  "en": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
+  "zh": null,
+  "countries": [
+   "蘇丹"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 2016,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs."
+ },
+ {
+  "id": "263",
+  "en": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+  "zh": null,
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "vi"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Standing at the entrance to Lisbon harbour, the Monastery of the Hieronymites – construction of which began in 1502 – exemplifies Portuguese art at its best. The nearby Tower of Belém, built to commemorate Vasco da Gama's expedition, is a reminder of the great maritime discoveries that laid the foundations of the modern world."
+ },
+ {
+  "id": "264",
+  "en": "Monastery of Batalha",
+  "zh": "巴塔利亞修道院",
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii"
+  ],
+  "year": 1983,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Monastery of the Dominicans of Batalha was built to commemorate the victory of the Portuguese over the Castilians at the battle of Aljubarrota in 1385. It was to be the Portuguese monarchy's main building project for the next two centuries. Here a highly original, national Gothic style evolved, profoundly influenced by Manueline art, as demonstrated by its masterpiece, the Royal Cloister."
+ }
+]

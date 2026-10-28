@@ -1,0 +1,1085 @@
+[
+ {
+  "id": "352",
+  "en": "Rock Art of Alta",
+  "zh": "阿爾塔巖畫",
+  "countries": [
+   "挪威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1985,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This group of petroglyphs in the Alta Fjord, near the Arctic Circle, bears the traces of a settlement dating from c. 4200 to 500 B.C. The thousands of paintings and engravings add to our understanding of the environment and human activities on the fringes of the Far North in prehistoric times."
+ },
+ {
+  "id": "353",
+  "en": "Chaco Culture",
+  "zh": null,
+  "countries": [
+   "美國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "For over 2,000 years, Pueblo peoples occupied a vast region of the south-western United States. Chaco Canyon, a major centre of ancestral Pueblo culture between 850 and 1250, was a focus for ceremonials, trade and political activity for the prehistoric Four Corners area. Chaco is remarkable for its monumental public and ceremonial buildings and its distinctive architecture – it has an ancient urban ceremonial centre that is unlike anything constructed before or since. In addition to the Chaco Culture National Historical Park, the World Heritage property includes the Aztec Ruins National Monument and several smaller Chaco sites managed by the Bureau of Land Management."
+ },
+ {
+  "id": "354",
+  "en": "Waterton Glacier International Peace Park",
+  "zh": null,
+  "countries": [
+   "加拿大",
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix"
+  ],
+  "year": 1995,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In 1932 Waterton Lakes National Park (Alberta, Canada) was combined with the Glacier National Park (Montana, United States) to form the world's first International Peace Park. Situated on the border between the two countries and offering outstanding scenery, the park is exceptionally rich in plant and mammal species as well as prairie, forest, and alpine and glacial features."
+ },
+ {
+  "id": "355",
+  "en": "Iguaçu National Park",
+  "zh": "伊瓜蘇國家公園",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The park shares with Iguazú National Park in Argentina one of the world’s largest and most impressive waterfalls, extending over some 2,700 m. It is home to many rare and endangered species of flora and fauna, among them the giant otter and the giant anteater. The clouds of spray produced by the waterfall are conducive to the growth of lush vegetation."
+ },
+ {
+  "id": "356",
+  "en": "Historic Areas of Istanbul",
+  "zh": "伊斯坦布林歷史城區",
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1985,
+  "ext": [],
+  "danger": false,
+  "en_desc": "With its strategic location on the Bosphorus peninsula between the Balkans and Anatolia, the Black Sea and the Mediterranean, Istanbul has been associated with major political, religious and artistic events for more than 2,000 years. Its masterpieces include the ancient Hippodrome of Constantine, the 6th-century Hagia Sophia and the 16th-century Süleymaniye Mosque, all now under threat from population pressure, industrial pollution and uncontrolled urbanization."
+ },
+ {
+  "id": "357",
+  "en": "Göreme National Park and the Rock Sites of Cappadocia",
+  "zh": null,
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "iii",
+   "v",
+   "vii"
+  ],
+  "year": 1985,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In a spectacular landscape, entirely sculpted by erosion, the G öreme valley and its surroundings contain rock-hewn sanctuaries that provide unique evidence of Byzantine art in the post-Iconoclastic period. Dwellings, troglodyte villages and underground towns – the remains of a traditional human habitat dating back to the 4th century – can also be seen there."
+ },
+ {
+  "id": "358",
+  "en": "Great Mosque and Hospital of Divriği",
+  "zh": "迪夫里伊的大清真寺和醫院",
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1985,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This region of Anatolia was conquered by the Turks at the beginning of the 11th century. In 1228–29 Emir Ahmet Shah founded a mosque, with its adjoining hospital, at Divrigi. The mosque has a single prayer room and is crowned by two cupolas. The highly sophisticated technique of vault construction, and a creative, exuberant type of decorative sculpture – particularly on the three doorways, in contrast to the unadorned walls of the interior – are the unique features of this masterpiece of Islamic architecture."
+ },
+ {
+  "id": "359",
+  "en": "Thracian Tomb of Sveshtari",
+  "zh": "斯韋什塔里的色雷斯人墓",
+  "countries": [
+   "保加利亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1985,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers."
+ },
+ {
+  "id": "361",
+  "en": "Historic Centre of Évora",
+  "zh": null,
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This museum-city, whose roots go back to Roman times, reached its golden age in the 15th century, when it became the residence of the Portuguese kings. Its unique quality stems from the whitewashed houses decorated with azulejos and wrought-iron balconies dating from the 16th to the 18th century. Its monuments had a profound influence on Portuguese architecture in Brazil."
+ },
+ {
+  "id": "362",
+  "en": "Old Town of Ghadamès",
+  "zh": "古達米斯",
+  "countries": [
+   "利比亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "v"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women."
+ },
+ {
+  "id": "364",
+  "en": "Great Zimbabwe National Monument",
+  "zh": "大辛巴威",
+  "countries": [
+   "辛巴威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards."
+ },
+ {
+  "id": "365",
+  "en": "Khami Ruins National Monument",
+  "zh": "卡米",
+  "countries": [
+   "辛巴威"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time."
+ },
+ {
+  "id": "366",
+  "en": "Chan Chan Archaeological Zone",
+  "zh": "昌昌",
+  "countries": [
+   "秘魯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": true,
+  "en_desc": "The Chimu Kingdom, with Chan Chan as its capital, reached its apogee in the 15th century, not long before falling to the Incas. The planning of this huge city, the largest in pre-Columbian America, reflects a strict political and social strategy, marked by the city's division into nine 'citadels' or 'palaces' forming autonomous units."
+ },
+ {
+  "id": "367",
+  "en": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+  "zh": "特里爾的古羅馬建築、主教教堂和聖母教堂",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Trier, which stands on the Moselle River, was a Roman colony from the 1st century AD and then a great trading centre beginning in the next century. It became one of the capitals of the Tetrarchy at the end of the 3rd century, when it was known as the ‘second Rome’. The number and quality of the surviving monuments are an outstanding testimony to Roman civilization."
+ },
+ {
+  "id": "368",
+  "en": "Gondwana Rainforests of Australia",
+  "zh": "中東部雨林保護區",
+  "countries": [
+   "澳洲"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 1986,
+  "ext": [
+   1994
+  ],
+  "danger": false,
+  "en_desc": "This site, comprising several protected areas, is situated predominantly along the Great Escarpment on Australia's east coast. The outstanding geological features displayed around shield volcanic craters and the high number of rare and threatened rainforest species are of international significance for science and conservation."
+ },
+ {
+  "id": "369",
+  "en": "Giant's Causeway and Causeway Coast",
+  "zh": "巨人堤道",
+  "countries": [
+   "英國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Giant's Causeway lies at the foot of the basalt cliffs along the sea coast on the edge of the Antrim plateau in Northern Ireland. It is made up of some 40,000 massive black basalt columns sticking out of the sea. The dramatic sight has inspired legends of giants striding over the sea to Scotland. Geological studies of these formations over the last 300 years have greatly contributed to the development of the earth sciences, and show that this striking landscape was caused by volcanic activity during the Tertiary, some 50–60 million years ago."
+ },
+ {
+  "id": "370",
+  "en": "Durham Castle and Cathedral",
+  "zh": "達勒姆城堡和大教堂",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Durham Cathedral was built in the late 11th and early 12th centuries to house the relics of St Cuthbert (evangelizer of Northumbria) and the Venerable Bede. It attests to the importance of the early Benedictine monastic community and is the largest and finest example of Norman architecture in England. The innovative audacity of its vaulting foreshadowed Gothic architecture. Behind the cathedral stands the castle, an ancient Norman fortress which was the residence of the prince-bishops of Durham."
+ },
+ {
+  "id": "371",
+  "en": "Ironbridge Gorge",
+  "zh": "鐵橋谷",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Ironbridge is known throughout the world as the symbol of the Industrial Revolution. It contains all the elements of progress that contributed to the rapid development of this industrial region in the 18th century, from the mines themselves to the railway lines. Nearby, the blast furnace of Coalbrookdale, built in 1708, is a reminder of the discovery of coke. The bridge at Ironbridge, the world's first bridge constructed of iron, had a considerable influence on developments in the fields of technology and architecture."
+ },
+ {
+  "id": "372",
+  "en": "Studley Royal Park including the Ruins of Fountains Abbey",
+  "zh": "方廷斯修道院",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the 18th century a designed landscape of exceptional beauty was created around the ruins of the Cistercian Fountains Abbey, in Yorkshire. The spectacular ruins of the 12th century abbey and water mill, the Jacobean mansion of Fountains Hall, the Victorian masterpiece St Mary’s Church and one of the most magnificent Georgian water gardens ever created, make this a landscape of outstanding merit."
+ },
+ {
+  "id": "373",
+  "en": "Stonehenge, Avebury and Associated Sites",
+  "zh": "巨石陣、埃夫伯里和相關遺址",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Stonehenge and Avebury, in Wiltshire, are among the most famous groups of megaliths in the world. The two sanctuaries consist of circles of menhirs arranged in a pattern whose astronomical significance is still being explored. These holy places and the nearby Neolithic sites are an incomparable testimony to prehistoric times."
+ },
+ {
+  "id": "374",
+  "en": "Castles and Town Walls of King Edward in Gwynedd",
+  "zh": "圭內斯郡愛德華國王的城堡和城牆",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The castles of Beaumaris and Harlech (largely the work of the greatest military engineer of the time, James of St George) and the fortified complexes of Caernarfon and Conwy are located in the former principality of Gwynedd, in north Wales. These extremely well-preserved monuments are examples of the colonization and defence works carried out throughout the reign of Edward I (1272–1307) and the military architecture of the time."
+ },
+ {
+  "id": "377",
+  "en": "Hattusha: the Hittite Capital",
+  "zh": null,
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The archaeological site of Hattusha, former capital of the Hittite Empire, is notable for its urban organization, the types of construction that have been preserved (temples, royal residences, fortifications), the rich ornamentation of the Lions' Gate and the Royal Gate, and the ensemble of rock art at Yazilikaya. The city enjoyed considerable influence in Anatolia and northern Syria in the 2nd millennium B.C."
+ },
+ {
+  "id": "378",
+  "en": "Mudejar Architecture of Aragon",
+  "zh": null,
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [
+   2001
+  ],
+  "danger": false,
+  "en_desc": "The development in the 12th century of Mudejar art in Aragon resulted from the particular political, social and cultural conditions that prevailed in Spain after the Reconquista. This art, influenced by Islamic tradition, also reflects various contemporary European styles, particularly the Gothic. Present until the early 17th century, it is characterized by an extremely refined and inventive use of brick and glazed tiles in architecture, especially in the belfries."
+ },
+ {
+  "id": "379",
+  "en": "Historic City of Toledo",
+  "zh": null,
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Successively a Roman municipium, the capital of the Visigothic Kingdom, a fortress of the Emirate of Cordoba, an outpost of the Christian kingdoms fighting the Moors and, in the 16th century, the temporary seat of supreme power under Charles V, Toledo is the repository of more than 2,000 years of history. Its masterpieces are the product of heterogeneous civilizations in an environment where the existence of three major religions – Judaism, Christianity and Islam – was a major factor."
+ },
+ {
+  "id": "380",
+  "en": "Garajonay National Park",
+  "zh": "加拉霍奈國家公園",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Laurel forest covers some 70% of this park, situated in the middle of the island of La Gomera in the Canary Islands archipelago. The presence of springs and numerous streams assures a lush vegetation resembling that of the Tertiary, which, due to climatic changes, has largely disappeared from southern Europe."
+ },
+ {
+  "id": "381",
+  "en": "Old City of Salamanca",
+  "zh": null,
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This ancient university town north-west of Madrid was first conquered by the Carthaginians in the 3rd century B.C. It then became a Roman settlement before being ruled by the Moors until the 11th century. The university, one of the oldest in Europe, reached its high point during Salamanca's golden age. The city's historic centre has important Romanesque, Gothic, Moorish, Renaissance and Baroque monuments. The Plaza Mayor, with its galleries and arcades, is particularly impressive."
+ },
+ {
+  "id": "383",
+  "en": "Cathedral, Alcázar and Archivo de Indias in Seville",
+  "zh": null,
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Together these three buildings form a remarkable monumental complex in the heart of Seville. The cathedral and the Alcázar – dating from the Reconquest of 1248 to the 16th century and imbued with Moorish influences – are an exceptional testimony to the civilization of the Almohads as well as that of Christian Andalusia. The Giralda minaret is the masterpiece of Almohad architecture. It stands next to the cathedral with its five naves; the largest Gothic building in Europe, it houses the tomb of Christopher Columbus. The ancient Lonja, which became the Archivo de Indias, contains valuable documents from the archives of the colonies in the Americas."
+ },
+ {
+  "id": "384",
+  "en": "Old Town of Cáceres",
+  "zh": null,
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The city's history of battles between Moors and Christians is reflected in its architecture, which is a blend of Roman, Islamic, Northern Gothic and Italian Renaissance styles. Of the 30 or so towers from the Muslim period, the Torre del Bujaco is the most famous."
+ },
+ {
+  "id": "385",
+  "en": "Old City of Sana'a",
+  "zh": "薩那古城",
+  "countries": [
+   "葉門"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "v",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": true,
+  "en_desc": "Situated in a mountain valley at an altitude of 2,200 m, Sana’a has been inhabited for more than 2,500 years. In the 7th and 8th centuries the city became a major centre for the propagation of Islam. This religious and political heritage can be seen in the 103 mosques, 14 hammams and over 6,000 houses, all built before the 11th century. Sana’a’s many-storeyed tower-houses built of rammed earth ( pisé ) add to the beauty of the site."
+ },
+ {
+  "id": "387",
+  "en": "St Kilda",
+  "zh": "聖基爾達島",
+  "countries": [
+   "英國"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "iii",
+   "v",
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 1986,
+  "ext": [
+   2004,
+   2005
+  ],
+  "danger": false,
+  "en_desc": "This volcanic archipelago, with its spectacular landscapes, is situated off the coast of the Hebrides and comprises the islands of Hirta, Dun, Soay and Boreray. It has some of the highest cliffs in Europe, which have large colonies of rare and endangered species of birds, especially puffins and gannets. The archipelago, uninhabited since 1930, bears the evidence of more than 2,000 years of human occupation in the extreme conditions prevalent in the Hebrides. Human vestiges include built structures and field systems, the cleits and the traditional Highland stone houses. They feature the vulnerable remains of a subsistence economy based on the products of birds, agriculture and sheep farming."
+ },
+ {
+  "id": "389",
+  "en": "Studenica Monastery",
+  "zh": "斯圖代尼察修道院",
+  "countries": [
+   "塞爾維亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Studenica Monastery was established in the late 12th century by Stevan Nemanja, founder of the medieval Serb state, shortly after his abdication. It is the largest and richest of Serbia’s Orthodox monasteries. Its two principal monuments, the Church of the Virgin and the Church of the King, both built of white marble, enshrine priceless collections of 13th- and 14th-century Byzantine painting."
+ },
+ {
+  "id": "390",
+  "en": "Škocjan Caves",
+  "zh": "什科茨揚溶洞",
+  "countries": [
+   "斯洛維尼亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This exceptional system of limestone caves comprises collapsed dolines, some 6 km of underground passages with a total depth of more than 200 m, many waterfalls and one of the largest known underground chambers. The site, located in the Kras region (literally meaning Karst), is one of the most famous in the world for the study of karstic phenomena."
+ },
+ {
+  "id": "392",
+  "en": "Temple of Apollo Epicurius at Bassae",
+  "zh": "巴賽的阿波羅·伊壁鳩魯神廟",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1986,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This famous temple to the god of healing and the sun was built towards the middle of the 5th century B.C. in the lonely heights of the Arcadian mountains. The temple, which has the oldest Corinthian capital yet found, combines the Archaic style and the serenity of the Doric style with some daring architectural features."
+ },
+ {
+  "id": "393",
+  "en": "Archaeological Site of Delphi",
+  "zh": null,
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The pan-Hellenic sanctuary of Delphi, where the oracle of Apollo spoke, was the site of the omphalos, the 'navel of the world'. Blending harmoniously with the superb landscape and charged with sacred meaning, Delphi in the 6th century B.C. was indeed the religious centre and symbol of unity of the ancient Greek world."
+ },
+ {
+  "id": "394",
+  "en": "Venice and its Lagoon",
+  "zh": "威尼斯",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "v",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded in the 5th century and spread over 118 small islands, Venice became a major maritime power in the 10th century. The whole city is an extraordinary architectural masterpiece in which even the smallest building contains works by some of the world's greatest artists such as Giorgione, Titian, Tintoretto, Veronese and others."
+ },
+ {
+  "id": "395",
+  "en": "Piazza del Duomo, Pisa",
+  "zh": "奇蹟廣場",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Standing in a large green expanse, Piazza del Duomo houses a group of monuments known the world over. These four masterpieces of medieval architecture – the cathedral, the baptistry, the campanile (the 'Leaning Tower') and the cemetery – had a great influence on monumental art in Italy from the 11th to the 14th century."
+ },
+ {
+  "id": "398",
+  "en": "Castel del Monte",
+  "zh": "蒙特城堡",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 1996,
+  "ext": [],
+  "danger": false,
+  "en_desc": "When the Emperor Frederick II built this castle near Bari in the 13th century, he imbued it with symbolic significance, as reflected in the location, the mathematical and astronomical precision of the layout and the perfectly regular shape. A unique piece of medieval military architecture, Castel del Monte is a successful blend of elements from classical antiquity, the Islamic Orient and north European Cistercian Gothic."
+ },
+ {
+  "id": "400",
+  "en": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+  "zh": null,
+  "countries": [
+   "匈牙利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [
+   2002
+  ],
+  "danger": false,
+  "en_desc": "This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital."
+ },
+ {
+  "id": "401",
+  "en": "Old Village of Hollókő and its Surroundings",
+  "zh": "霍爾洛克",
+  "countries": [
+   "匈牙利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "v"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Hollok ö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century."
+ },
+ {
+  "id": "402",
+  "en": "Manú National Park",
+  "zh": "馬努國家公園",
+  "countries": [
+   "秘魯"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This huge 1.5 million-ha park has successive tiers of vegetation rising from 150 to 4,200 m above sea-level. The tropical forest in the lower tiers is home to an unrivalled variety of animal and plant species. Some 850 species of birds have been identified and rare species such as the giant otter and the giant armadillo also find refuge there. Jaguars are often sighted in the park."
+ },
+ {
+  "id": "403",
+  "en": "Kilimanjaro National Park",
+  "zh": "吉力馬札羅國家公園",
+  "countries": [
+   "坦尚尼亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park."
+ },
+ {
+  "id": "404",
+  "en": "Acropolis, Athens",
+  "zh": "雅典衛城",
+  "countries": [
+   "希臘"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike."
+ },
+ {
+  "id": "405",
+  "en": "Sinharaja Forest Reserve",
+  "zh": "辛哈拉加森林保護區",
+  "countries": [
+   "斯里蘭卡"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1988,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians."
+ },
+ {
+  "id": "407",
+  "en": "Dja Faunal Reserve",
+  "zh": "德賈動物保護區",
+  "countries": [
+   "喀麥隆"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened."
+ },
+ {
+  "id": "409",
+  "en": "Hawaii Volcanoes National Park",
+  "zh": "夏威夷火山國家公園",
+  "countries": [
+   "美國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This site contains two of the most active volcanoes in the world, Mauna Loa (4,170 m high) and Kilauea (1,250 m high), both of which tower over the Pacific Ocean. Volcanic eruptions have created a constantly changing landscape, and the lava flows reveal surprising geological formations. Rare birds and endemic species can be found there, as well as forests of giant ferns."
+ },
+ {
+  "id": "410",
+  "en": "Sian Ka'an",
+  "zh": "錫安卡恩",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "x"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "In the language of the Mayan peoples who once inhabited this region, Sian Ka'an means 'Origin of the Sky'. Located on the east coast of the Yucatán peninsula, this biosphere reserve contains tropical forests, mangroves and marshes, as well as a large marine section intersected by a barrier reef. It provides a habitat for a remarkably rich flora and a fauna comprising more than 300 species of birds, as well as a large number of the region's characteristic terrestrial vertebrates, which cohabit in the diverse environment formed by its complex hydrological system."
+ },
+ {
+  "id": "411",
+  "en": "Pre-Hispanic City and National Park of Palenque",
+  "zh": "帕倫克",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "A prime example of a Mayan sanctuary of the classical period, Palenque was at its height between AD 500 and 700, when its influence extended throughout the basin of the Usumacinta River. The elegance and craftsmanship of the buildings, as well as the lightness of the sculpted reliefs with their Mayan mythological themes, attest to the creative genius of this civilization."
+ },
+ {
+  "id": "412",
+  "en": "Historic Centre of Mexico City and Xochimilco",
+  "zh": null,
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Built in the 16th century by the Spanish on the ruins of Tenochtitlan, the old Aztec capital, Mexico City is now one of the world's largest and most densely populated cities. It has five Aztec temples, the ruins of which have been identified, a cathedral (the largest on the continent) and some fine 19th- and 20th-century public buildings such as the Palacio de las Bellas Artes. Xochimilco lies 28 km south of Mexico City. With its network of canals and artificial islands, it testifies to the efforts of the Aztec people to build a habitat in the midst of an unfavourable environment. Its characteristic urban and rural structures, built since the 16th century and during the colonial period; have been preserved in an exceptional manner."
+ },
+ {
+  "id": "414",
+  "en": "Pre-Hispanic City of Teotihuacan",
+  "zh": "特奧蒂瓦坎",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The holy city of Teotihuacan ('the place where the gods were created') is situated some 50 km north-east of Mexico City. Built between the 1st and 7th centuries A.D., it is characterized by the vast size of its monuments – in particular, the Temple of Quetzalcoatl and the Pyramids of the Sun and the Moon, laid out on geometric and symbolic principles. As one of the most powerful cultural centres in Mesoamerica, Teotihuacan extended its cultural and artistic influence throughout the region, and even beyond."
+ },
+ {
+  "id": "415",
+  "en": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+  "zh": null,
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Inhabited over a period of 1,500 years by a succession of peoples – Olmecs, Zapotecs and Mixtecs – the terraces, dams, canals, pyramids and artificial mounds of Monte Albán were literally carved out of the mountain and are the symbols of a sacred topography. The nearby city of Oaxaca, which is built on a grid pattern, is a good example of Spanish colonial town planning. The solidity and volume of the city's buildings show that they were adapted to the earthquake-prone region in which these architectural gems were constructed."
+ },
+ {
+  "id": "416",
+  "en": "Historic Centre of Puebla",
+  "zh": null,
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Puebla, which was founded ex nihilo in 1531, is situated about 100 km east of Mexico City, at the foot of the Popocatepetl volcano. It has preserved its great religious structures such as the 16th–17th-century cathedral and fine buildings like the old archbishop's palace, as well as a host of houses with walls covered in tiles ( azulejos ). The new aesthetic concepts resulting from the fusion of European and American styles were adopted locally and are peculiar to the Baroque district of Puebla."
+ },
+ {
+  "id": "417",
+  "en": "Ibiza, Biodiversity and Culture",
+  "zh": "伊比薩島",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv",
+   "ix",
+   "x"
+  ],
+  "year": 1999,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Ibiza provides an excellent example of the interaction between the marine and coastal ecosystems. The dense prairies of oceanic Posidonia (seagrass), an important endemic species found only in the Mediterranean basin, contain and support a diversity of marine life. Ibiza preserves considerable evidence of its long history. The archaeological sites at Sa Caleta (settlement) and Puig des Molins (necropolis) testify to the important role played by the island in the Mediterranean economy in protohistory, particularly during the Phoenician-Carthaginian period. The fortified Upper Town (Alta Vila) is an outstanding example of Renaissance military architecture; it had a profound influence on the development of fortifications in the Spanish settlements of the New World."
+ },
+ {
+  "id": "419",
+  "en": "Gros Morne National Park",
+  "zh": "格羅莫訥國家公園",
+  "countries": [
+   "加拿大"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Situated on the west coast of the island of Newfoundland, the park provides a rare example of the process of continental drift, where deep ocean crust and the rocks of the earth's mantle lie exposed. More recent glacial action has resulted in some spectacular scenery, with coastal lowland, alpine plateau, fjords, glacial valleys, sheer cliffs, waterfalls and many pristine lakes."
+ },
+ {
+  "id": "420",
+  "en": "City of Potosí",
+  "zh": "波托西",
+  "countries": [
+   "玻利維亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": true,
+  "en_desc": "In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived."
+ },
+ {
+  "id": "421",
+  "en": "Tongariro National Park",
+  "zh": "東格里羅國家公園",
+  "countries": [
+   "紐西蘭"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "vi",
+   "vii",
+   "viii"
+  ],
+  "year": 1990,
+  "ext": [
+   1993
+  ],
+  "danger": false,
+  "en_desc": "In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes."
+ },
+ {
+  "id": "422",
+  "en": "The English Lake District",
+  "zh": null,
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "v",
+   "vi"
+  ],
+  "year": 2017,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located in northwest England, the English Lake District is a mountainous area, whose valleys have been modelled by glaciers in the Ice Age and subsequently shaped by an agro-pastoral land-use system characterized by fields enclosed by walls. The combined work of nature and human activity has produced a harmonious landscape in which the mountains are mirrored in the lakes. Grand houses, gardens and parks have been purposely created to enhance the landscape’s beauty. This landscape was greatly appreciated from the 18th century onwards by the Picturesque and later Romantic movements, which celebrated it in paintings, drawings and words. It also inspired an awareness of the importance of beautiful landscapes and triggered early efforts to preserve them."
+ },
+ {
+  "id": "425",
+  "en": "Blenheim Palace",
+  "zh": "布萊尼姆宮",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Blenheim Palace, near Oxford, stands in a romantic park created by the famous landscape gardener 'Capability' Brown. It was presented by the English nation to John Churchill, first Duke of Marlborough, in recognition of his victory in 1704 over French and Bavarian troops. Built between 1705 and 1722 and characterized by an eclectic style and a return to national roots, it is a perfect example of an 18th-century princely dwelling."
+ },
+ {
+  "id": "426",
+  "en": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
+  "zh": "威斯敏斯特宮、威斯敏斯特大教堂和聖瑪格麗特教堂",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Westminster Palace, rebuilt from the year 1840 on the site of important medieval remains, is a fine example of neo-Gothic architecture. The site – which also comprises the small medieval Church of Saint Margaret, built in Perpendicular Gothic style, and Westminster Abbey, where all the sovereigns since the 11th century have been crowned – is of great historic and symbolic significance."
+ },
+ {
+  "id": "428",
+  "en": "City of Bath",
+  "zh": "巴斯",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 1987,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Founded by the Romans as a thermal spa, Bath became an important centre of the wool industry in the Middle Ages. In the 18th century, under George III, it developed into an elegant town with neoclassical Palladian buildings, which blend harmoniously with the Roman baths."
+ },
+ {
+  "id": "429",
+  "en": "New Lanark",
+  "zh": "新拉納克",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "New Lanark is a small 18th- century village set in a sublime Scottish landscape where the philanthropist and Utopian idealist Robert Owen moulded a model industrial community in the early 19th century. The imposing cotton mill buildings, the spacious and well-designed workers' housing, and the dignified educational institute and school still testify to Owen's humanism."
+ }
+]

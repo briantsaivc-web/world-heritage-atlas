@@ -1,0 +1,1085 @@
+[
+ {
+  "id": "1001",
+  "en": "Mount Qingcheng and the Dujiangyan Irrigation System",
+  "zh": "青城山—都江堰",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Construction of the Dujiangyan irrigation system began in the 3rd century B.C. This system still controls the waters of the Minjiang River and distributes it to the fertile farmland of the Chengdu plains. Mount Qingcheng was the birthplace of Taoism, which is celebrated in a series of ancient temples."
+ },
+ {
+  "id": "1002",
+  "en": "Ancient Villages in Southern Anhui – Xidi and Hongcun",
+  "zh": "皖南古村落西遞和宏村",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The two traditional villages of Xidi and Hongcun preserve to a remarkable extent the appearance of non-urban settlements of a type that largely disappeared or was transformed during the last century. Their street plan, their architecture and decoration, and the integration of houses with comprehensive water systems are unique surviving examples."
+ },
+ {
+  "id": "1003",
+  "en": "Longmen Grottoes",
+  "zh": "龍門石窟",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The grottoes and niches of Longmen contain the largest and most impressive collection of Chinese art of the late Northern Wei and Tang Dynasties (316-907). These works, entirely devoted to the Buddhist religion, represent the high point of Chinese stone carving."
+ },
+ {
+  "id": "1004",
+  "en": "Imperial Tombs of the Ming and Qing Dynasties",
+  "zh": "明清皇家陵寢",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2000,
+  "ext": [
+   2003,
+   2004
+  ],
+  "danger": false,
+  "en_desc": "It represents the addition of three Imperial Tombs of the Qing Dynasty in Liaoning to the Ming tombs inscribed in 2000 and 2003. The Three Imperial Tombs of the Qing Dynasty in Liaoning Province include the Yongling Tomb, the Fuling Tomb, and the Zhaoling Tomb, all built in the 17th century. Constructed for the founding emperors of the Qing Dynasty and their ancestors, the tombs follow the precepts of traditional Chinese geomancy and fengshui theory. They feature rich decoration of stone statues and carvings and tiles with dragon motifs, illustrating the development of the funerary architecture of the Qing Dynasty. The three tomb complexes, and their numerous edifices, combine traditions inherited from previous dynasties and new features of Manchu civilization."
+ },
+ {
+  "id": "1005",
+  "en": "Major Town Houses of the Architect Victor Horta (Brussels)",
+  "zh": "索爾維公館",
+  "countries": [
+   "比利時"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The four major town houses - Hôtel Tassel, Hôtel Solvay, Hôtel van Eetvelde, and Maison & Atelier Horta - located in Brussels and designed by the architect Victor Horta, one of the earliest initiators of Art Nouveau, are some of the most remarkable pioneering works of architecture of the end of the 19th century. The stylistic revolution represented by these works is characterised by their open plan, the diffusion of light, and the brilliant joining of the curved lines of decoration with the structure of the building."
+ },
+ {
+  "id": "1006",
+  "en": "Neolithic Flint Mines at Spiennes (Mons)",
+  "zh": "斯皮耶訥的新石器時代燧石礦",
+  "countries": [
+   "比利時"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Neolithic flint mines at Spiennes, covering more than 100 ha, are the largest and earliest concentration of ancient mines in Europe. They are also remarkable for the diversity of technological solutions used for extraction and for the fact that they are directly linked to a settlement of the same period."
+ },
+ {
+  "id": "1007",
+  "en": "Cape Floral Region Protected Areas",
+  "zh": "開普植物區",
+  "countries": [
+   "南非"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2004,
+  "ext": [
+   2015
+  ],
+  "danger": false,
+  "en_desc": "Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region."
+ },
+ {
+  "id": "1008",
+  "en": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+  "zh": "古巴東南第一個咖啡種植園考古風景區",
+  "countries": [
+   "古巴"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region."
+ },
+ {
+  "id": "1009",
+  "en": "Notre-Dame Cathedral in Tournai",
+  "zh": "聖母主教座堂",
+  "countries": [
+   "比利時"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Cathedral of Notre-Dame in Tournai was built in the first half of the 12th century. It is especially distinguished by a Romanesque nave of extraordinary dimensions, a wealth of sculpture on its capitals and a transept topped by five towers, all precursors of the Gothic style. The choir, rebuilt in the 13th century, is in the pure Gothic style."
+ },
+ {
+  "id": "1010",
+  "en": "Land of Frankincense",
+  "zh": "乳香之路",
+  "countries": [
+   "阿曼"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The frankincense trees of Wadi Dawkah and the remains of the caravan oasis of Shisr/Wubar and the affiliated ports of Khor Rori and Al-Baleed vividly illustrate the trade in frankincense that flourished in this region for many centuries, as one of the most important trading activities of the ancient and medieval world."
+ },
+ {
+  "id": "1011",
+  "en": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+  "zh": "埃奇米阿津大教堂和教堂群及茲瓦爾特諾茨考古遺址",
+  "countries": [
+   "亞美尼亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The cathedral and churches of Echmiatsin and the archaeological remains at Zvartnots graphically illustrate the evolution and development of the Armenian central-domed cross-hall type of church, which exerted a profound influence on architectural and artistic development in the region."
+ },
+ {
+  "id": "1012",
+  "en": "Kinabalu Park",
+  "zh": "京那巴魯國家公園",
+  "countries": [
+   "馬來西亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Kinabalu Park, in the State of Sabah on the northern end of the island of Borneo, is dominated by Mount Kinabalu (4,095 m), the highest mountain between the Himalayas and New Guinea. It has a very wide range of habitats, from rich tropical lowland and hill rainforest to tropical mountain forest, sub-alpine forest and scrub on the higher elevations. It has been designated as a Centre of Plant Diversity for Southeast Asia and is exceptionally rich in species with examples of flora from the Himalayas, China, Australia, Malaysia, as well as pan-tropical flora."
+ },
+ {
+  "id": "1013",
+  "en": "Gunung Mulu National Park",
+  "zh": "姆魯山國家公園",
+  "countries": [
+   "馬來西亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Important both for its high biodiversity and for its karst features, Gunung Mulu National Park, on the island of Borneo in the State of Sarawak, is the most studied tropical karst area in the world. The 52,864-ha park contains seventeen vegetation zones, exhibiting some 3,500 species of vascular plants. Its palm species are exceptionally rich, with 109 species in twenty genera noted. The park is dominated by Gunung Mulu, a 2,377 m-high sandstone pinnacle. At least 295 km of explored caves provide a spectacular sight and are home to millions of cave swiftlets and bats. The Sarawak Chamber, 600 m by 415 m and 80 m high, is the largest known cave chamber in the world."
+ },
+ {
+  "id": "1014",
+  "en": "The Archaeological Heritage of Niah National Park’s Caves Complex",
+  "zh": "尼亞洞",
+  "countries": [
+   "馬來西亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "v"
+  ],
+  "year": 2024,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This complex of colossal, interconnected caverns is located near the west coast of Borneo Island at the centre of Niah National Park. It contains the longest known records of human interaction with rainforest, spanning at least 50,000 years, from the Pleistocene to the Mid-Holocene periods. The rich archaeological deposits, prehistoric rock paintings and boat-shaped burials found at the northern edge of the massif illustrate biological and human life during this time, and contribute greatly to the knowledge of human development, adaptation and migration in southeast Asia, as well as in a global context. Local communities still observe an ancient tradition of molong – ‘take only what you need’— when harvesting guano and valuable edible bird’s nests from the caves."
+ },
+ {
+  "id": "1016",
+  "en": "Historical Centre of the City of Arequipa",
+  "zh": null,
+  "countries": [
+   "秘魯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iv"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The historic centre of Arequipa, built in volcanic sillar rock, represents an integration of European and native building techniques and characteristics, expressed in the admirable work of colonial masters and Criollo and Indian masons. This combination of influences is illustrated by the city's robust walls, archways and vaults, courtyards and open spaces, and the intricate Baroque decoration of its facades."
+ },
+ {
+  "id": "1017",
+  "en": "Central Suriname Nature Reserve",
+  "zh": "中蘇利南自然保護區",
+  "countries": [
+   "蘇利南"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2000,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Central Suriname Nature Reserve comprises 1.6 million ha of primary tropical forest of west-central Suriname. It protects the upper watershed of the Coppename River and the headwaters of the Lucie, Oost, Zuid, Saramaccz, and Gran Rio rivers and covers a range of topography and ecosystems of notable conservation value due to its pristine state. Its montane and lowland forests contain a high diversity of plant life with more than 5,000 vascular plant species collected to date. The Reserve's animals are typical of the region and include the jaguar, giant armadillo, giant river otter, tapir, sloths, eight species of primates and 400 bird species such as harpy eagle, Guiana cock-of-the-rock, and scarlet macaw."
+ },
+ {
+  "id": "1018",
+  "en": "Ephesus",
+  "zh": null,
+  "countries": [
+   "土耳其"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2015,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located within what was once the estuary of the River Kaystros, Ephesus comprises successive Hellenistic and Roman settlements founded on new locations, which followed the coastline as it retreated westward. Excavations have revealed grand monuments of the Roman Imperial period including the Library of Celsus and the Great Theatre. Little remains of the famous Temple of Artemis, one of the “Seven Wonders of the World,” which drew pilgrims from all around the Mediterranean. Since the 5 th century, the House of the Virgin Mary, a domed cruciform chapel seven kilometres from Ephesus, became a major place of Christian pilgrimage. The Ancient City of Ephesus is an outstanding example of a Roman port city, with sea channel and harbour basin."
+ },
+ {
+  "id": "1021",
+  "en": "Tsodilo",
+  "zh": "措迪洛山",
+  "countries": [
+   "波札那"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "With one of the highest concentrations of rock art in the world, Tsodilo has been called the ''Louvre of the Desert''. Over 4,500 paintings are preserved in an area of only 10 km2 of the Kalahari Desert. The archaeological record of the area gives a chronological account of human activities and environmental changes over at least 100,000 years. Local communities in this hostile environment respect Tsodilo as a place of worship frequented by ancestral spirits."
+ },
+ {
+  "id": "1022",
+  "en": "Tombs of Buganda Kings at Kasubi",
+  "zh": "卡蘇比王陵",
+  "countries": [
+   "烏干達"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Tombs of Buganda Kings at Kasubi constitute a site embracing almost 30 ha of hillside within Kampala district. Most of the site is agricultural, farmed by traditional methods. At its core on the hilltop is the former palace of the Kabakas of Buganda, built in 1882 and converted into the royal burial ground in 1884. Four royal tombs now lie within the Muzibu Azaala Mpanga, the main building, which is circular and surmounted by a dome. It is a major example of an architectural achievement in organic materials, principally wood, thatch, reed, wattle and daub. The site's main significance lies, however, in its intangible values of belief, spirituality, continuity and identity."
+ },
+ {
+  "id": "1023",
+  "en": "Natural System of Wrangel Island Reserve",
+  "zh": "弗蘭格爾島",
+  "countries": [
+   "俄羅斯"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Located well above the Arctic Circle, the site includes the mountainous Wrangel Island (7,608 km2), Herald Island (11 km 2 ) and surrounding waters. Wrangel was not glaciated during the Quaternary Ice Age, resulting in exceptionally high levels of biodiversity for this region. The island boasts the world’s largest population of Pacific walrus and the highest density of ancestral polar bear dens. It is a major feeding ground for the grey whale migrating from Mexico and the northernmost nesting ground for 100 migratory bird species, many endangered. Currently, 417 species and subspecies of vascular plants have been identified on the island, double that of any other Arctic tundra territory of comparable size and more than any other Arctic island. Some species are derivative of widespread continental forms, others are the result of recent hybridization, and 23 are endemic."
+ },
+ {
+  "id": "1024",
+  "en": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+  "zh": null,
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iv",
+   "v"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The eight towns in south-eastern Sicily: Caltagirone, Militello Val di Catania, Catania, Modica, Noto, Palazzolo, Ragusa and Scicli, were all rebuilt after 1693 on or beside towns existing at the time of the earthquake which took place in that year. They represent a considerable collective undertaking, successfully carried out at a high level of architectural and artistic achievement. Keeping within the late Baroque style of the day, they also depict distinctive innovations in town planning and urban building."
+ },
+ {
+  "id": "1025",
+  "en": "Villa d'Este, Tivoli",
+  "zh": "伊斯特別墅",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Villa d'Este in Tivoli, with its palace and garden, is one of the most remarkable and comprehensive illustrations of Renaissance culture at its most refined. Its innovative design along with the architectural components in the garden (fountains, ornamental basins, etc.) make this a unique example of an Italian 16th-century garden. The Villa d'Este, one of the first giardini delle meraviglie , was an early model for the development of European gardens."
+ },
+ {
+  "id": "1026",
+  "en": "Val d'Orcia",
+  "zh": "奧爾恰谷",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iv",
+   "vi"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The landscape of Val d’Orcia is part of the agricultural hinterland of Siena, redrawn and developed when it was integrated in the territory of the city-state in the 14th and 15th centuries to reflect an idealized model of good governance and to create an aesthetically pleasing picture. The landscape’s distinctive aesthetics, flat chalk plains out of which rise almost conical hills with fortified settlements on top, inspired many artists. Their images have come to exemplify the beauty of well-managed Renaissance agricultural landscapes. The inscription covers: an agrarian and pastoral landscape reflecting innovative land-management systems; towns and villages; farmhouses; and the Roman Via Francigena and its associated abbeys, inns, shrines, bridges, etc."
+ },
+ {
+  "id": "1027",
+  "en": "Mining Area of the Great Copper Mountain in Falun",
+  "zh": "法倫的大銅山礦區",
+  "countries": [
+   "瑞典"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "v"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The enormous mining excavation known as the Great Pit at Falun is the most striking feature of a landscape that illustrates the activity of copper production in this region since at least the 13th century. The 17th-century planned town of Falun with its many fine historic buildings, together with the industrial and domestic remains of a number of settlements spread over a wide area of the Dalarna region, provide a vivid picture of what was for centuries one of the world's most important mining areas."
+ },
+ {
+  "id": "1028",
+  "en": "Saltaire",
+  "zh": "索爾泰爾",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Saltaire, West Yorkshire, is a complete and well-preserved industrial village of the second half of the 19th century. Its textile mills, public buildings and workers' housing are built in a harmonious style of high architectural standards and the urban plan survives intact, giving a vivid impression of Victorian philanthropic paternalism."
+ },
+ {
+  "id": "1029",
+  "en": "Dorset and East Devon Coast",
+  "zh": "侏羅紀海岸",
+  "countries": [
+   "英國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The cliff exposures along the Dorset and East Devon coast provide an almost continuous sequence of rock formations spanning the Mesozoic Era, or some 185 million years of the earth's history. The area's important fossil sites and classic coastal geomorphologic features have contributed to the study of earth sciences for over 300 years."
+ },
+ {
+  "id": "1030",
+  "en": "Derwent Valley Mills",
+  "zh": "德文特河谷工業區",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Derwent Valley in central England contains a series of 18th- and 19th- century cotton mills and an industrial landscape of high historical and technological interest. The modern factory owes its origins to the mills at Cromford, where Richard Arkwright's inventions were first put into industrial-scale production. The workers' housing associated with this and the other mills remains intact and illustrate the socio-economic development of the area."
+ },
+ {
+  "id": "1031",
+  "en": "Historic Centre of Guimarães and Couros Zone",
+  "zh": null,
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [
+   2023
+  ],
+  "danger": false,
+  "en_desc": "The historic town of Guimarães is associated with the emergence of the Portuguese national identity in the 12th century. An exceptionally well-preserved and authentic example of the evolution of a medieval settlement into a modern town, its rich building typology exemplifies the specific development of Portuguese architecture from the 15th to 19th century through the consistent use of traditional building materials and techniques. The property includes two monastic complexes and an industrial area, the Couros Zone, which, like the local river, was named after the traditional craft of leather tanning. Evidence of the craft, though no longer practiced, persists in the form of tanneries, workers' houses and urban spaces from the 19th and early 20th centuries. The property bears witness to a thousand years of Portuguese urban, architectural and societal developments."
+ },
+ {
+  "id": "1033",
+  "en": "Historic Centre of Vienna",
+  "zh": "維也納歷史中心",
+  "countries": [
+   "奧地利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Vienna developed from early Celtic and Roman settlements into a Medieval and Baroque city, the capital of the Austro-Hungarian Empire. It played an essential role as a leading European music centre, from the great age of Viennese Classicism through the early part of the 20th century. The historic centre of Vienna is rich in architectural ensembles, including Baroque castles and gardens, as well as the late-19th-century Ringstrasse lined with grand buildings, monuments and parks."
+ },
+ {
+  "id": "1035",
+  "en": "Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks",
+  "zh": "佩魯瓦蘇洞國家公園",
+  "countries": [
+   "巴西"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "ix",
+   "x"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The two sites included in the designation contain flora and fauna and key habitats that characterize the Cerrado – one of the world’s oldest and most diverse tropical ecosystems. For millennia, these sites have served as refuge for several species during periods of climate change and will be vital for maintaining the biodiversity of the Cerrado region during future climate fluctuations."
+ },
+ {
+  "id": "1037",
+  "en": "Swiss Alps Jungfrau-Aletsch",
+  "zh": "阿萊奇自然保護區",
+  "countries": [
+   "瑞士"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix"
+  ],
+  "year": 2001,
+  "ext": [
+   2007
+  ],
+  "danger": false,
+  "en_desc": "The extension of the natural World Heritage property of Jungfrau - Aletsch - Bietschhorn (first inscribed in 2001), expands the site to the east and west, bringing its surface area up to 82,400 ha., up from 53,900. The site provides an outstanding example of the formation of the High Alps, including the most glaciated part of the mountain range and the largest glacier in Eurasia. It features a wide diversity of ecosystems, including successional stages due particularly to the retreat of glaciers resulting from climate change. The site is of outstanding universal value both for its beauty and for the wealth of information it contains about the formation of mountains and glaciers, as well as ongoing climate change. It is also invaluable in terms of the ecological and biological processes it illustrates, notably through plan succession. Its impressive landscape has played an important role in European art, literature, mountaineering and alpine tourism."
+ },
+ {
+  "id": "1039",
+  "en": "Yungang Grottoes",
+  "zh": "雲岡石窟",
+  "countries": [
+   "中國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Yungang Grottoes, in Datong city, Shanxi Province, with their 252 caves and 51,000 statues, represent the outstanding achievement of Buddhist cave art in China in the 5th and 6th centuries. The Five Caves created by Tan Yao, with their strict unity of layout and design, constitute a classical masterpiece of the first peak of Chinese Buddhist art."
+ },
+ {
+  "id": "1040",
+  "en": "Masada",
+  "zh": "馬薩達",
+  "countries": [
+   "以色列"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Masada is a rugged natural fortress, of majestic beauty, in the Judaean Desert overlooking the Dead Sea. It is a symbol of the ancient kingdom of Israel, its violent destruction and the last stand of Jewish patriots in the face of the Roman army, in 73 A.D. It was built as a palace complex, in the classic style of the early Roman Empire, by Herod the Great, King of Judaea, (reigned 37 – 4 B.C.). The camps, fortifications and attack ramp that encircle the monument constitute the most complete Roman siege works surviving to the present day."
+ },
+ {
+  "id": "1042",
+  "en": "Old City of Acre",
+  "zh": "阿科",
+  "countries": [
+   "以色列"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "v"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem."
+ },
+ {
+  "id": "1044",
+  "en": "Aranjuez Cultural Landscape",
+  "zh": "阿蘭胡埃斯文化景觀",
+  "countries": [
+   "西班牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Aranjuez cultural landscape is an entity of complex relationships: between nature and human activity, between sinuous watercourses and geometric landscape design, between the rural and the urban, between forest landscape and the delicately modulated architecture of its palatial buildings. Three hundred years of royal attention to the development and care of this landscape have seen it express an evolution of concepts from humanism and political centralization, to characteristics such as those found in its 18th century French-style Baroque garden, to the urban lifestyle which developed alongside the sciences of plant acclimatization and stock-breeding during the Age of Enlightenment."
+ },
+ {
+  "id": "1046",
+  "en": "Alto Douro Wine Region",
+  "zh": "上杜羅葡萄酒產區",
+  "countries": [
+   "葡萄牙"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "v"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Wine has been produced by traditional landholders in the Alto Douro region for some 2,000 years. Since the 18th century, its main product, port wine, has been world famous for its quality. This long tradition of viticulture has produced a cultural landscape of outstanding beauty that reflects its technological, social and economic evolution."
+ },
+ {
+  "id": "1052",
+  "en": "Tugendhat Villa in Brno",
+  "zh": "圖根哈特別墅",
+  "countries": [
+   "捷克"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Tugendhat Villa in Brno, designed by the architect Mies van der Rohe, is an outstanding example of the international style in the modern movement in architecture as it developed in Europe in the 1920s. Its particular value lies in the application of innovative spatial and aesthetic concepts that aim to satisfy new lifestyle needs by taking advantage of the opportunities afforded by modern industrial production."
+ },
+ {
+  "id": "1053",
+  "en": "Wooden Churches of Southern Małopolska",
+  "zh": "南部小波蘭木製教堂",
+  "countries": [
+   "波蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The wooden churches of southern Little Poland represent outstanding examples of the different aspects of medieval church-building traditions in Roman Catholic culture. Built using the horizontal log technique, common in eastern and northern Europe since the Middle Ages, these churches were sponsored by noble families and became status symbols. They offered an alternative to the stone structures erected in urban centres."
+ },
+ {
+  "id": "1054",
+  "en": "Churches of Peace in Jawor and Świdnica",
+  "zh": "亞沃爾和希維德尼察的和平教堂",
+  "countries": [
+   "波蘭"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Churches of Peace in Jawor and Świdnica, the largest timber-framed religious buildings in Europe, were built in the former Silesia in the mid-17th century, amid the religious strife that followed the Peace of Westphalia. Constrained by the physical and political conditions, the Churches of Peace bear testimony to the quest for religious freedom and are a rare expression of Lutheran ideology in an idiom generally associated with the Catholic Church."
+ },
+ {
+  "id": "1055",
+  "en": "Lamu Old Town",
+  "zh": "拉穆鎮",
+  "countries": [
+   "肯亞"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "vi"
+  ],
+  "year": 2001,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures."
+ },
+ {
+  "id": "1056",
+  "en": "Mahabodhi Temple Complex at Bodh Gaya",
+  "zh": "摩訶菩提寺",
+  "countries": [
+   "印度"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Mahabodhi Temple Complex is one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment. The first temple was built by Emperor Asoka in the 3rd century B.C., and the present temple dates from the 5th or 6th centuries. It is one of the earliest Buddhist temples built entirely in brick, still standing in India, from the late Gupta period."
+ },
+ {
+  "id": "1058",
+  "en": "Portuguese City of Mazagan (El Jadida)",
+  "zh": null,
+  "countries": [
+   "摩洛哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Portuguese fortification of Mazagan, now part of the city of El Jadida, 90-km southwest of Casablanca, was built as a fortified colony on the Atlantic coast in the early 16th century. It was taken over by the Moroccans in 1769. The fortification with its bastions and ramparts is an early example of Renaissance military design. The surviving Portuguese buildings include the cistern and the Church of the Assumption, built in the Manueline style of late Gothic architecture. The Portuguese City of Mazagan - one of the early settlements of the Portuguese explorers in West Africa on the route to India - is an outstanding example of the interchange of influences between European and Moroccan cultures, well reflected in architecture, technology, and town planning."
+ },
+ {
+  "id": "1060",
+  "en": "Kenya Lake System in the Great Rift Valley",
+  "zh": null,
+  "countries": [
+   "肯亞"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "ix",
+   "x"
+  ],
+  "year": 2011,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance."
+ },
+ {
+  "id": "1061",
+  "en": "Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche",
+  "zh": null,
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "mixed",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "ix",
+   "x"
+  ],
+  "year": 2002,
+  "ext": [
+   2014
+  ],
+  "danger": false,
+  "en_desc": "The site is located in the central/southern portion of the Yucatán Peninsula, in southern Mexico and includes the remains of the important Maya city Calakmul, set deep in the tropical forest of the Tierras Bajas. The city played a key role in the history of this region for more than twelve centuries and is characterized by well-preserved structures providing a vivid picture of life in an ancient Maya capital. The property also falls within the Mesoamerica biodiversity hotspot, the third largest in the world, encompassing all subtropical and tropical ecosystems from central Mexico to the Panama Canal."
+ },
+ {
+  "id": "1063",
+  "en": "Tokaj Wine Region Historic Cultural Landscape",
+  "zh": null,
+  "countries": [
+   "匈牙利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "v"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries."
+ },
+ {
+  "id": "1066",
+  "en": "Upper Middle Rhine Valley",
+  "zh": "萊茵峽谷",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv",
+   "v"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The 65km-stretch of the Middle Rhine Valley, with its castles, historic towns and vineyards, graphically illustrates the long history of human involvement with a dramatic and varied natural landscape. It is intimately associated with history and legend and for centuries has exercised a powerful influence on writers, artists and composers."
+ },
+ {
+  "id": "1067",
+  "en": "Historic Centres of Stralsund and Wismar",
+  "zh": "施特拉爾松德與維斯馬老城區",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2002,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The medieval towns of Wismar and Stralsund, on the Baltic coast of northern Germany, were major trading centres of the Hanseatic League in the 14th and 15th centuries. In the 17th and 18th centuries they became Swedish administrative and defensive centres for the German territories. They contributed to the development of the characteristic building types and techniques of Brick Gothic in the Baltic region, as exemplified in several important brick cathedrals, the Town Hall of Stralsund, and the series of houses for residential, commercial and crafts use, representing its evolution over several centuries."
+ },
+ {
+  "id": "1068",
+  "en": "<I>Sacri Monti</I> of Piedmont and Lombardy",
+  "zh": "皮埃蒙特和倫巴第的聖山",
+  "countries": [
+   "義大利"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iv"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The nine Sacri Monti (Sacred Mountains) of northern Italy are groups of chapels and other architectural features created in the late 16th and 17th centuries and dedicated to different aspects of the Christian faith. In addition to their symbolic spiritual meaning, they are of great beauty by virtue of the skill with which they have been integrated into the surrounding natural landscape of hills, forests and lakes. They also house much important artistic material in the form of wall paintings and statuary."
+ },
+ {
+  "id": "1070",
+  "en": "Citadel, Ancient City and Fortress Buildings of Derbent",
+  "zh": "傑爾賓特燈塔",
+  "countries": [
+   "俄羅斯"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Citadel, Ancient City and Fortress Buildings of Derbent were part of the northern lines of the Sasanian Persian Empire, which extended east and west of the Caspian Sea. The fortification was built in stone. It consisted of two parallel walls that formed a barrier from the seashore up to the mountain. The town of Derbent was built between these two walls, and has retained part of its medieval fabric. The site continued to be of great strategic importance until the 19th century."
+ },
+ {
+  "id": "1073",
+  "en": "Gebel Barkal and the Sites of the Napatan Region",
+  "zh": null,
+  "countries": [
+   "蘇丹"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places."
+ },
+ {
+  "id": "1076",
+  "en": "Gobustan Rock Art Cultural Landscape",
+  "zh": "戈布斯坦岩石藝術文化景觀",
+  "countries": [
+   "亞塞拜然"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii"
+  ],
+  "year": 2007,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Gobustan Rock Art Cultural Landscape covers three areas of a plateau of rocky boulders rising out of the semi-desert of central Azerbaijan, with an outstanding collection of more than 6,000 rock engravings bearing testimony to 40,000 years of rock art. The site also features the remains of inhabited caves, settlements and burials, all reflecting an intensive human use by the inhabitants of the area during the wet period that followed the last Ice Age, from the Upper Paleolithic to the Middle Ages. The site, which covers an area of 537 ha, is part of the larger protected Gobustan Reservation."
+ },
+ {
+  "id": "1077",
+  "en": "Takht-e Soleyman",
+  "zh": "塔赫特蘇萊曼",
+  "countries": [
+   "伊朗"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The archaeological site of Takht-e Soleyman, in north-western Iran, is situated in a valley set in a volcanic mountain region. The site includes the principal Zoroastrian sanctuary partly rebuilt in the Ilkhanid (Mongol) period (13th century) as well as a temple of the Sasanian period (6th and 7th centuries) dedicated to Anahita. The site has important symbolic significance. The designs of the fire temple, the palace and the general layout have strongly influenced the development of Islamic architecture."
+ },
+ {
+  "id": "1078",
+  "en": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+  "zh": null,
+  "countries": [
+   "捷克"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The ensemble of the Jewish Quarter, the old Jewish cemetery and the Basilica of St Procopius in Třebíč are reminders of the co-existence of Jewish and Christian cultures from the Middle Ages to the 20th century. The Jewish Quarter bears outstanding testimony to the different aspects of the life of this community. St Procopius' Basilica, built as part of the Benedictine monastery in the early 13th century, is a remarkable example of the influence of Western European architectural heritage in this region."
+ },
+ {
+  "id": "1079",
+  "en": "Franciscan Missions in the Sierra Gorda of Querétaro",
+  "zh": "克雷塔羅州的謝拉戈達的方濟會傳教區",
+  "countries": [
+   "墨西哥"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The five Franciscan missions of Sierra Gorda were built during the last phase of the conversion to Christianity of the interior of Mexico in the mid-18th century and became an important reference for the continuation of the evangelization of California, Arizona and Texas. The richly decorated church façades are of special interest as they represent an example of the joint creative efforts of the missionaries and the Indios. The rural settlements that grew around the missions have retained their vernacular character."
+ },
+ {
+  "id": "1081",
+  "en": "Orkhon Valley Cultural Landscape",
+  "zh": "鄂爾渾河谷",
+  "countries": [
+   "蒙古"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of pastureland on both banks of the Orkhon River and includes numerous archaeological remains dating back to the 6th century. The site also includes Kharkhorum, the 13th- and 14th-century capital of Chingis (Genghis) Khan’s vast Empire. Collectively the remains in the site reflect the symbiotic links between nomadic, pastoral societies and their administrative and religious centres, and the importance of the Orkhon valley in the history of central Asia. The grassland is still grazed by Mongolian nomadic pastoralists."
+ },
+ {
+  "id": "1083",
+  "en": "Three Parallel Rivers of Yunnan Protected Areas",
+  "zh": "雲南三江並流保護區",
+  "countries": [
+   "中國"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "vii",
+   "viii",
+   "ix",
+   "x"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "Consisting of eight geographical clusters of protected areas within the boundaries of the Three Parallel Rivers National Park, in the mountainous north-west of Yunnan Province, the 1.7 million hectare site features sections of the upper reaches of three of the great rivers of Asia: the Yangtze (Jinsha), Mekong and Salween run roughly parallel, north to south, through steep gorges which, in places, are 3,000 m deep and are bordered by glaciated peaks more than 6,000 m high. The site is an epicentre of Chinese biodiversity. It is also one of the richest temperate regions of the world in terms of biodiversity."
+ },
+ {
+  "id": "1084",
+  "en": "Royal Botanic Gardens, Kew",
+  "zh": "邱園",
+  "countries": [
+   "英國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2003,
+  "ext": [],
+  "danger": false,
+  "en_desc": "This historic landscape garden features elements that illustrate significant periods of the art of gardens from the 18th to the 20th centuries. The gardens house botanic collections (conserved plants, living plants and documents) that have been considerably enriched through the centuries. Since their creation in 1759, the gardens have made a significant and uninterrupted contribution to the study of plant diversity and economic botany."
+ },
+ {
+  "id": "1087",
+  "en": "Town Hall and Roland on the Marketplace of Bremen",
+  "zh": "不来梅市政厅",
+  "countries": [
+   "德國"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "iii",
+   "iv",
+   "vi"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The Town Hall and the statue of Roland on the marketplace of Bremen in north-west Germany are outstanding representations of civic autonomy and sovereignty, as these developed in the Holy Roman Empire in Europe. The old town hall was built in the Gothic style in the early 15th century, after Bremen joined the Hanseatic League. The building was renovated in the so-called Weser Renaissance style in the early 17th century. A new town hall was built next to the old one in the early 20th century as part of an ensemble that survived bombardment during the Second World War. The statue stands 5.5 m tall and dates back to 1404."
+ },
+ {
+  "id": "1090",
+  "en": "Monte San Giorgio",
+  "zh": null,
+  "countries": [
+   "瑞士",
+   "義大利"
+  ],
+  "cat": "natural",
+  "criteria": [
+   "viii"
+  ],
+  "year": 2003,
+  "ext": [
+   2010
+  ],
+  "danger": false,
+  "en_desc": "The pyramid-shaped, wooded mountain of Monte San Giorgio beside Lake Lugano is regarded as the best fossil record of marine life from the Triassic Period (245–230 million years ago). The sequence records life in a tropical lagoon environment, sheltered and partially separated from the open sea by an offshore reef. Diverse marine life flourished within this lagoon, including reptiles, fish, bivalves, ammonites, echinoderms and crustaceans. Because the lagoon was near land, the remains also include land-based fossils of reptiles, insects and plants, resulting in an extremely rich source of fossils."
+ },
+ {
+  "id": "1091",
+  "en": "Complex of Koguryo Tombs",
+  "zh": "高句麗墓葬群",
+  "countries": [
+   "北韓"
+  ],
+  "cat": "cultural",
+  "criteria": [
+   "i",
+   "ii",
+   "iii",
+   "iv"
+  ],
+  "year": 2004,
+  "ext": [],
+  "danger": false,
+  "en_desc": "The property includes several group and individual tombs - totalling about 30 individual tombs - from the later period of the Koguryo Kingdom, one of the strongest kingdoms in nowadays northeast China and half of the Korean peninsula between the 3rd century BC to 7th century AD. The tombs, many with beautiful wall paintings, are almost the only remains of this culture. Only about 90 out of more than 10,000 Koguryo tombs discovered in China and Korea so far, have wall paintings. Almost half of these tombs are located on this site and they are thought to have been made for the burial of kings, members of the royal family and the aristocracy. These paintings offer a unique testimony to daily life of this period."
+ }
+]
