@@ -1,6 +1,6 @@
 {
- "version": "v0.1",
- "updated": "2026-10-28",
+ "version": "v0.2",
+ "updated": "2026-10-29",
  "counts": {
   "sites": 1273,
   "cultural": 991,
@@ -9,9 +9,10 @@
   "danger": 54,
   "countries": 173,
   "with_photo": 0,
-  "with_intro": 0
+  "with_intro": 360
  },
  "notes": [
-  "v0.1（2026-10-28）：清單取自 UNESCO 世界遺產名錄官方資料（1,273 處，CC BY-SA 3.0 IGO）與 Wikidata；中文名稱 960 處取自 Wikidata，其餘待補；照片與介紹陸續加入。"
+  "v0.1（2026-10-28）：清單取自 UNESCO 世界遺產名錄官方資料（1,273 處，CC BY-SA 3.0 IGO）與 Wikidata；中文名稱 960 處取自 Wikidata，其餘待補；照片與介紹陸續加入。",
+  "v0.2（2026-10-29）：前 360 處加入繁體中文介紹與要點（AI 依 UNESCO 官方簡介撰寫，Gemini 事實核對中）；補 85 個中文名稱。"
  ]
 }
