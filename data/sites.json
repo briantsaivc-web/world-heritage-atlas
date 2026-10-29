@@ -1228,12 +1228,19 @@
 "Q1217726"
 ],
 "en_desc": "The Ngorongoro Conservation Area spans vast expanses of highland plains, savanna, savanna woodlands and forests. Established in 1959 as a multiple land use area, with wildlife coexisting with semi-nomadic Maasai pastoralists practicing traditional livestock grazing, it includes the spectacular Ngorongoro Crater, the world’s largest caldera. The property has global importance for biodiversity conservation due to the presence of globally threatened species, the density of wildlife inhabiting the area, and the annual migration of wildebeest, zebra, gazelles and other animals into the northern plains. Extensive archaeological research has also yielded a long sequence of evidence of human evolution and human-environment dynamics, including early hominid footprints dating back 3.6 million years.",
-"intro": "恩戈羅恩戈羅自然保護區位於坦尚尼亞北部，涵蓋高地平原、草原、疏林草原與森林。保護區於一九五九年設立，採多重土地利用模式，讓野生動物與半游牧的馬賽牧民及其傳統放牧並存。區內有恩戈羅恩戈羅火山口，是世界最大的完整火山口之一。登錄標準共五項，包括作為人類歷史重要階段的傑出例證（iv）、卓越自然美景（vii）、地質過程（viii）、生態過程（ix），以及生物多樣性保育（x）。保護區擁有受威脅物種、密集的野生動物，以及每年穿越北部平原的牛羚、斑馬與瞪羚遷徙，在全球生物多樣性保育上占有重要地位。廣泛的考古研究也在此提供了漫長的人類演化證據，其中包括可追溯到三百六十萬年前的早期原始人類足跡。本遺產於一九七九年登錄，二○一○年增列文化標準，成為混合遺產。人口成長、牲畜、旅遊壓力與牧民遷移問題，使如何平衡保育和居民權益成為重要課題。",
+"intro": "恩戈羅恩戈羅自然保護區位於坦尚尼亞北部，涵蓋高地平原、草原、疏林草原與森林。保護區於一九五九年設立，採多重土地利用模式，讓野生動物與半游牧的馬賽牧民及其傳統放牧並存。區內有恩戈羅恩戈羅火山口，是世界最大的破火山口。登錄標準共五項，包括作為人類歷史重要階段的傑出例證（iv）、卓越自然美景（vii）、地質過程（viii）、生態過程（ix），以及生物多樣性保育（x）。保護區擁有受威脅物種、密集的野生動物，以及每年穿越北部平原的牛羚、斑馬與瞪羚遷徙，在全球生物多樣性保育上占有重要地位。廣泛的考古研究也在此提供了漫長的人類演化證據，其中包括可追溯到三百六十萬年前的早期原始人類足跡。本遺產於一九七九年登錄，二○一○年增列文化標準，成為混合遺產。人口成長、牲畜、旅遊壓力與牧民遷移問題，使如何平衡保育和居民權益成為重要課題。",
 "highlights": [
-"火山口被稱為世界最大的火山口，是保護區地貌核心",
+"火山口被稱為世界最大的破火山口，是保護區地貌核心",
 "野生動物與半游牧馬賽牧民在同一區域並存",
 "牛羚、斑馬與瞪羚每年遷徙進入北部平原",
 "考古紀錄包括三百六十萬年前的早期原始人類足跡"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "官方 en_desc 為 world's largest caldera，原文「之一」「完整」不符。"
+}
 ]
 },
 {
@@ -2215,12 +2222,18 @@
 "Q9278"
 ],
 "en_desc": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
-"intro": "阿布米那是一座早期基督教聖城，位於埃及亞歷山卓附近。這裡的教堂、洗禮堂、巴西利卡、公共建築、街道、修道院、住宅與工坊，都建在殉道者亞歷山卓的米納斯墓上，米納斯於西元二九六年殉教。登錄標準僅有（iv），表示它是早期基督教朝聖城市的傑出範例。遺址曾是重要的朝聖中心，許多人前來紀念米納斯並尋求庇護，並形成了完整的城市格局。後來這座城市逐漸衰落，遺跡長期被沙土掩蓋。本遺產於一九七九年登錄，是埃及較早的世界遺產之一。後來，由於周邊農業灌溉導致地下水位上升，使地基土壤不穩定，建築結構出現坍塌，遺址於二○○一年列入瀕危名錄。因此，認識阿布米那時，應注意它同時是重要的基督教遺址，也是遺產保護與環境變化相互影響的例子。",
+"intro": "阿布米那是一座早期基督教聖城，位於埃及亞歷山卓附近。這裡的教堂、洗禮堂、巴西利卡、公共建築、街道、修道院、住宅與工坊，都建在殉道者亞歷山卓的米納斯墓上，米納斯於西元二九六年殉教。登錄標準僅有（iv），表示它是早期基督教朝聖城市的傑出範例。遺址曾是重要的朝聖中心，許多人前來紀念米納斯並尋求庇護，並形成了完整的城市格局。後來這座城市逐漸衰落，遺跡長期被沙土掩蓋。本遺產於一九七九年登錄，是埃及較早的世界遺產之一。後來，由於周邊農業灌溉導致地下水位上升，使地基土壤不穩定，建築結構出現坍塌，遺址曾於二○○一年列入瀕危名錄，後已移出。認識阿布米那時，可留意它同時是重要的基督教遺址，也是遺產保護與環境變化相互影響的例子。",
 "highlights": [
 "遺址建在殉道者米納斯的墓上，他於西元二九六年殉教",
 "教堂、洗禮堂、街道、住宅與工坊構成完整城市格局",
-"曾是早期基督教的重要朝聖中心",
-"地下水位上升是遺址面臨的重大威脅"
+"曾是早期基督教的重要朝聖中心"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "danger=false；阿布米那曾於2001年列入瀕危名錄，現已不在名單上。年份不確定，不寫移出年份。"
+}
 ]
 },
 {
@@ -3673,12 +3686,19 @@
 "Q372093"
 ],
 "en_desc": "Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout.",
-"intro": "奧林匹克國家公園位於美國華盛頓州西北部，以生態系統的多樣性著稱。冰川覆蓋的山峰與寬廣的高山草甸，被大片古老原始林環繞，其中包括太平洋西北地區保存最完整的溫帶雨林。十一條主要水系從奧林匹克山脈流出，為溯河洞游魚類提供了全國最佳的棲地之一。公園也包含100公里的荒野海岸線，是美國本土最長的未開發海岸。這些景觀符合標準（vii）與（ix）。園內有許多原生與特有的動植物，包括瀕危的北方斑點鴞、斑海雀與牛鱒。多種生態系統在相對短的距離內並存，從海岸、雨林到山頂冰川，使這處遺產成為研究生態系統相互關係的重要場所。氣候變遷造成的冰川縮減與河流變化也是保護上的關注重點。公園內不同生態區域在一次旅程中便可依序經歷，這種從海岸到高山的連續性，是其最突出的特色之一。",
+"intro": "奧林匹克國家公園位於美國華盛頓州西北部，以生態系統的多樣性著稱。冰川覆蓋的山峰與寬廣的高山草甸，被大片古老原始林環繞，其中包括太平洋西北地區保存最完整的溫帶雨林。十一條主要水系從奧林匹克山脈流出，為溯河洄游魚類提供了全國最佳的棲地之一。公園也包含100公里的荒野海岸線，是美國本土最長的未開發海岸。這些景觀符合標準（vii）與（ix）。園內有許多原生與特有的動植物，包括瀕危的北方斑點鴞、斑海雀與牛鱒。多種生態系統在相對短的距離內並存，從海岸、雨林到山頂冰川，使這處遺產成為研究生態系統相互關係的重要場所。氣候變遷造成的冰川縮減與河流變化也是保護上的關注重點。公園內不同生態區域在一次旅程中便可依序經歷，這種從海岸到高山的連續性，是其最突出的特色之一。",
 "highlights": [
 "保有太平洋西北地區最完整的溫帶雨林之一",
 "擁有100公里荒野海岸線，是美國本土最長的未開發海岸",
-"十一條水系是溯河洞游魚類的重要棲地",
+"十一條水系是溯河洄游魚類的重要棲地",
 "從海岸到冰川山峰，生態系統多樣"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "anadromous 應為「洄游」，「洞游」為誤字。"
+}
 ]
 },
 {
@@ -4046,12 +4066,19 @@
 "Q15726321"
 ],
 "en_desc": "Situated in the Rhone valley, the ancient theatre of Orange, with its 103-m-long facade, is one of the best preserved of all the great Roman theatres. Built between A.D. 10 and 25, the Roman arch is one of the most beautiful and interesting surviving examples of a provincial triumphal arch from the reign of Augustus. It is decorated with low reliefs commemorating the establishment of the Pax Romana.",
-"intro": "奧朗日位於法國隆河谷地，這處遺產包括古羅馬劇場及其周圍環境，以及一座凱旋門。奧朗日的古代劇場正面長達103公尺，是所有大型羅馬劇場中保存最完好的之一，興建於西元10年至25年間。羅馬凱旋門是奧古斯都時期現存的行省凱旋門中最美、最有意思的實例之一，上面以低浮雕裝飾，紀念羅馬和平的建立。這處遺產符合標準（iii）與（vi），為羅馬帝國在高盧南部的城市文化與政治影響提供了見證。劇場的舞台背牆仍保存下來，至今依然用於表演活動，使古代建築與當代文化生活相連。凱旋門則位於昔日羅馬道路上，說明城市與交通、帝國權力之間的關係。這些建築在古代城市規模與建築技術的研究上有重要價值。這處遺產讓人得以從單一城市遺跡，一窺羅馬帝國如何在各行省以建築表達統治與文化認同。",
+"intro": "奧朗日位於法國隆河谷地，這處遺產包括古羅馬劇場及其周圍環境，以及一座凱旋門。奧朗日的古代劇場正面長達103公尺，是所有大型羅馬劇場中保存最完好的之一。羅馬凱旋門興建於西元10年至25年間，是奧古斯都時期現存的行省凱旋門中最美、最有意思的實例之一，上面以低浮雕裝飾，紀念羅馬和平的建立。這處遺產符合標準（iii）與（vi），為羅馬帝國在高盧南部的城市文化與政治影響提供了見證。劇場的舞台背牆仍保存下來，至今依然用於表演活動，使古代建築與當代文化生活相連。凱旋門則位於昔日羅馬道路上，說明城市與交通、帝國權力之間的關係。這些建築在古代城市規模與建築技術的研究上有重要價值。這處遺產讓人得以從單一城市遺跡，一窺羅馬帝國如何在各行省以建築表達統治與文化認同。",
 "highlights": [
 "古代劇場正面長達103公尺",
 "劇場是保存最完好的羅馬大型劇場之一",
 "凱旋門以低浮雕紀念羅馬和平的建立",
 "舞台背牆保存下來，劇場至今仍用於表演"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "en_desc 中 A.D.10–25 是凱旋門的建造年代，非劇場；將年份移到凱旋門句。"
+}
 ]
 },
 {
@@ -5162,12 +5189,19 @@
 "Q2268839"
 ],
 "en_desc": "Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km 2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands.",
-"intro": "塞盧斯禁獵區位於坦尚尼亞南部，面積約五萬平方公里，是一處規模龐大、受人為干擾相對較少的保護區。這裡棲息著大量的象、黑犀牛、獵豹、長頸鹿、河馬與鱷魚，植被類型多樣，從茂密的灌木叢到開闊的疏林草原都有。它符合自然遺產標準第九與第十項，分別是持續進行中的生態與生物演化過程，以及重要的生物多樣性棲地。保護區內有河流貫穿，濕地與林地交錯，為不同的野生動物提供多樣棲地，也是非洲大型哺乳動物重要的庇護所之一。遺產於1982年登錄，2014年因為嚴重的盜獵導致象與犀牛數量大幅下降，加上境內計畫推動的採礦與基礎建設等壓力，被列入瀕危世界遺產名錄。其保護現況與後續處置較為複雜，以官方最新公告為準。整體而言，這處保護區代表東非與南部非洲之間生態系的重要交會，其存續與盜獵防治直接相關。",
+"intro": "塞盧斯禁獵區位於坦尚尼亞南部，面積約五萬平方公里，是一處規模龐大、受人為干擾相對較少的保護區。這裡棲息著大量的象、黑犀牛、獵豹、長頸鹿、河馬與鱷魚，植被類型多樣，從茂密的灌木叢到開闊的疏林草原都有。它符合自然遺產標準第九與第十項，分別是持續進行中的生態與生物演化過程，以及重要的生物多樣性棲地。保護區內有河流貫穿，濕地與林地交錯，為不同的野生動物提供多樣棲地，也是非洲大型哺乳動物重要的庇護所之一。遺產於1982年登錄，2014年因為嚴重的盜獵導致象與犀牛數量大幅下降，加上境內計畫推動的採礦與基礎建設等壓力，被列入瀕危世界遺產名錄，至今仍在名錄上。整體而言，這處保護區代表東非與南部非洲之間生態系的重要交會，其存續與盜獵防治直接相關。",
 "highlights": [
 "面積約五萬平方公里，是非洲規模最大的保護區之一",
 "棲息大量的象、黑犀牛、獵豹、長頸鹿、河馬與鱷魚",
 "植被從茂密灌叢到開闊疏林草原，類型多樣",
 "盜獵與開發壓力使其列入瀕危名錄"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "danger=true，仍在瀕危名錄；原句語氣含糊，明確寫出至今仍在名單上。"
+}
 ]
 },
 {
@@ -6638,12 +6672,19 @@
 "unesco": "https://whc.unesco.org/en/list/262",
 "q": [],
 "en_desc": "The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs.",
-"intro": "這處遺產由兩個分開的區域組成，位於蘇丹的紅海海岸外。桑加奈卜是紅海中部一處孤立的珊瑚礁結構，也是蘇丹唯一的環礁，距離海岸二十五公里。第二部分為敦戈納布灣和穆卡瓦爾島，位於蘇丹港以北一百二十五公里，擁有高度多樣的系統，包括珊瑚礁、紅樹林、海草床、海灘與小島，是海鳥、海洋哺乳動物、魚類、鯊魚、海龜與鬼蝠魟的棲地。敦戈納布灣還有全球具重要意義的儒艮族群。遺產符合自然遺產標準第七、九、十項，涵蓋自然美景、生態與演化過程，以及生物多樣性。遺產於2016年登錄，為蘇丹的第一處世界遺產，珊瑚礁與周邊海域的保護，需要面對漁業與人類活動的壓力。兩個區域各自代表紅海不同類型的海洋環境，合併後讓遺產涵蓋較完整的珊瑚礁生態系。",
+"intro": "這處遺產由兩個分開的區域組成，位於蘇丹的紅海海岸外。桑加奈卜是紅海中部一處孤立的珊瑚礁結構，也是蘇丹唯一的環礁，距離海岸二十五公里。第二部分為敦戈納布灣和穆卡瓦爾島，位於蘇丹港以北一百二十五公里，擁有高度多樣的系統，包括珊瑚礁、紅樹林、海草床、海灘與小島，是海鳥、海洋哺乳動物、魚類、鯊魚、海龜與鬼蝠魟的棲地。敦戈納布灣還有全球具重要意義的儒艮族群。遺產符合自然遺產標準第七、九、十項，涵蓋自然美景、生態與演化過程，以及生物多樣性。遺產於2016年登錄，為蘇丹的第一處世界自然遺產，珊瑚礁與周邊海域的保護，需要面對漁業與人類活動的壓力。兩個區域各自代表紅海不同類型的海洋環境，合併後讓遺產涵蓋較完整的珊瑚礁生態系。",
 "highlights": [
 "由桑加奈卜與敦戈納布灣－穆卡瓦爾島兩個分開區域組成",
 "桑加奈卜是蘇丹唯一的環礁，距海岸25公里",
 "敦戈納布灣有全球具重要意義的儒艮族群",
 "珊瑚礁、紅樹林與海草床並存，也是鯊魚、海龜與鬼蝠魟的棲地"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "蘇丹較早有 Gebel Barkal（2003）與 Meroe（2011），2016 桑加奈卜僅為第一處自然遺產。"
+}
 ]
 },
 {
@@ -9570,12 +9611,19 @@
 "Q752266"
 ],
 "en_desc": "Durham Cathedral was built in the late 11th and early 12th centuries to house the relics of St Cuthbert (evangelizer of Northumbria) and the Venerable Bede. It attests to the importance of the early Benedictine monastic community and is the largest and finest example of Norman architecture in England. The innovative audacity of its vaulting foreshadowed Gothic architecture. Behind the cathedral stands the castle, an ancient Norman fortress which was the residence of the prince-bishops of Durham.",
-"intro": "達勒姆大教堂建於十一世紀末至十二世紀初，用來安放諾森布里亞地區傳教者聖卡斯伯特與聖者比德的聖髑。登錄標準為第二、四與六項。大教堂見證了早期本篤會修道團體的重要性，是英格蘭最大、最精美的諾曼式建築範例，其拱頂設計大膽創新，預示了哥德式建築的出現。大教堂後方矗立的城堡，是一座古老的諾曼要塞，曾是達勒姆侯爵主教的居所。教堂與城堡共同坐落在河流環繞的高地上，體現了中世紀宗教權力與世俗權力的結合。這處遺產是研究英格蘭中世紀建築演進的重要例項。達勒姆大教堂與城堡共同坐落於河流彎曲處的半島高地，天際線自古便是這座城市的象徵。建築的石造結構與雕刻細節，展現了諾曼時期的工藝水準與宗教熱忱。大教堂內部高聳的拱頂與厚重的圓柱，是參觀時最直接的印象。",
+"intro": "達勒姆大教堂建於十一世紀末至十二世紀初，用來安放諾森布里亞地區傳教者聖卡斯伯特與聖者比德的聖髑。登錄標準為第二、四與六項。大教堂見證了早期本篤會修道團體的重要性，是英格蘭最大、最精美的諾曼式建築範例，其拱頂設計大膽創新，預示了哥德式建築的出現。大教堂後方矗立的城堡，是一座古老的諾曼要塞，曾是達勒姆采邑主教的居所。教堂與城堡共同坐落在河流環繞的高地上，體現了中世紀宗教權力與世俗權力的結合。這處遺產是研究英格蘭中世紀建築演進的重要例項。達勒姆大教堂與城堡共同坐落於河流彎曲處的半島高地，天際線自古便是這座城市的象徵。建築的石造結構與雕刻細節，展現了諾曼時期的工藝水準與宗教熱忱。大教堂內部高聳的拱頂與厚重的圓柱，是參觀時最直接的印象。",
 "highlights": [
 "大教堂建於十一世紀末至十二世紀初，供奉聖卡斯伯特與比德",
 "是英格蘭最大、最精美的諾曼式建築範例",
 "大膽創新的拱頂預示了哥德式建築",
-"後方的城堡曾是達勒姆侯爵主教的居所"
+"後方的城堡曾是達勒姆采邑主教的居所"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "prince-bishop 應譯「采邑主教」，「侯爵」為誤譯。"
+}
 ]
 },
 {
@@ -11534,12 +11582,19 @@
 "Q910180"
 ],
 "en_desc": "No doubt thousands of statues still remain to be unearthed at this archaeological site, which was not discovered until 1974. Qin (d. 210 B.C.), the first unifier of China, is buried, surrounded by the famous terracotta warriors, at the centre of a complex designed to mirror the urban plan of the capital, Xianyan. The small figures are all different; with their horses, chariots and weapons, they are masterpieces of realism and also of great historical interest.",
-"intro": "秦始皇陵位於中國陝西，是中國第一位統一者秦始皇（卒於西元前210年）的陵墓。該遺址直到1974年才被發現，周圍有著名的兵馬俑環繞，陵墓位於一處模仿都城咸陽城市規劃的建築群中央。出土的小型人像各不相同，連同馬匹、戰車與兵器，既是寫實主義的傑作，也具有重要的歷史價值。這處遺產對應標準一、三、四、六，展現秦代的軍事組織、工藝與喪葬觀念，以及統一帝國初期的威權與資源動員。官方簡介指出，仍有許多雕像尚待出土，意味著考古工作仍在進行。兵馬俑坑內的陣列呈現當時軍隊的編制，為研究秦代歷史提供了不可替代的實物資料。陵墓封土至今尚未全面發掘，保護與研究的優先考量是避免破壞，因此地宮部分仍保持原狀。遺址上已建有展館保護俑坑，讓參觀者可以在保存條件受控的環境中看到出土的陶俑。",
+"intro": "秦始皇陵位於中國陝西，是中國第一位統一者秦始皇（卒於西元前210年）的陵墓。該遺址直到1974年才被發現，周圍有著名的兵馬俑環繞，陵墓位於一處模仿都城咸陽城市規劃的建築群中央。出土的陶俑各不相同，連同馬匹、戰車與兵器，既是寫實主義的傑作，也具有重要的歷史價值。這處遺產對應標準一、三、四、六，展現秦代的軍事組織、工藝與喪葬觀念，以及統一帝國初期的威權與資源動員。官方簡介指出，仍有許多雕像尚待出土，意味著考古工作仍在進行。兵馬俑坑內的陣列呈現當時軍隊的編制，為研究秦代歷史提供了不可替代的實物資料。陵墓封土至今尚未全面發掘，保護與研究的優先考量是避免破壞，因此地宮部分仍保持原狀。遺址上已建有展館保護俑坑，讓參觀者可以在保存條件受控的環境中看到出土的陶俑。",
 "highlights": [
 "遺址於1974年才被發現，考古工作至今仍在進行",
 "陵墓所在的建築群仿照都城咸陽的城市規劃",
 "兵馬俑每件各有不同，與馬匹、戰車與兵器共同出土",
 "俑坑中的陣列提供研究秦代軍隊編制的實物資料"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "兵馬俑為真人大小，官方簡介 small figures 為已知誤植；改為中性說法。"
+}
 ]
 },
 {
@@ -11763,12 +11818,19 @@
 "Q499552"
 ],
 "en_desc": "Scientific work at the site, which lies 42 km south-west of Beijing, is still underway. So far, it has led to the discovery of the remains of Sinanthropus pekinensis , who lived in the Middle Pleistocene, along with various objects, and remains of Homo sapiens sapiens dating as far back as 18,000–11,000 B.C. The site is not only an exceptional reminder of the prehistorical human societies of the Asian continent, but also illustrates the process of evolution.",
-"intro": "周口店遺址位於北京西南約42公里處，是東亞人類起源研究的重要地點，科學研究至今仍在進行。遺址出土了中更新世的北京直立人（官方簡介使用學名「Sinanthropus pekinensis」）遺骸，以及多種器物，並發現了距今約1萬1千至1萬8千年前的智人遺骸。登錄標準為三與六。周口店不僅是亞洲大陸史前人類社會的重要見證，也呈現了人類演化的過程。遺址中的發現與用火等行為的研究，對了解早期人類的生活方式有很大幫助。這處遺產的價值主要來自科學層面，而非建築或景觀，因此保護工作著重在維持考古地層與出土資料的完整。周口店的發現在二十世紀引發學界對人類起源地的討論，其中不少早期出土的化石在戰亂中遺失，成為相當著名的憾事。如今遺址設有保護設施與展館，持續進行考古與保存研究。",
+"intro": "周口店遺址位於北京西南約42公里處，是東亞人類起源研究的重要地點，科學研究至今仍在進行。遺址出土了中更新世的北京直立人（官方簡介使用學名「Sinanthropus pekinensis」）遺骸，以及多種器物，並發現了距今約1萬3千至2萬年前的智人遺骸。登錄標準為三與六。周口店不僅是亞洲大陸史前人類社會的重要見證，也呈現了人類演化的過程。遺址中的發現與用火等行為的研究，對了解早期人類的生活方式有很大幫助。這處遺產的價值主要來自科學層面，而非建築或景觀，因此保護工作著重在維持考古地層與出土資料的完整。周口店的發現在二十世紀引發學界對人類起源地的討論，其中不少早期出土的化石在戰亂中遺失，成為相當著名的憾事。如今遺址設有保護設施與展館，持續進行考古與保存研究。",
 "highlights": [
 "位於北京西南約42公里，是研究亞洲史前人類的重要地點",
 "出土中更新世北京直立人遺骸與多種器物",
 "同時發現晚期智人遺骸，呈現演化過程",
 "遺址價值以科學研究為主，考古工作仍在進行"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "18,000–11,000 B.C. 換算距今約 13,000–20,000 年前，原文直接取數字錯誤。"
+}
 ]
 },
 {
@@ -11800,12 +11862,19 @@
 "Q203197"
 ],
 "en_desc": "This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site.",
-"intro": "康提位於斯里蘭卡中部山區，是佛教聖地，民間稱為辛哈拉嘎達普拉，也是僧伽羅國王的最後一座首都。在國王的護持下，僧伽羅文化得以延續興盛超過兩千五百年，直到1815年英國占領斯里蘭卡為止。康提也是佛牙寺的所在地，寺中供奉佛陀的聖牙舍利，是著名的朝聖地。登錄標準為四與六，肯定其建築群與宗教傳統的意義。佛牙寺不僅是宗教中心，也長期與王權的正當性相連，擁有佛牙者被視為統治合法。城市依湖而建，宮殿、寺院與傳統建築組成了今日的歷史景觀，每年舉行的盛大遊行延續了古老的宗教儀式。每年舉行的佩拉赫拉遊行是當地最盛大的宗教活動，以裝飾華麗的大象與舞者聞名。康提周邊的湖泊、山丘與古老建築共同構成聖城的景觀，是斯里蘭卡佛教文化的核心之一。",
+"intro": "康提位於斯里蘭卡中部山區，是佛教聖地，民間稱為森卡達加拉普拉（Senkadagalapura），也是僧伽羅國王的最後一座首都。在國王的護持下，僧伽羅文化得以延續興盛超過兩千五百年，直到1815年英國占領斯里蘭卡為止。康提也是佛牙寺的所在地，寺中供奉佛陀的聖牙舍利，是著名的朝聖地。登錄標準為四與六，肯定其建築群與宗教傳統的意義。佛牙寺不僅是宗教中心，也長期與王權的正當性相連，擁有佛牙者被視為統治合法。城市依湖而建，宮殿、寺院與傳統建築組成了今日的歷史景觀，每年舉行的盛大遊行延續了古老的宗教儀式。每年舉行的佩拉赫拉遊行是當地最盛大的宗教活動，以裝飾華麗的大象與舞者聞名。康提周邊的湖泊、山丘與古老建築共同構成聖城的景觀，是斯里蘭卡佛教文化的核心之一。",
 "highlights": [
 "康提是僧伽羅國王的最後一座首都",
 "佛牙寺供奉佛陀聖牙舍利，是重要的朝聖地",
 "佛牙在歷史上與王權的正當性密切相關",
 "宗教遊行等儀式延續至今，是活的傳統"
+],
+"audit": [
+{
+"date": "2026-10-30",
+"by": "Gemini＋Claude 子代理交叉複核",
+"reason": "官方名稱 Senkadagalapura，intro 音譯錯誤；改為較通行音譯並附原文。"
+}
 ]
 },
 {

@@ -1,0 +1,178 @@
+[
+ {
+  "id": "39",
+  "decision": "accept",
+  "reason": "官方 en_desc 為 world's largest caldera，原文「之一」「完整」不符。",
+  "edits": [
+   {
+    "old": "是世界最大的完整火山口之一。",
+    "new": "是世界最大的破火山口。"
+   }
+  ]
+ },
+ {
+  "id": "63",
+  "decision": "reject",
+  "reason": "data criteria 為 vii、viii、x，原文與官方登錄一致；Gemini 所稱 (ix) 無依據。",
+  "edits": []
+ },
+ {
+  "id": "90",
+  "decision": "accept",
+  "reason": "danger=false；阿布米那曾於2001年列入瀕危名錄，現已不在名單上。年份不確定，不寫移出年份。",
+  "edits": [
+   {
+    "old": "遺址於二○○一年列入瀕危名錄。因此，認識阿布米那時，應注意它同時是重要的基督教遺址，也是遺產保護與環境變化相互影響的例子。",
+    "new": "遺址曾於二○○一年列入瀕危名錄，後已移出。認識阿布米那時，可留意它同時是重要的基督教遺址，也是遺產保護與環境變化相互影響的例子。"
+   }
+  ]
+ },
+ {
+  "id": "100",
+  "decision": "reject",
+  "reason": "data 登錄 ext=[2005]，官方紀錄為擴展；Gemini 主張縮小無官方依據。",
+  "edits": []
+ },
+ {
+  "id": "136",
+  "decision": "reject",
+  "reason": "ext=[2026]；今天為2026年10月，屬官方已有紀錄，Gemini 判為未來是知識過舊。",
+  "edits": []
+ },
+ {
+  "id": "151",
+  "decision": "accept",
+  "reason": "anadromous 應為「洄游」，「洞游」為誤字。",
+  "edits": [
+   {
+    "old": "溯河洞游魚類提供",
+    "new": "溯河洄游魚類提供"
+   }
+  ]
+ },
+ {
+  "id": "163",
+  "decision": "accept",
+  "reason": "en_desc 中 A.D.10–25 是凱旋門的建造年代，非劇場；將年份移到凱旋門句。",
+  "edits": [
+   {
+    "old": "保存最完好的之一，興建於西元10年至25年間。羅馬凱旋門是",
+    "new": "保存最完好的之一。羅馬凱旋門興建於西元10年至25年間，是"
+   }
+  ]
+ },
+ {
+  "id": "199",
+  "decision": "accept",
+  "reason": "danger=true，仍在瀕危名錄；原句語氣含糊，明確寫出至今仍在名單上。",
+  "edits": [
+   {
+    "old": "被列入瀕危世界遺產名錄。其保護現況與後續處置較為複雜，以官方最新公告為準。",
+    "new": "被列入瀕危世界遺產名錄，至今仍在名錄上。"
+   }
+  ]
+ },
+ {
+  "id": "227",
+  "decision": "reject",
+  "reason": "intro 與官方 en_desc 一致（plants normally only found farther south, such as shrub savannahs and patches of thick rainforest）；以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "246",
+  "decision": "reject",
+  "reason": "官方 en_desc 明載 a team of six horses，intro 與官方一致；依官方為準，建議人工另行考證實際為七匹（寺廟雕刻）後再決定是否以註記處理。",
+  "edits": []
+ },
+ {
+  "id": "246",
+  "decision": "reject",
+  "reason": "同上，highlights 與官方描述一致；且 highlights 非本次可修改的 intro 範圍。",
+  "edits": []
+ },
+ {
+  "id": "262",
+  "decision": "accept",
+  "reason": "蘇丹較早有 Gebel Barkal（2003）與 Meroe（2011），2016 桑加奈卜僅為第一處自然遺產。",
+  "edits": [
+   {
+    "old": "為蘇丹的第一處世界遺產",
+    "new": "為蘇丹的第一處世界自然遺產"
+   }
+  ]
+ },
+ {
+  "id": "277",
+  "decision": "reject",
+  "reason": "data criteria 為 ii、iii、iv、vi，原文與官方一致，Gemini 主張有誤。",
+  "edits": []
+ },
+ {
+  "id": "335",
+  "decision": "reject",
+  "reason": "1988年列入楠達戴維山、2005年擴展納入花谷（ext=[2005]），原文正確；Gemini 主張不實。",
+  "edits": []
+ },
+ {
+  "id": "353",
+  "decision": "reject",
+  "reason": "en_desc 明載世界遺產範圍包含 Aztec Ruins National Monument 與 BLM 管理的小型遺址，原文正確。",
+  "edits": []
+ },
+ {
+  "id": "370",
+  "decision": "accept",
+  "reason": "prince-bishop 應譯「采邑主教」，「侯爵」為誤譯。",
+  "edits": [
+   {
+    "old": "曾是達勒姆侯爵主教的居所",
+    "new": "曾是達勒姆采邑主教的居所"
+   }
+  ]
+ },
+ {
+  "id": "441",
+  "decision": "accept",
+  "reason": "兵馬俑為真人大小，官方簡介 small figures 為已知誤植；改為中性說法。",
+  "edits": [
+   {
+    "old": "出土的小型人像各不相同",
+    "new": "出土的陶俑各不相同"
+   }
+  ]
+ },
+ {
+  "id": "449",
+  "decision": "accept",
+  "reason": "18,000–11,000 B.C. 換算距今約 13,000–20,000 年前，原文直接取數字錯誤。",
+  "edits": [
+   {
+    "old": "距今約1萬1千至1萬8千年前",
+    "new": "距今約1萬3千至2萬年前"
+   }
+  ]
+ },
+ {
+  "id": "450",
+  "decision": "accept",
+  "reason": "官方名稱 Senkadagalapura，intro 音譯錯誤；改為較通行音譯並附原文。",
+  "edits": [
+   {
+    "old": "民間稱為辛哈拉嘎達普拉",
+    "new": "民間稱為森卡達加拉普拉（Senkadagalapura）"
+   }
+  ]
+ },
+ {
+  "id": "482",
+  "decision": "reject",
+  "reason": "官方 en_desc 明載 plunges a breathtaking 600 m，原文與官方一致。",
+  "edits": []
+ },
+ {
+  "id": "527",
+  "decision": "reject",
+  "reason": "原文只說威脅來自2022年起的戰爭，並未講列入年份，敘述正確；不需修改。",
+  "edits": []
+ }
+]
