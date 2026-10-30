@@ -1,0 +1,1108 @@
+[
+ {
+  "id": "8",
+  "en": "Ichkeul National Park",
+  "old_zh": "艾什凱勒湖",
+  "new_zh": "艾什凱勒國家公園",
+  "reason": "[僅組成點] 原為湖名，en 為國家公園"
+ },
+ {
+  "id": "17",
+  "en": "Lower Valley of the Omo",
+  "old_zh": "奧莫河",
+  "new_zh": "奧莫河下游谷地",
+  "reason": "[範圍不完整] 缺 Lower Valley／谷地"
+ },
+ {
+  "id": "31",
+  "en": "Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>",
+  "old_zh": "奧斯威辛 - 比克瑙國家博物館",
+  "new_zh": "奧許維茲－比克瑙：納粹德國集中營與滅絕營（1940–1945）",
+  "reason": "[指向偏差] 原譯為「國家博物館」，非遺產名；台灣慣用「奧許維茲」"
+ },
+ {
+  "id": "36",
+  "en": "Medina of Tunis",
+  "old_zh": "突尼西亞市的阿拉伯老城",
+  "new_zh": "突尼斯舊城",
+  "reason": "[誤譯/用語] Tunis 台灣作「突尼斯」，非「突尼西亞市」"
+ },
+ {
+  "id": "45",
+  "en": "Rock-Hewn Churches of Ivanovo",
+  "old_zh": "伊凡諾沃巖洞教堂",
+  "new_zh": "伊凡諾沃岩洞教堂",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "71",
+  "en": "Dinosaur Provincial Park",
+  "old_zh": "省立恐龍公園",
+  "new_zh": "恐龍省立公園",
+  "reason": "[用語] 詞序錯誤，應為恐龍省立公園"
+ },
+ {
+  "id": "72",
+  "en": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+  "old_zh": "克盧恩/弗蘭格爾-聖伊萊亞斯/冰川灣/塔琴希尼-阿爾塞克",
+  "new_zh": "克盧恩／蘭格爾－聖伊萊亞斯／冰河灣／塔琴希尼－阿爾塞克",
+  "reason": "[用語] 台灣慣用「冰河灣」「蘭格爾」"
+ },
+ {
+  "id": "78",
+  "en": "Independence Hall",
+  "old_zh": "美國獨立紀念館",
+  "new_zh": "獨立廳",
+  "reason": "[用語] Independence Hall 台灣作「獨立廳」"
+ },
+ {
+  "id": "84",
+  "en": "Vézelay, Church and Hill",
+  "old_zh": "韋茲萊隱修院",
+  "new_zh": "韋茲萊教堂與山丘",
+  "reason": "[指向偏差] 原譯為「隱修院」，en 為教堂與山丘"
+ },
+ {
+  "id": "85",
+  "en": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+  "old_zh": "韋澤爾谷",
+  "new_zh": "韋澤爾谷地史前遺址與裝飾洞穴",
+  "reason": "[範圍不完整] 原僅剩地名，缺史前遺址與洞穴壁畫"
+ },
+ {
+  "id": "94",
+  "en": "Rock Drawings in Valcamonica",
+  "old_zh": "卡莫尼卡谷地巖畫",
+  "new_zh": "卡莫尼卡谷地岩畫",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "125",
+  "en": "Natural and Culturo-Historical Region of Kotor",
+  "old_zh": "科托爾自然保護區和文化歷史區",
+  "new_zh": "科托爾自然與文化歷史區",
+  "reason": "[誤譯] 原誤斷為「自然保護區」"
+ },
+ {
+  "id": "134",
+  "en": "Redwood National and State Parks",
+  "old_zh": "紅木國家公園",
+  "new_zh": "紅杉國家公園與州立公園",
+  "reason": "[用語] Redwood 台灣作「紅杉」，並補 National and State Parks"
+ },
+ {
+  "id": "145",
+  "en": "Los Glaciares National Park",
+  "old_zh": "冰川國家公園",
+  "new_zh": "冰河國家公園",
+  "reason": "[用語] 台灣作「冰河」而非「冰川」（簡體用語）"
+ },
+ {
+  "id": "157",
+  "en": "S<U>G</U>ang Gwaay",
+  "old_zh": "尼斯亭斯",
+  "new_zh": "斯甘瓜伊（尼斯亭斯）",
+  "reason": "[舊名] 尼斯亭斯為舊名 Ninstints，官方名 SGang Gwaay"
+ },
+ {
+  "id": "164",
+  "en": "Arles, Roman and Romanesque Monuments",
+  "old_zh": "阿爾勒古羅馬建築",
+  "new_zh": "阿爾勒的羅馬及羅曼式建築",
+  "reason": "[範圍不完整] 原缺 Romanesque"
+ },
+ {
+  "id": "179",
+  "en": "Tassili n'Ajjer",
+  "old_zh": "阿杰爾的塔西利",
+  "new_zh": "阿傑爾的塔西利",
+  "reason": "[用字] 「杰」為簡體，應為「傑」"
+ },
+ {
+  "id": "200",
+  "en": "Sacred City of Anuradhapura",
+  "old_zh": "八聖地",
+  "new_zh": "阿努拉德普勒聖城",
+  "reason": "[僅組成點] 「八聖地」僅為其中組成，非整體"
+ },
+ {
+  "id": "230",
+  "en": "Abbey Church of Saint-Savin sur Gartempe",
+  "old_zh": "聖薩萬",
+  "new_zh": "加爾唐普河畔聖薩萬修道院教堂",
+  "reason": "[範圍不完整] 原僅剩地名"
+ },
+ {
+  "id": "246",
+  "en": "Sun Temple, Konârak",
+  "old_zh": "科納爾克",
+  "new_zh": "科納拉克太陽神廟",
+  "reason": "[範圍不完整] 補 Sun Temple；台灣譯 科納拉克"
+ },
+ {
+  "id": "261",
+  "en": "Vallée de Mai Nature Reserve",
+  "old_zh": "馬埃谷地自然保護區",
+  "new_zh": "五月谷自然保護區",
+  "reason": "[誤譯] Vallée de Mai 為普拉斯蘭島「五月谷」，非「馬埃」"
+ },
+ {
+  "id": "269",
+  "en": "Benedictine Convent of St John at Müstair",
+  "old_zh": "米茲泰爾的木篤會聖約翰女修道院",
+  "new_zh": "米茲泰爾的本篤會聖約翰女修道院",
+  "reason": "[誤字] Benedictine 為「本篤會」，非「木篤會」"
+ },
+ {
+  "id": "287",
+  "en": "Rock-Art Sites of Tadrart Acacus",
+  "old_zh": "塔德拉爾特阿卡庫斯",
+  "new_zh": "塔德拉爾特阿卡庫斯岩畫遺址",
+  "reason": "[範圍不完整] 補 Rock-Art Sites"
+ },
+ {
+  "id": "307",
+  "en": "Statue of Liberty",
+  "old_zh": "自由島",
+  "new_zh": "自由女神像",
+  "reason": "[誤譯] 自由島為所在島，遺產為 Statue of Liberty"
+ },
+ {
+  "id": "310",
+  "en": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+  "old_zh": "阿爾塔米拉洞",
+  "new_zh": "阿爾塔米拉洞窟與西班牙北部舊石器時代洞穴藝術",
+  "reason": "[範圍不完整] 原僅剩單一洞窟，缺北西班牙洞穴群"
+ },
+ {
+  "id": "314",
+  "en": "Alhambra, Generalife and Albayzín, Granada",
+  "old_zh": "阿爾罕布拉宮",
+  "new_zh": "格拉納達的阿爾罕布拉宮、赫內拉利費宮與阿爾拜辛區",
+  "reason": "[範圍不完整] 原僅剩單一宮殿"
+ },
+ {
+  "id": "332",
+  "en": "Punic Town of Kerkuane and its Necropolis",
+  "old_zh": "科克瓦尼布尼城及其陵園",
+  "new_zh": "凱爾庫安的布匿城鎮及其墓地",
+  "reason": "[誤譯] 「科克瓦尼布尼城」不通；Punic 應為「布匿」"
+ },
+ {
+  "id": "338",
+  "en": "Manas Wildlife Sanctuary",
+  "old_zh": "馬納斯國家公園",
+  "new_zh": "馬納斯野生動物保護區",
+  "reason": "[指向偏差] en 為 Wildlife Sanctuary，非國家公園"
+ },
+ {
+  "id": "345",
+  "en": "Historic Fortified City of Carcassonne",
+  "old_zh": "卡爾卡松城堡",
+  "new_zh": "卡爾卡松歷史城塞",
+  "reason": "[範圍不完整] en 為整座設防城市，非僅城堡"
+ },
+ {
+  "id": "352",
+  "en": "Rock Art of Alta",
+  "old_zh": "阿爾塔巖畫",
+  "new_zh": "阿爾塔岩畫",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "354",
+  "en": "Waterton Glacier International Peace Park",
+  "old_zh": "沃特頓—冰川國際和平公園",
+  "new_zh": "沃特頓冰河國際和平公園",
+  "reason": "[用語] 台灣作「冰河」"
+ },
+ {
+  "id": "372",
+  "en": "Studley Royal Park including the Ruins of Fountains Abbey",
+  "old_zh": "方廷斯修道院",
+  "new_zh": "斯塔德利皇家公園與方廷斯修道院遺跡",
+  "reason": "[僅組成點] 原僅剩修道院一點"
+ },
+ {
+  "id": "394",
+  "en": "Venice and its Lagoon",
+  "old_zh": "威尼斯",
+  "new_zh": "威尼斯及其潟湖",
+  "reason": "[範圍不完整] 補 Lagoon"
+ },
+ {
+  "id": "474",
+  "en": "Hortobágy National Park - the Puszta",
+  "old_zh": "霍爾託巴吉",
+  "new_zh": "霍爾托巴吉國家公園－普茲塔草原",
+  "reason": "[範圍不完整] 原缺國家公園與普茲塔"
+ },
+ {
+  "id": "482",
+  "en": "Historic Town of Guanajuato and Adjacent Mines",
+  "old_zh": "瓜納華托",
+  "new_zh": "瓜納華托歷史城鎮及鄰近礦區",
+  "reason": "[範圍不完整] 補 Adjacent Mines"
+ },
+ {
+  "id": "498",
+  "en": "Medina of Sousse",
+  "old_zh": "蘇塞的阿拉伯老城",
+  "new_zh": "蘇塞舊城",
+  "reason": "[用語] Medina 非「阿拉伯老城」，並與突尼斯舊城用語一致"
+ },
+ {
+  "id": "502",
+  "en": "Historic City of Vigan",
+  "old_zh": "美岸",
+  "new_zh": "維甘歷史古城",
+  "reason": "[舊名/用語] 「美岸」為舊稱；台灣作維甘"
+ },
+ {
+  "id": "506",
+  "en": "Banc d'Arguin National Park",
+  "old_zh": "阿爾金岩石礁國家公園",
+  "new_zh": "阿爾金淺灘國家公園",
+  "reason": "[誤譯] Banc 為淺灘／沙洲，非「岩石礁」"
+ },
+ {
+  "id": "515",
+  "en": "Abbey and Altenmünster of Lorsch",
+  "old_zh": "洛爾施隱修院",
+  "new_zh": "洛爾施修道院與阿爾滕明斯特",
+  "reason": "[範圍不完整] 補 Altenmünster"
+ },
+ {
+  "id": "524",
+  "en": "Buddhist Monuments at Sanchi",
+  "old_zh": "桑吉",
+  "new_zh": "桑奇佛教古蹟",
+  "reason": "[範圍不完整/用語] 補 Buddhist Monuments；台灣作桑奇"
+ },
+ {
+  "id": "557",
+  "en": "Rock Carvings in Tanum",
+  "old_zh": "塔努姆的巖刻畫",
+  "new_zh": "塔努姆的岩刻畫",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "559",
+  "en": "Royal Domain of Drottningholm",
+  "old_zh": "卓寧霍姆宮",
+  "new_zh": "卓寧霍姆皇家領地",
+  "reason": "[範圍不完整] en 為 Royal Domain，非僅宮殿"
+ },
+ {
+  "id": "565",
+  "en": "Kasbah of Algiers",
+  "old_zh": "阿爾及爾城堡",
+  "new_zh": "阿爾及爾卡斯巴",
+  "reason": "[誤譯] Kasbah 為舊城區，非「城堡」"
+ },
+ {
+  "id": "573",
+  "en": "Air and Ténéré Natural Reserves",
+  "old_zh": "阿德爾和泰內雷自然保護區",
+  "new_zh": "艾爾與泰內雷自然保護區",
+  "reason": "[誤譯] Air 為「艾爾」(Aïr)，非「阿德爾」"
+ },
+ {
+  "id": "630",
+  "en": "K’gari",
+  "old_zh": "弗雷澤島",
+  "new_zh": "卡加里島（弗雷澤島）",
+  "reason": "[舊名] 官方已改名 K’gari，弗雷澤島為舊名"
+ },
+ {
+  "id": "642",
+  "en": "Prambanan Temple Compounds",
+  "old_zh": "巴蘭班南",
+  "new_zh": "普蘭巴南寺廟群",
+  "reason": "[用語/範圍] 台灣作普蘭巴南；補寺廟群"
+ },
+ {
+  "id": "659",
+  "en": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+  "old_zh": "博因宮",
+  "new_zh": "博因河曲考古遺址群（布魯納博伊納）",
+  "reason": "[誤譯] 「博因宮」不對應 Brú na Bóinne 考古遺址群"
+ },
+ {
+  "id": "672",
+  "en": "Ha Long Bay - Cat Ba Archipelago",
+  "old_zh": "下龍灣",
+  "new_zh": "下龍灣－吉婆群島",
+  "reason": "[範圍不完整] 補 Cat Ba Archipelago"
+ },
+ {
+  "id": "678",
+  "en": "Complex of Hué Monuments",
+  "old_zh": "順化皇城",
+  "new_zh": "順化古蹟建築群",
+  "reason": "[範圍不完整] 「皇城」僅為其中組成，en 為 Complex of Hué Monuments"
+ },
+ {
+  "id": "690",
+  "en": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+  "old_zh": "聖約翰朝聖教堂",
+  "new_zh": "澤列納山的聶波穆克聖約翰朝聖教堂",
+  "reason": "[指向偏差] 原譯過於籠統（缺聶波穆克與澤列納山），易與他處混淆"
+ },
+ {
+  "id": "692",
+  "en": "Forest Massif of Odzala-Kokoua",
+  "old_zh": "奧扎拉國家公園",
+  "new_zh": "奧扎拉－科庫阿森林地塊",
+  "reason": "[範圍不完整] 原僅剩國家公園，en 為 Forest Massif of Odzala-Kokoua"
+ },
+ {
+  "id": "700",
+  "en": "Lines and Geoglyphs of Nasca and Palpa",
+  "old_zh": "納斯卡線條",
+  "new_zh": "納斯卡與帕爾帕的線條與地畫",
+  "reason": "[範圍不完整] 補 Palpa 與 Geoglyphs"
+ },
+ {
+  "id": "707",
+  "en": "Historic Ensemble of the Potala Palace, Lhasa",
+  "old_zh": "布達拉宮",
+  "new_zh": "拉薩布達拉宮歷史建築群",
+  "reason": "[範圍不完整] en 為 Historic Ensemble（含大昭寺等），非僅布達拉宮"
+ },
+ {
+  "id": "714",
+  "en": "Rock Paintings of the Sierra de San Francisco",
+  "old_zh": "聖弗蘭西斯科山脈巖畫",
+  "new_zh": "聖弗蘭西斯科山脈岩畫",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "725",
+  "en": "Caves of Aggtelek Karst and Slovak Karst",
+  "old_zh": "奧格泰萊克的喀斯特巖洞群和斯洛伐克的喀斯特地貌",
+  "new_zh": "奧格泰萊克的喀斯特岩洞群和斯洛伐克的喀斯特地貌",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "747",
+  "en": "Historic Quarter of the City of Colonia del Sacramento",
+  "old_zh": "薩拉門多移民鎮的歷史區",
+  "new_zh": "科洛尼亞德爾薩克拉門托歷史區",
+  "reason": "[誤譯] 「薩拉門多移民鎮」不通"
+ },
+ {
+  "id": "773",
+  "en": "Pyrénées - Mont Perdu",
+  "old_zh": "珀杜山",
+  "new_zh": "比利牛斯－珀杜山",
+  "reason": "[範圍不完整] 原僅剩山名"
+ },
+ {
+  "id": "775",
+  "en": "Hiroshima Peace Memorial (Genbaku Dome)",
+  "old_zh": "原子彈爆炸圓頂屋",
+  "new_zh": "廣島和平紀念碑（原爆圓頂館）",
+  "reason": "[僅組成點] 原僅剩圓頂建築"
+ },
+ {
+  "id": "800",
+  "en": "Mount Kenya National Park/Natural Forest",
+  "old_zh": "肯亞山國家公園",
+  "new_zh": "肯亞山國家公園暨天然森林",
+  "reason": "[範圍不完整] 補 Natural Forest"
+ },
+ {
+  "id": "809",
+  "en": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+  "old_zh": "尤弗拉西蘇斯聖殿",
+  "new_zh": "波雷奇歷史中心的歐弗拉西烏斯聖殿主教建築群",
+  "reason": "[範圍不完整] 原缺 Poreč 與主教建築群"
+ },
+ {
+  "id": "823",
+  "en": "Residences of the Royal House of Savoy",
+  "old_zh": "薩沃王宮",
+  "new_zh": "薩伏依王室宅邸",
+  "reason": "[範圍不完整/用語] Residences 為複數宅邸群；台灣作薩伏依"
+ },
+ {
+  "id": "831",
+  "en": "Archaeological Area of Agrigento",
+  "old_zh": "神殿之谷",
+  "new_zh": "阿格里真托考古區（神殿之谷）",
+  "reason": "[僅組成點] 「神殿之谷」為其中區域"
+ },
+ {
+  "id": "833",
+  "en": "Su Nuraxi di Barumini",
+  "old_zh": "努拉喜",
+  "new_zh": "巴魯米尼的蘇努拉克西",
+  "reason": "[誤譯] 「努拉喜」不是地名；Su Nuraxi di Barumini"
+ },
+ {
+  "id": "842",
+  "en": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+  "old_zh": "帕埃斯圖姆",
+  "new_zh": "奇連托與迪亞諾谷地國家公園暨帕埃斯圖姆、韋利亞考古遺址與帕杜拉卡爾特西會院",
+  "reason": "[僅組成點] 原僅剩帕埃斯圖姆"
+ },
+ {
+  "id": "847",
+  "en": "Castle of the Teutonic Order in Malbork",
+  "old_zh": "馬爾堡城堡",
+  "new_zh": "馬爾博克的條頓騎士團城堡",
+  "reason": "[易混淆] 「馬爾堡」易與德國 Marburg 混淆；Malbork 在波蘭"
+ },
+ {
+  "id": "915",
+  "en": "Fossil Hominid Sites of South Africa",
+  "old_zh": "斯泰克方丹、斯瓦特科蘭斯、科羅姆德拉伊和維羅恩斯的化石遺址",
+  "new_zh": "南非人類化石遺址",
+  "reason": "[範圍不完整] 補 Hominid 並以總稱取代僅列四處"
+ },
+ {
+  "id": "925",
+  "en": "Rock Shelters of Bhimbetka",
+  "old_zh": "比莫貝卡特石窟",
+  "new_zh": "比莫貝卡特岩棚",
+  "reason": "[誤譯] Rock Shelters 為岩棚，非石窟"
+ },
+ {
+  "id": "963",
+  "en": "The Cathedral of St James in Šibenik",
+  "old_zh": "聖雅各伯主教座堂",
+  "new_zh": "希貝尼克的聖雅各伯主教座堂",
+  "reason": "[範圍不完整] 原缺 Šibenik，易與他處混淆"
+ },
+ {
+  "id": "967",
+  "en": "Noel Kempff Mercado National Park",
+  "old_zh": "諾爾埃普夫墨爾加多國家公園",
+  "new_zh": "諾埃爾肯普夫梅爾卡多國家公園",
+  "reason": "[誤譯] 人名音譯錯誤（Noel Kempff Mercado）"
+ },
+ {
+  "id": "978",
+  "en": "Old Town of Corfu",
+  "old_zh": "克基拉",
+  "new_zh": "科孚島舊城",
+  "reason": "[用語] Corfu 台灣作科孚；補 Old Town"
+ },
+ {
+  "id": "998",
+  "en": "Central Amazon Conservation Complex",
+  "old_zh": "亞馬孫河中心綜合保護區",
+  "new_zh": "中亞馬遜保護綜合區",
+  "reason": "[用語/範圍] 台灣作「亞馬遜」；補 Conservation Complex"
+ },
+ {
+  "id": "1009",
+  "en": "Notre-Dame Cathedral in Tournai",
+  "old_zh": "聖母主教座堂",
+  "new_zh": "圖爾奈聖母主教座堂",
+  "reason": "[範圍不完整] 原缺 Tournai，易與他處混淆"
+ },
+ {
+  "id": "1010",
+  "en": "Land of Frankincense",
+  "old_zh": "乳香之路",
+  "new_zh": "乳香之地",
+  "reason": "[誤譯] Land of Frankincense 非「乳香之路」(另有 Incense Route)"
+ },
+ {
+  "id": "1014",
+  "en": "The Archaeological Heritage of Niah National Park’s Caves Complex",
+  "old_zh": "尼亞洞",
+  "new_zh": "尼亞國家公園洞穴群的考古遺產",
+  "reason": "[範圍不完整] 原僅剩「尼亞洞」"
+ },
+ {
+  "id": "1037",
+  "en": "Swiss Alps Jungfrau-Aletsch",
+  "old_zh": "少女峰—阿萊奇伯特洪恩",
+  "new_zh": "瑞士阿爾卑斯少女峰－阿萊奇",
+  "reason": "[誤譯] Aletsch 為冰川名，非「阿萊奇伯特洪恩」(Aletschhorn)"
+ },
+ {
+  "id": "1042",
+  "en": "Old City of Acre",
+  "old_zh": "阿科",
+  "new_zh": "阿卡古城",
+  "reason": "[用語] Acre 台灣作阿卡；補 Old City"
+ },
+ {
+  "id": "1056",
+  "en": "Mahabodhi Temple Complex at Bodh Gaya",
+  "old_zh": "摩訶菩提寺",
+  "new_zh": "菩提伽耶摩訶菩提寺建築群",
+  "reason": "[範圍不完整] 補 Bodh Gaya 與 Complex"
+ },
+ {
+  "id": "1066",
+  "en": "Upper Middle Rhine Valley",
+  "old_zh": "萊茵峽谷",
+  "new_zh": "萊茵河上中游河谷",
+  "reason": "[範圍不完整/用語] 原「萊茵峽谷」不明確"
+ },
+ {
+  "id": "1073",
+  "en": "Gebel Barkal and the Sites of the Napatan Region",
+  "old_zh": "博爾戈爾山和納巴塔地區的遺址",
+  "new_zh": "巴爾卡爾山與納帕塔地區遺址",
+  "reason": "[誤譯] Gebel Barkal 非「博爾戈爾山」；Napatan 作納帕塔"
+ },
+ {
+  "id": "1116",
+  "en": "Quebrada de Humahuaca",
+  "old_zh": "塔夫拉達·德烏瑪瓦卡",
+  "new_zh": "烏馬瓦卡峽谷",
+  "reason": "[誤譯] Quebrada 為峽谷；Humahuaca 台灣作烏馬瓦卡"
+ },
+ {
+  "id": "1138",
+  "en": "Coiba National Park and its Special Zone of Marine Protection",
+  "old_zh": "科伊瓦島",
+  "new_zh": "科伊瓦國家公園及其特別海洋保護區",
+  "reason": "[範圍不完整] 原僅剩「科伊瓦島」"
+ },
+ {
+  "id": "1140",
+  "en": "Koutammakou, the Land of the Batammariba",
+  "old_zh": "古帕瑪庫",
+  "new_zh": "庫塔馬庫－巴塔馬利巴人之地",
+  "reason": "[誤譯] Koutammakou 音譯不當"
+ },
+ {
+  "id": "1145",
+  "en": "Petroglyphs of the Archaeological Landscape of Tanbaly",
+  "old_zh": "泰姆格里考古景觀巖刻",
+  "new_zh": "泰姆格里考古景觀岩刻",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "1174",
+  "en": "Chiribiquete National Park – “The Maloca of the Jaguar”",
+  "old_zh": "奇里比克特山脈國家自然公園",
+  "new_zh": "奇里比克特國家公園──「美洲豹的馬洛卡」",
+  "reason": "[用字/範圍] 「裡」應為「里」；原譯誤作山脈"
+ },
+ {
+  "id": "1178",
+  "en": "Humberstone and Santa Laura Saltpeter Works",
+  "old_zh": "亨伯斯通和聖勞拉硝石採石場",
+  "new_zh": "亨伯斯通與聖勞拉硝石工廠",
+  "reason": "[誤譯] Works 為工廠，非採石場"
+ },
+ {
+  "id": "1222",
+  "en": "Bisotun",
+  "old_zh": "貝希斯敦銘文",
+  "new_zh": "貝希斯敦遺址",
+  "reason": "[僅組成點] 「銘文」僅為其中之一"
+ },
+ {
+  "id": "1290",
+  "en": "Monarch Butterfly Biosphere Reserve",
+  "old_zh": "莫那其蝴蝶生物圈保護區",
+  "new_zh": "帝王斑蝶生物圈保護區",
+  "reason": "[用語] Monarch 台灣作帝王斑蝶"
+ },
+ {
+  "id": "1299",
+  "en": "Lena Pillars Nature Park",
+  "old_zh": "勒那河柱狀巖自然公園",
+  "new_zh": "勒拿河柱狀岩自然公園",
+  "reason": "[用語] Lena 台灣作「勒拿」"
+ },
+ {
+  "id": "1303",
+  "en": "Pontcysyllte Aqueduct and Canal",
+  "old_zh": "龐特卡薩魯岧水道",
+  "new_zh": "龐特卡薩魯岧水道橋與運河",
+  "reason": "[範圍不完整] 補水道橋與運河"
+ },
+ {
+  "id": "1306",
+  "en": "Australian Convict Sites",
+  "old_zh": "澳大利亞監獄遺址",
+  "new_zh": "澳洲囚犯遺址群",
+  "reason": "[用語] 台灣作「澳洲」；Convict 為囚犯"
+ },
+ {
+  "id": "1308",
+  "en": "Paraty and Ilha Grande – Culture and Biodiversity",
+  "old_zh": "帕拉蒂與大伊莉亞——文化與生物多樣性",
+  "new_zh": "帕拉蒂與格蘭德島：文化與生物多樣性",
+  "reason": "[誤譯] Ilha Grande 為「格蘭德島」，非「大伊莉亞」"
+ },
+ {
+  "id": "1310",
+  "en": "Cidade Velha, Historic Centre of Ribeira Grande",
+  "old_zh": "韋利亞城",
+  "new_zh": "里貝拉格蘭德歷史中心（西達迪韋利亞）",
+  "reason": "[誤譯] 「韋利亞城」不通；補 Ribeira Grande"
+ },
+ {
+  "id": "1312",
+  "en": "Tower of Hercules",
+  "old_zh": "埃庫萊斯塔",
+  "new_zh": "海克力斯塔",
+  "reason": "[誤譯] Hercules 台灣作海克力斯／海克力士，非「埃庫萊斯」"
+ },
+ {
+  "id": "1318",
+  "en": "Longobards in Italy. Places of the Power (568-774 A.D.)",
+  "old_zh": "義大利倫巴底：權力之地（公元568至774年）",
+  "new_zh": "義大利的倫巴底人遺址：權力之地（公元568至774年）",
+  "reason": "[誤譯] Longobards 指倫巴底人，非倫巴底地區"
+ },
+ {
+  "id": "1339",
+  "en": "Bikini Atoll Nuclear Test Site",
+  "old_zh": "比基尼環礁",
+  "new_zh": "比基尼環礁核試驗場",
+  "reason": "[範圍不完整] 補 Nuclear Test Site"
+ },
+ {
+  "id": "1349",
+  "en": "Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht",
+  "old_zh": "運河區",
+  "new_zh": "阿姆斯特丹辛厄爾運河以內的十七世紀運河環帶區",
+  "reason": "[範圍不完整] 原僅剩「運河區」，缺 Amsterdam"
+ },
+ {
+  "id": "1358",
+  "en": "Citadel of the Ho Dynasty",
+  "old_zh": "西都城",
+  "new_zh": "胡朝城塞（西都）",
+  "reason": "[指向偏差] Citadel of the Ho Dynasty 應譯胡朝城塞"
+ },
+ {
+  "id": "1366",
+  "en": "Selimiye Mosque and its Social Complex",
+  "old_zh": "塞利米耶清真寺",
+  "new_zh": "塞利米耶清真寺及其社會建築群",
+  "reason": "[範圍不完整] 補 Social Complex"
+ },
+ {
+  "id": "1369",
+  "en": "Ningaloo Coast",
+  "old_zh": "甯格羅海岸",
+  "new_zh": "寧格魯海岸",
+  "reason": "[用字] 「甯」為異體，改常用「寧」"
+ },
+ {
+  "id": "1370",
+  "en": "Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves",
+  "old_zh": "貝特古夫林國家公園",
+  "new_zh": "猶地亞低地的馬雷沙與貝特古夫林洞穴",
+  "reason": "[僅組成點] 原僅剩貝特古夫林國家公園"
+ },
+ {
+  "id": "1375",
+  "en": "Santiniketan",
+  "old_zh": "桑蒂尼蓋登",
+  "new_zh": "桑蒂尼克坦",
+  "reason": "[誤譯] Santiniketan 音譯有誤"
+ },
+ {
+  "id": "1377",
+  "en": "Wadi Rum Protected Area",
+  "old_zh": "瓦地倫",
+  "new_zh": "瓦地倫保護區",
+  "reason": "[範圍不完整] 補 Protected Area"
+ },
+ {
+  "id": "1379",
+  "en": "Margravial Opera House Bayreuth",
+  "old_zh": "侯爵歌劇院",
+  "new_zh": "拜羅伊特侯爵歌劇院",
+  "reason": "[範圍不完整] 原缺 Bayreuth"
+ },
+ {
+  "id": "1382",
+  "en": "Petroglyphic Complexes of the Mongolian Altai",
+  "old_zh": "阿爾泰山脈巖畫群",
+  "new_zh": "阿爾泰山脈岩畫群",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "1393",
+  "en": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+  "old_zh": "梅爾瓦特河原始保留區",
+  "new_zh": "迦密山人類演化遺址：納哈爾梅阿羅特／瓦迪穆加拉洞穴",
+  "reason": "[指向偏差] 原譯為其中一處自然保留區"
+ },
+ {
+  "id": "1407",
+  "en": "Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",
+  "old_zh": "巴薩里鄉村",
+  "new_zh": "巴薩里人之地：巴薩里、富拉和貝迪克文化景觀",
+  "reason": "[範圍不完整] 原僅剩「巴薩里鄉村」"
+ },
+ {
+  "id": "1426",
+  "en": "Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",
+  "old_zh": "肖維巖洞",
+  "new_zh": "肖維岩洞",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "1430",
+  "en": "Namib Sand Sea",
+  "old_zh": "納米比沙漠",
+  "new_zh": "納米比沙海",
+  "reason": "[範圍不完整] Sand Sea 為沙海，非整個納米比沙漠"
+ },
+ {
+  "id": "1433",
+  "en": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+  "old_zh": "聖誕教堂",
+  "new_zh": "耶穌誕生地：伯利恆聖誕教堂與朝聖路線",
+  "reason": "[範圍不完整] 原僅剩教堂"
+ },
+ {
+  "id": "1435",
+  "en": "Monumental Earthworks of Poverty Point",
+  "old_zh": "貧點",
+  "new_zh": "貧窮角紀念性土方工程",
+  "reason": "[誤譯] 「貧點」不通"
+ },
+ {
+  "id": "1446",
+  "en": "Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)",
+  "old_zh": "施洗之地",
+  "new_zh": "約旦河外伯大尼（馬格塔斯）施洗地",
+  "reason": "[範圍不完整] 補地名"
+ },
+ {
+  "id": "1447",
+  "en": "Carolingian Westwork and Civitas Corvey",
+  "old_zh": "科爾菲的帝國修道院",
+  "new_zh": "卡洛林王朝西向建築與科爾維城",
+  "reason": "[指向偏差] 原譯為科爾維修道院，僅為組成"
+ },
+ {
+  "id": "1456",
+  "en": "Shahr-i Sokhta",
+  "old_zh": "被焚燒的城市",
+  "new_zh": "沙赫里索赫塔（焚燒之城）",
+  "reason": "[誤譯] 原譯為意譯，未保留地名"
+ },
+ {
+  "id": "1461",
+  "en": "Kaeng Krachan Forest Complex",
+  "old_zh": "崗卡章國家公園",
+  "new_zh": "肯卡章森林群",
+  "reason": "[範圍不完整] en 為 Forest Complex，非單一國家公園"
+ },
+ {
+  "id": "1466",
+  "en": "San Antonio Missions",
+  "old_zh": "聖安多里奧修道院",
+  "new_zh": "聖安東尼奧傳教區",
+  "reason": "[誤譯] San Antonio 非「聖安多里奧」；Missions 為傳教區"
+ },
+ {
+  "id": "1475",
+  "en": "Ennedi Massif: Natural and Cultural Landscape",
+  "old_zh": "恩內迪高原",
+  "new_zh": "恩內迪山地：自然與文化景觀",
+  "reason": "[範圍不完整] 補 Natural and Cultural Landscape"
+ },
+ {
+  "id": "1480",
+  "en": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+  "old_zh": "孟買維多利亞的哥特式和藝術裝飾合奏",
+  "new_zh": "孟買維多利亞哥德式與裝飾藝術建築群",
+  "reason": "[誤譯] Ensembles 誤譯為「合奏」"
+ },
+ {
+  "id": "1488",
+  "en": "Diyarbakır Fortress and Hevsel Gardens Cultural Landscape",
+  "old_zh": "赫夫賽爾花園",
+  "new_zh": "迪亞巴克爾要塞與赫夫塞爾花園文化景觀",
+  "reason": "[僅組成點] 原僅剩花園"
+ },
+ {
+  "id": "1493",
+  "en": "Pampulha Modern Ensemble",
+  "old_zh": "潘普利亞現代建築",
+  "new_zh": "潘普爾哈現代建築群",
+  "reason": "[誤譯] Pampulha 葡語 lh 音"
+ },
+ {
+  "id": "1495",
+  "en": "Hidden Christian Sites in the Nagasaki Region",
+  "old_zh": "長崎教會群及基督教關聯遺產",
+  "new_zh": "長崎地區的潛伏基督徒相關遺產",
+  "reason": "[舊名] 原為舊申請名稱，與 UNESCO 現名不符"
+ },
+ {
+  "id": "1513",
+  "en": "Khangchendzonga National Park",
+  "old_zh": "金城章嘉國家公園",
+  "new_zh": "干城章嘉國家公園",
+  "reason": "[用語] Kangchenjunga 台灣作干城章嘉"
+ },
+ {
+  "id": "1533",
+  "en": "Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar",
+  "old_zh": "15至17世紀威尼斯共和國防禦工事",
+  "new_zh": "16至17世紀威尼斯防禦工事：陸上領地－西部海上領地",
+  "reason": "[誤譯] 「15至17世紀」與 en 的 16th and 17th 不符"
+ },
+ {
+  "id": "1536",
+  "en": "Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap",
+  "old_zh": "庫亞塔",
+  "new_zh": "庫賈塔格陵蘭：冰帽邊緣的諾斯人與因紐特人農業",
+  "reason": "[範圍不完整] 原僅剩「庫亞塔」"
+ },
+ {
+  "id": "1548",
+  "en": "Valongo Wharf Archaeological Site",
+  "old_zh": "瓦隆古碼頭",
+  "new_zh": "瓦隆戈碼頭考古遺址",
+  "reason": "[誤譯] Valongo 為瓦隆戈"
+ },
+ {
+  "id": "1549",
+  "en": "Historic Centre of Sheki with the Khan’s Palace",
+  "old_zh": "舍基",
+  "new_zh": "舍基歷史中心與汗王宮",
+  "reason": "[範圍不完整] 補 Khan’s Palace"
+ },
+ {
+  "id": "1560",
+  "en": "Caliphate City of Medina Azahara",
+  "old_zh": "扎赫拉古城",
+  "new_zh": "哈里發之城麥地那阿薩哈拉",
+  "reason": "[用語/範圍] 補 Caliphate City；原用語偏簡體地區譯法"
+ },
+ {
+  "id": "1563",
+  "en": "Al-Ahsa Oasis, an Evolving Cultural Landscape",
+  "old_zh": "哈薩綠洲",
+  "new_zh": "艾哈薩綠洲：不斷演變的文化景觀",
+  "reason": "[易混淆] 「哈薩」易與哈薩克混淆；Al-Ahsa 作艾哈薩"
+ },
+ {
+  "id": "1569",
+  "en": "The Maison Carrée of Nîmes",
+  "old_zh": "方形神殿",
+  "new_zh": "尼姆方形神殿",
+  "reason": "[範圍不完整] 補 Nîmes"
+ },
+ {
+  "id": "1570",
+  "en": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
+  "old_zh": "卡卡提亞王朝濕婆神廟",
+  "new_zh": "特倫甘納邦卡卡提亞魯德雷什瓦拉（拉馬帕）神廟",
+  "reason": "[指向偏差] 原譯過於籠統，易與他處混淆"
+ },
+ {
+  "id": "1574",
+  "en": "Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island",
+  "old_zh": "奄美、琉球",
+  "new_zh": "奄美大島、德之島、沖繩島北部及西表島",
+  "reason": "[範圍不完整] 原僅「奄美、琉球」，未對應四個區域"
+ },
+ {
+  "id": "1578",
+  "en": "Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape",
+  "old_zh": "里斯科卡伊多",
+  "new_zh": "里斯科卡伊多與大加那利島聖山文化景觀",
+  "reason": "[範圍不完整] 原僅剩單一地點"
+ },
+ {
+  "id": "1580",
+  "en": "Water Management System of Augsburg",
+  "old_zh": "水利系統",
+  "new_zh": "奧格斯堡水資源管理系統",
+  "reason": "[範圍不完整] 原缺 Augsburg"
+ },
+ {
+  "id": "1587",
+  "en": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
+  "old_zh": "查爾平原",
+  "new_zh": "川壙巨石缸遺址－石缸平原",
+  "reason": "[用語] Plain of Jars 台灣作石缸平原"
+ },
+ {
+  "id": "1594",
+  "en": "Jodrell Bank Observatory",
+  "old_zh": "卓瑞爾河岸天文台",
+  "new_zh": "喬德雷爾班克天文台",
+  "reason": "[誤譯] Jodrell Bank 為地名，非「卓瑞爾河岸」"
+ },
+ {
+  "id": "1595",
+  "en": "The Archaeological Ensemble of 17th Century Port Royal",
+  "old_zh": "羅亞爾港",
+  "new_zh": "十七世紀皇家港考古遺跡群",
+  "reason": "[用語/範圍] Port Royal 台灣作皇家港；補 17th Century 與考古遺跡群"
+ },
+ {
+  "id": "1597",
+  "en": "Writing-on-Stone / Áísínai’pi",
+  "old_zh": "省立石刻公園",
+  "new_zh": "石上書寫／艾辛艾皮",
+  "reason": "[誤譯] 原僅為「省立石刻公園」，非名稱"
+ },
+ {
+  "id": "1604",
+  "en": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+  "old_zh": "瓦特納冰川國家公園",
+  "new_zh": "瓦特納冰河國家公園──火與冰的動態自然",
+  "reason": "[用語] 「冰川」改台灣用語「冰河」；補副標"
+ },
+ {
+  "id": "1612",
+  "en": "The work of engineer Eladio Dieste: Church of Atlántida",
+  "old_zh": "基督勞工與露德聖母堂",
+  "new_zh": "工程師埃拉迪奧‧迪埃斯特作品：大西洋城教堂",
+  "reason": "[指向偏差] 原譯為教堂別名，缺作品範圍"
+ },
+ {
+  "id": "1614",
+  "en": "Mathildenhöhe Darmstadt",
+  "old_zh": "瑪蒂爾德藝術家村落",
+  "new_zh": "達姆施塔特瑪蒂爾德高地",
+  "reason": "[誤譯] Mathildenhöhe 為地名；補 Darmstadt"
+ },
+ {
+  "id": "1631",
+  "en": "Frontiers of the Roman Empire – The Lower German Limes",
+  "old_zh": "下日耳曼邊牆",
+  "new_zh": "羅馬帝國邊界──下日耳曼界牆",
+  "reason": "[用語] 與同系列「羅馬帝國邊界」譯名一致"
+ },
+ {
+  "id": "1632",
+  "en": "Jomon Prehistoric Sites in Northern Japan",
+  "old_zh": "北海道東北偏北繩文遺跡群",
+  "new_zh": "北海道與北東北繩文遺跡群",
+  "reason": "[誤譯] 「東北偏北」不通順"
+ },
+ {
+  "id": "1638",
+  "en": "Badain Jaran Desert - Towers of Sand and Lakes",
+  "old_zh": "巴丹吉林沙漠",
+  "new_zh": "巴丹吉林沙漠：沙山與湖泊群",
+  "reason": "[範圍不完整] 補副標"
+ },
+ {
+  "id": "1640",
+  "en": "Djerba: Testimony to a settlement pattern in an island territory",
+  "old_zh": "傑爾巴島",
+  "new_zh": "傑爾巴：島嶼聚落模式的見證",
+  "reason": "[範圍不完整] 補副標"
+ },
+ {
+  "id": "1645",
+  "en": "Dholavira: a Harappan City",
+  "old_zh": "多拉維臘",
+  "new_zh": "朵拉維拉：哈拉帕城市",
+  "reason": "[誤譯] Dholavira 台灣作朵拉維拉"
+ },
+ {
+  "id": "1647",
+  "en": "Cultural Landscape of Hawraman/Uramanat",
+  "old_zh": "烏拉瑪納特村落",
+  "new_zh": "赫拉曼／烏拉瑪納特文化景觀",
+  "reason": "[範圍不完整] 原僅剩村落名"
+ },
+ {
+  "id": "1662",
+  "en": "The Ancient Town of Si Thep and its Associated Dvaravati Monuments",
+  "old_zh": "詩貼歷史公園",
+  "new_zh": "西貼古城及相關陀羅缽地遺跡",
+  "reason": "[誤譯] Si Thep 作西貼；補 Dvaravati Monuments"
+ },
+ {
+  "id": "1663",
+  "en": "National Archaeological Park Tak’alik Ab’aj",
+  "old_zh": "阿巴赫·塔卡利克",
+  "new_zh": "塔卡利克阿巴赫國家考古公園",
+  "reason": "[誤譯] Tak’alik Ab’aj 名稱順序顛倒且缺公園"
+ },
+ {
+  "id": "1667",
+  "en": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar",
+  "old_zh": "貢開",
+  "new_zh": "貢開：古林伽補羅（朱克加吉亞爾）考古遺址",
+  "reason": "[範圍不完整] 補全名"
+ },
+ {
+  "id": "1680",
+  "en": "Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery",
+  "old_zh": "猶太薩凡納",
+  "new_zh": "猶太薩凡納考古遺址",
+  "reason": "[範圍不完整] 補 Archaeological Site"
+ },
+ {
+  "id": "1681",
+  "en": "ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination",
+  "old_zh": "海軍電機學校",
+  "new_zh": "ESMA 記憶博物館與遺址──前秘密拘留、酷刑與滅絕中心",
+  "reason": "[範圍不完整] 原僅剩校名"
+ },
+ {
+  "id": "1714",
+  "en": "Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital",
+  "old_zh": "北京中軸綫",
+  "new_zh": "北京中軸線",
+  "reason": "[用字] 「綫」為異體字，台灣作「線」"
+ },
+ {
+  "id": "1722",
+  "en": "The Flow Country",
+  "old_zh": "弗羅濕地區",
+  "new_zh": "弗洛沼澤區",
+  "reason": "[誤譯] Flow Country 為沼澤地區"
+ },
+ {
+  "id": "1725",
+  "en": "Megaliths of Carnac and of the shores of Morbihan",
+  "old_zh": "卡奈克巨石林",
+  "new_zh": "卡奈克與莫爾比昂海岸的巨石群",
+  "reason": "[範圍不完整] 補 Morbihan 海岸"
+ },
+ {
+  "id": "1740",
+  "en": "Petroglyphs along the Bangucheon Stream",
+  "old_zh": "盤龜川巖刻畫",
+  "new_zh": "盤龜川岩刻畫",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "1749",
+  "en": "Saint Hilarion Monastery/ Tell Umm Amer",
+  "old_zh": "泰爾烏姆埃爾-阿米爾",
+  "new_zh": "聖伊拉里翁修道院／泰爾烏姆阿梅爾",
+  "reason": "[範圍不完整] 原缺 Saint Hilarion Monastery"
+ },
+ {
+  "id": "1757",
+  "en": "Ancient Capitals of Asuka and Fujiwara",
+  "old_zh": "飛鳥、藤原的宮都以及其相關的資產羣",
+  "new_zh": "飛鳥與藤原的宮都及相關資產群",
+  "reason": "[用字] 「羣」為異體字"
+ },
+ {
+  "id": "1760",
+  "en": "Rock Mosques and Associated Sacred Sites of Mangystau",
+  "old_zh": "曼格斯套巖鑿清真寺及相關聖地",
+  "new_zh": "曼格斯套岩鑿清真寺及相關聖地",
+  "reason": "[用字] 異體字「巖」統一為台灣標準「岩」"
+ },
+ {
+  "id": "1761",
+  "en": "Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat",
+  "old_zh": "瑪哈泰寺",
+  "new_zh": "那空是貪瑪叻瑪哈泰寺",
+  "reason": "[範圍不完整] 補 Nakhon Si Thammarat"
+ }
+]
