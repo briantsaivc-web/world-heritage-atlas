@@ -1,0 +1,250 @@
+[
+ {
+  "id": "537",
+  "decision": "reject",
+  "reason": "官方 criteria 為 i、iv，原文正確；Gemini 引用的 (ii) 不在官方欄位。",
+  "edits": []
+ },
+ {
+  "id": "556",
+  "decision": "accept",
+  "reason": "官方 en_desc 為 iron，原文『鋼鐵』不準確；一併修正同段『近代早期鋼鐵工業』與要點。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "是一處十七、十八世紀的鋼鐵生產場所",
+    "new": "是一處十七、十八世紀的煉鐵與鐵材生產場所"
+   },
+   {
+    "field": "intro",
+    "old": "近代早期鋼鐵工業的生產組織",
+    "new": "近代早期煉鐵工業的生產組織"
+   },
+   {
+    "field": "highlights",
+    "old": "廠區反映近代早期鋼鐵工業的生產組織",
+    "new": "廠區反映近代早期煉鐵工業的生產組織"
+   }
+  ]
+ },
+ {
+  "id": "591",
+  "decision": "accept",
+  "reason": "官方名稱為 Thungyai-Huai Kha Khaeng，intro 首句遺漏會卡肯，且下文稱『兩座保護區』。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "通艾納黎萱野生動物保護區位於泰國西部，沿緬甸邊界",
+    "new": "通艾—會卡肯野生動物保護區位於泰國西部，沿緬甸邊界"
+   }
+  ]
+ },
+ {
+  "id": "608",
+  "decision": "reject",
+  "reason": "官方 en_desc 即為 inland volcanoes，原文忠於官方；依官方欄位為準不改（事實上喀拉喀托為島嶼火山，建議人工再議）。",
+  "edits": []
+ },
+ {
+  "id": "621",
+  "decision": "reject",
+  "reason": "官方 en_desc 明寫 stands on a hilltop，原文正確。",
+  "edits": []
+ },
+ {
+  "id": "629",
+  "decision": "reject",
+  "reason": "原文忠於官方 en_desc（mantle rocks ... include pillow basalts and other extrusive rocks），無實質錯誤。",
+  "edits": []
+ },
+ {
+  "id": "634",
+  "decision": "accept",
+  "reason": "耶穌升天教堂實為磚石建築，以石磚模仿木構帳篷頂；原文『木造教堂』誤導。官方英文措辭含糊，改為不歧義的說法。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "它是最早在石磚基座上建造的傳統木造帳篷頂教堂之一",
+    "new": "它是最早以石磚建造、並採用傳統木構帳篷頂形式的教堂之一"
+   },
+   {
+    "field": "highlights",
+    "old": "最早在石磚基座上建造的帳篷頂教堂之一",
+    "new": "最早以石磚建造並採用傳統帳篷頂形式的教堂之一"
+   }
+  ]
+ },
+ {
+  "id": "672",
+  "decision": "reject",
+  "reason": "官方 en_desc 面積 65,650 ha，ext 含 2000、2023，原文與官方一致；Gemini 的 96,169 ha 無依據。",
+  "edits": []
+ },
+ {
+  "id": "675",
+  "decision": "reject",
+  "reason": "官方 en_desc 明寫 Laguna Caldera volcano，原文忠於官方。",
+  "edits": []
+ },
+ {
+  "id": "698",
+  "decision": "accept",
+  "reason": "官方 ext 為空，無擴展紀錄，『後來並隨科學發現擴展』與官方狀態矛盾。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "後來並隨科學發現擴展與補充，持續為古生物研究提供重要材料",
+    "new": "此後持續的科學研究不斷豐富人們對其化石紀錄的理解，也為古生物研究提供重要材料"
+   }
+  ]
+ },
+ {
+  "id": "707",
+  "decision": "accept",
+  "reason": "達賴喇嘛名號與制度晚於七世紀，布達拉宮七世紀始建、十七世紀起為冬宮，屬史實錯誤；官方 en_desc 措辭雖如此，仍採較準確說法。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "布達拉宮自七世紀起即是達賴喇嘛的冬宮，建在",
+    "new": "布達拉宮始建於七世紀，自十七世紀起成為達賴喇嘛的冬宮，建在"
+   }
+  ]
+ },
+ {
+  "id": "709",
+  "decision": "reject",
+  "reason": "官方 en_desc 明寫 village of Chazhashi still has more than 200 of these houses，原文忠於官方。",
+  "edits": []
+ },
+ {
+  "id": "753",
+  "decision": "accept",
+  "reason": "艾西拉(Asilah)是另一座城市，Essaouira 慣用譯名為索維拉。注意：sites.json 的 zh 欄位也寫『艾西拉』，需另行處理（不在 intro/highlights）。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "艾西拉舊稱摩加多爾",
+    "new": "索維拉舊稱摩加多爾"
+   },
+   {
+    "field": "intro",
+    "old": "艾西拉的價值在於",
+    "new": "索維拉的價值在於"
+   }
+  ]
+ },
+ {
+  "id": "769",
+  "decision": "accept",
+  "reason": "官方為 marbled polecat（虎鼬），『歐亞艾鼬』是不同物種。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "歐亞艾鼬",
+    "new": "虎鼬"
+   }
+  ]
+ },
+ {
+  "id": "779",
+  "decision": "accept",
+  "reason": "官方原文雖稱最大佛像，但已過時；改為『最大的石刻佛像』，與官方不衝突且正確。（問題 1：intro）",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "是世界上最大的佛像",
+    "new": "是世界上最大的石刻佛像"
+   }
+  ]
+ },
+ {
+  "id": "779",
+  "decision": "accept",
+  "reason": "同上，要點『居世界之冠』改限定為石刻佛像。（問題 2：highlights）",
+  "edits": [
+   {
+    "field": "highlights",
+    "old": "樂山大佛鑿於山崖，高七十一公尺，居世界之冠",
+    "new": "樂山大佛鑿於山崖，高七十一公尺，是世界最大的石刻佛像"
+   }
+  ]
+ },
+ {
+  "id": "904",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 These eight churches，原文正確，無需修改。",
+  "edits": []
+ },
+ {
+  "id": "915",
+  "decision": "accept",
+  "reason": "Environs 被誤音譯為『維羅恩斯』，應為『及其周邊地區』。（問題 1）",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "科羅姆德拉伊和維羅恩斯等地",
+    "new": "科羅姆德拉伊及其周邊地區"
+   }
+  ]
+ },
+ {
+  "id": "915",
+  "decision": "reject",
+  "reason": "傍人 4.5 至 2.5 百萬年前為官方 en_desc 原文（Paranthropus ... between 4.5 million and 2.5 million years），原文忠於官方，不改。（問題 2）",
+  "edits": []
+ },
+ {
+  "id": "927",
+  "decision": "reject",
+  "reason": "資料 year=2026、id 927 為專案官方紀錄；Gemini 不認識 2026 登錄，依規則不採。",
+  "edits": []
+ },
+ {
+  "id": "940",
+  "decision": "accept",
+  "reason": "danger=True 為官方欄位，Gemini『未列瀕危』不採；但原文含『這一點我不確定其詳細原因』的 AI 自白，必須移除。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "目前此遺產被列入瀕危名單，主要與歷史建築保存與維護壓力有關，這一點我不確定其詳細原因。",
+    "new": "目前此遺產已被列入瀕危名單，歷史建築的保存與維護面臨壓力。"
+   }
+  ]
+ },
+ {
+  "id": "976",
+  "decision": "reject",
+  "reason": "原文正確：石窟庵與佛國寺為另一項遺產(736)，並不在 976 之內；Gemini 的說法自相矛盾。",
+  "edits": []
+ },
+ {
+  "id": "1003",
+  "decision": "reject",
+  "reason": "『316-907』直接出自官方 en_desc，原文忠於官方。",
+  "edits": []
+ },
+ {
+  "id": "1033",
+  "decision": "reject",
+  "reason": "官方欄位 danger=False，依規則以資料為準；不採 Gemini。",
+  "edits": []
+ },
+ {
+  "id": "1058",
+  "decision": "reject",
+  "reason": "官方 en_desc 即寫 early settlements ... in West Africa，原文忠於官方（地理上摩洛哥屬北非，建議人工再議）。",
+  "edits": []
+ },
+ {
+  "id": "1091",
+  "decision": "reject",
+  "reason": "編號 1091 為北韓的高句麗古墓群，中國部分為另一項目(1135)，原文『位於北韓』正確。",
+  "edits": []
+ },
+ {
+  "id": "1112",
+  "decision": "reject",
+  "reason": "『South Asia, Australasia and North America』為官方 en_desc 原文，原文忠於官方。",
+  "edits": []
+ }
+]
