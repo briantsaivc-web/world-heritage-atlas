@@ -1,0 +1,209 @@
+[
+ {
+  "id": "1213",
+  "decision": "accept",
+  "reason": "熊貓 2016 年起 IUCN 為易危，屬公認事實；保留官方語意並補充現況，並刪除重複句。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "大熊貓被列為高度瀕危物種。",
+    "new": "大熊貓曾被列為高度瀕危物種，現已調降為易危。"
+   },
+   {
+    "field": "intro",
+    "old": "保護區涵蓋臥龍、四姑娘山與夾金山等地，對大熊貓的長期保育具有關鍵意義。保護區涵蓋臥龍、四姑娘山與夾金山等地，對大熊貓的長期保育具有關鍵意義。",
+    "new": "保護區涵蓋臥龍、四姑娘山與夾金山等地，對大熊貓的長期保育具有關鍵意義。"
+   }
+  ]
+ },
+ {
+  "id": "1216",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 857,150 ha 與 largest no-fishing zone，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1225",
+  "decision": "reject",
+  "reason": "官方 en_desc 即寫 Côte d’Ivoire, Ghana and Togo，屬官方地理疏漏，依指示維持原文。",
+  "edits": []
+ },
+ {
+  "id": "1246",
+  "decision": "accept",
+  "reason": "官方 en_desc 為 Tomogaura（島根縣），鞆之浦為廣島另一地，Gemini 正確。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "鞆之浦、沖泊與溫泉津",
+    "new": "鞆ヶ浦、沖泊與溫泉津"
+   }
+  ]
+ },
+ {
+  "id": "1248",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 97,125 ha 且 ext 含 2014，intro 與官方一致，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1290",
+  "decision": "accept",
+  "reason": "官方為 millions, perhaps a billion，『數十億』量級錯。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "數百萬隻，甚至可能多達數十億隻帝王斑蝶",
+    "new": "數百萬隻，甚至可能多達十億隻帝王斑蝶"
+   }
+  ]
+ },
+ {
+  "id": "1326",
+  "decision": "accept",
+  "reason": "官方為 Nihoa，非 Niʻihau，譯名誤；intro 與 highlights 皆需改。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "在尼豪島與馬庫馬那馬那島（Makumanamana）上",
+    "new": "在尼霍阿島（Nihoa）與馬庫馬那馬那島（Makumanamana）上"
+   },
+   {
+    "field": "highlights",
+    "old": "尼豪島與馬庫馬那馬那島有前歐洲人時期遺跡",
+    "new": "尼霍阿島與馬庫馬那馬那島有前歐洲人時期遺跡"
+   }
+  ]
+ },
+ {
+  "id": "1362",
+  "decision": "reject",
+  "reason": "官方 en_desc 即為 195 endangered bird species，intro 與官方一致，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1387",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 Cathedral of Santa Cruz，intro 與官方一致；Gemini 論點在史實上或有理，但依指示以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1396",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 the oldest outside the African continent，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1416",
+  "decision": "accept",
+  "reason": "官方『most remarkable』為評價用語，改為中性的『白堊紀末大滅絕』，與官方不衝突且避免誤讀為史上最大。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "造成了最顯著的大滅絕",
+    "new": "造成了白堊紀末期的大滅絕"
+   }
+  ]
+ },
+ {
+  "id": "1431",
+  "decision": "reject",
+  "reason": "資料 year=2025，Gemini 把 2025 官方紀錄當錯誤，不採。",
+  "edits": []
+ },
+ {
+  "id": "1433",
+  "decision": "accept",
+  "reason": "官方明言鑲嵌畫來自原始建築（339 年），highlights 寫成六世紀教堂不準確；intro 已正確。巴勒斯坦用語與 UNESCO 一致，中立無需改。",
+  "edits": [
+   {
+    "field": "highlights",
+    "old": "保留六世紀教堂的地板鑲嵌畫",
+    "new": "保留原始（四世紀）教堂的精美地板鑲嵌畫"
+   }
+  ]
+ },
+ {
+  "id": "1455",
+  "decision": "reject",
+  "reason": "官方 en_desc 即寫 on the opposite bank，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1510",
+  "decision": "accept",
+  "reason": "官方島名為 Clarión（克拉里昂），非克利珀頓（Clipperton 屬法國）。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "羅卡帕蒂達與克利珀頓",
+    "new": "羅卡帕蒂達與克拉里昂"
+   }
+  ]
+ },
+ {
+  "id": "1548",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 arrived in South America via Valongo，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1574",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 Entirely uninhabited by humans，以官方為準。",
+  "edits": []
+ },
+ {
+  "id": "1586",
+  "decision": "reject",
+  "reason": "官方 en_desc 即 church built in the hill of Nyamata in 1980，一致。",
+  "edits": []
+ },
+ {
+  "id": "1638",
+  "decision": "reject",
+  "reason": "官方 en_desc 為 third largest desert and second largest drifting desert，intro 一致。",
+  "edits": []
+ },
+ {
+  "id": "1808",
+  "decision": "accept",
+  "reason": "data danger=true、year=2026，登錄時即列入瀕危；原句含糊且後綴冗餘。不臆測具體原因。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "因面臨威脅而列入瀕危世界遺產名錄，但其具體原因與細節，須以世界遺產委員會的正式文件為準；",
+    "new": "於二〇二六年登錄時即同時列入瀕危世界遺產名錄；"
+   }
+  ]
+ },
+ {
+  "id": "1809",
+  "decision": "accept",
+  "reason": "登錄即列入瀕危；另將過時的『巴勒斯坦自治區』改為與 UNESCO 一致的『巴勒斯坦』，用語較中立。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "位於巴勒斯坦自治區約旦河西岸",
+    "new": "位於巴勒斯坦約旦河西岸"
+   },
+   {
+    "field": "intro",
+    "old": "因面臨威脅而列入瀕危世界遺產名錄，其具體原因以世界遺產委員會的正式文件為準；",
+    "new": "於二〇二六年登錄時即同時列入瀕危世界遺產名錄；"
+   }
+  ]
+ },
+ {
+  "id": "1810",
+  "decision": "accept",
+  "reason": "登錄即列入瀕危，原句誤導為後續補述。",
+  "edits": [
+   {
+    "field": "intro",
+    "old": "因面臨威脅而列入瀕危世界遺產名錄，其具體原因以世界遺產委員會的正式文件為準，近年來",
+    "new": "於二〇二六年登錄時即同時列入瀕危世界遺產名錄，近年來"
+   }
+  ]
+ }
+]
