@@ -4,6 +4,7 @@ import json,math,shutil,os,glob
 A='atlas-audit/whc'; R='world-heritage-atlas'
 d=json.load(open(f'{A}/photos3.json')); G=json.load(open(f'{A}/geo.json'))
 p4=json.load(open(f'{A}/photos4.json')) if os.path.exists(f'{A}/photos4.json') else {}
+p5=json.load(open(f'{A}/photos5.json')) if os.path.exists(f'{A}/photos5.json') else {}
 CV=json.load(open(f'{A}/vision_claude.json')) if os.path.exists(f'{A}/vision_claude.json') else {}  # Claude 子代理看圖結果（Gemini 沒篩到的才用）
 S=json.load(open(f'{R}/data/sites.json')); I={s['id']:s for s in S}
 for f in glob.glob(f'{R}/img/800/*')+glob.glob(f'{R}/img/thumb/*'): os.remove(f)
@@ -35,6 +36,10 @@ for sid,s in I.items():
         else: ks=[]
         seen={x[2]['file'] for x in cand}
         cand+=[('img4',k,w['photos'][k]) for k in ks if w['photos'][k]['file'] not in seen]
+    w5=p5.get(sid)
+    if w5 and len(cand)<6 and f'p5_{sid}' in CV:  # photos5 只用 Claude 篩選過的
+        seen={x[2]['file'] for x in cand}
+        cand+=[('img5',k,w5['photos'][k]) for k in dict.fromkeys(CV[f'p5_{sid}']['keep']) if k<len(w5['photos']) and w5['photos'][k]['file'] not in seen]
     if not cand and v and f'r3_{sid}' in CV:  # 第二意見：原本零照片者，Claude 判定為該遺產即採用（不做座標檢查，先求有）
         cand+=[('img3',k,v['photos'][k]) for k in dict.fromkeys(CV[f'r3_{sid}']['keep']) if k<len(v['photos'])]
     out[sid]=cand[:6]
