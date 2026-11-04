@@ -321,7 +321,7 @@ function sitePage(id){
   ${mainFig}${rest.length?`<div class="gal">${rest.map((p,k)=>fig(p,k+1,false)).join('')}</div>`:''}
   <h3>介紹</h3>${intro}${hl}
   ${s.coord?`<h3>位置</h3><div id="minimap"></div>`:''}
-  <p style="font-size:.95rem"><a href="${esc(s.unesco)}" target="_blank" rel="noopener">UNESCO 官方頁 →</a></p>
+  <p style="font-size:.95rem"><a href="${esc(s.unesco)}" target="_blank" rel="noopener">UNESCO 官方頁 →</a>${photos.length<5?` · <a href="https://commons.wikimedia.org/w/index.php?search=${encodeURIComponent(s.en)}&title=Special:MediaSearch&type=image" target="_blank" rel="noopener">在 Wikimedia Commons 看更多照片 →</a>`:''}</p>
   <div class="nav2">${prev?`<button onclick="go('#site/${prev.id}')">← ${esc(sname(prev))}</button>`:'<span></span>'}${next?`<button onclick="go('#site/${next.id}')">${esc(sname(next))} →</button>`:''}</div></article>`;
 }
 function openLb(id,k){

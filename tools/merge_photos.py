@@ -1,8 +1,10 @@
+# 2026-11-04 起：加讀 vision_claude.json（Claude 篩選，key 為 p3_<id>/p4_<id>）
 # 用法：cd /home/claude && D=YYYY-MM-DD python3 world-heritage-atlas/tools/merge_photos.py（合併 atlas-audit/whc 的 photos3＋photos4 vision 結果）
 import json,math,shutil,os,glob
 A='atlas-audit/whc'; R='world-heritage-atlas'
 d=json.load(open(f'{A}/photos3.json')); G=json.load(open(f'{A}/geo.json'))
 p4=json.load(open(f'{A}/photos4.json')) if os.path.exists(f'{A}/photos4.json') else {}
+CV=json.load(open(f'{A}/vision_claude.json')) if os.path.exists(f'{A}/vision_claude.json') else {}  # Claude 子代理看圖結果（Gemini 沒篩到的才用）
 S=json.load(open(f'{R}/data/sites.json')); I={s['id']:s for s in S}
 for f in glob.glob(f'{R}/img/800/*')+glob.glob(f'{R}/img/thumb/*'): os.remove(f)
 def dist(a,b):
@@ -14,6 +16,7 @@ for sid,s in I.items():
     c=s.get('coord'); lim=3000 if len(s['iso'])>1 else 600
     cand=[]
     v=d.get(sid)
+    if v and 'vision' not in v and f'p3_{sid}' in CV: v=dict(v,vision=CV[f'p3_{sid}'])
     if v and 'vision' in v:
         def ok(k):
             p=v['photos'][k]; g=G.get(p['file'])
@@ -27,10 +30,13 @@ for sid,s in I.items():
             cand+=[('img3',k,v['photos'][k]) for k in rest[:4-len(cand)]]
     w=p4.get(sid)
     if w and len(cand)<6:
+        if 'vision' not in w and f'p4_{sid}' in CV: w=dict(w,vision=CV[f'p4_{sid}'])
         if 'vision' in w: ks=[k for k in dict.fromkeys(w['vision']['keep']) if k<len(w['photos'])]
         else: ks=[]
         seen={x[2]['file'] for x in cand}
         cand+=[('img4',k,w['photos'][k]) for k in ks if w['photos'][k]['file'] not in seen]
+    if not cand and v and f'r3_{sid}' in CV:  # 第二意見：原本零照片者，Claude 判定為該遺產即採用（不做座標檢查，先求有）
+        cand+=[('img3',k,v['photos'][k]) for k in dict.fromkeys(CV[f'r3_{sid}']['keep']) if k<len(v['photos'])]
     out[sid]=cand[:6]
 for s in S: s.pop('photos',None)
 for sid,cs in out.items():
