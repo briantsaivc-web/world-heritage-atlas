@@ -628,6 +628,44 @@
 "出土直立人、海德堡人與早期智人的化石",
 "文化序列涵蓋奧都萬、阿舍利、中石器與晚石器四階段",
 "被火山與沉積物掩埋的古地景，可重建更新世高山生態"
+],
+"photos": [
+{
+"file": "Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (2) (29048811951).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/13_0.webp",
+"thumb": "img/thumb/13_0.webp"
+},
+{
+"file": "Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (3) (29048726251).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/13_1.webp"
+},
+{
+"file": "Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (1) (29125984985).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/13_2.webp"
+},
+{
+"file": "Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (4) (29020240512).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/13_3.webp"
+},
+{
+"file": "Excavation site at Melka Kunture Prehistoric Site, roughly 800,000 years before the present (5) (28838893510).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/13_4.webp"
+}
 ]
 },
 {
@@ -1706,6 +1744,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/29_2.webp"
+},
+{
+"file": "Kraków - Sukiennice 01.jpg",
+"artist": "Lestat (Jan Mehlich)",
+"license": "CC BY-SA 3.0",
+"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+"src": "img/800/29_3.webp"
+},
+{
+"file": "Florian Gate 06.jpg",
+"artist": "Scotch Mist",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/29_4.webp"
+},
+{
+"file": "Florian Gate 05.jpg",
+"artist": "Scotch Mist",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/29_5.webp"
 }
 ]
 },
@@ -1987,6 +2046,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/33_1.webp"
+},
+{
+"file": "European bison (Bison bonasus) female Białowieza.jpg",
+"artist": "Charles J. Sharp",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/33_2.webp"
+},
+{
+"file": "European bison (Bison bonasus) male Białowieza 2.jpg",
+"artist": "Charles J. Sharp",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/33_3.webp"
+},
+{
+"file": "European bison (Bison bonasus) female and calves Białowieza.jpg",
+"artist": "Charles J. Sharp",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/33_4.webp"
+},
+{
+"file": "European bison (Bison bonasus) young male Białowieza.jpg",
+"artist": "Charles J. Sharp",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/33_5.webp"
 }
 ]
 },
@@ -2184,6 +2271,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/36_2.webp"
+},
+{
+"file": "La Médina de Tunis.jpg",
+"artist": "Mohamed Ali Sghaier",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/36_3.webp"
+},
+{
+"file": "Mosquée zitouna (92838).jpg",
+"artist": "Noomen9",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/36_4.webp"
+},
+{
+"file": "Mosquée zitouna (95591).jpg",
+"artist": "Noomen9",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/36_5.webp"
 }
 ]
 },
@@ -2246,6 +2354,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/37_2.webp"
+},
+{
+"file": "Villa Romaine de Carthage(10).jpg",
+"artist": "Sinda BF",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/37_3.webp"
+},
+{
+"file": "Panorama from House of the Aviary.jpg",
+"artist": "Davide Mauro",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/37_4.webp"
+},
+{
+"file": "Villa Romaine de Carthage(1).jpg",
+"artist": "Sinda BF",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/37_5.webp"
 }
 ]
 },
@@ -2648,6 +2777,27 @@
 "license": "CC BY 3.0",
 "license_url": "https://creativecommons.org/licenses/by/3.0",
 "src": "img/800/44_2.webp"
+},
+{
+"file": "Frescos in the dromos of Kazanlak tomb 06.jpg",
+"artist": "Galileo01",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/44_3.webp"
+},
+{
+"file": "Frescos in the dromos of Kazanlak tomb 07.jpg",
+"artist": "Galileo01",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/44_4.webp"
+},
+{
+"file": "Kazanlak warriors.jpg",
+"artist": "KLMircea",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/44_5.webp"
 }
 ]
 },
@@ -2788,6 +2938,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/55_2.webp"
+},
+{
+"file": "Røros Hitterelva Bergstaden Ziir Raubrua Trøndelag Norway (2022.08.04).jpg",
+"artist": "Geir Hval (www.MacWhale.eu)",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/55_3.webp"
+},
+{
+"file": "Wooden House, Tufta, Røros 20150616 1.jpg",
+"artist": "DXR",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/55_4.webp"
+},
+{
+"file": "Kjerkgata 42, Røros, South view 20150616 1.jpg",
+"artist": "DXR",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/55_5.webp"
 }
 ]
 },
@@ -2924,6 +3095,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/59_2.webp"
+},
+{
+"file": "Barrio de Bryggen 01.jpg",
+"artist": "Alberto-g-rovi",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/59_3.webp"
+},
+{
+"file": "Barrio de Bryggen 07.jpg",
+"artist": "Alberto-g-rovi",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/59_4.webp"
+},
+{
+"file": "Bergen Bryggen 2986.jpg",
+"artist": "Anna Anichkova",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/59_5.webp"
 }
 ]
 },
@@ -3733,6 +3925,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/80_2.webp"
+},
+{
+"file": "2017-04 Mont Saint-Michel 06.jpg",
+"artist": "Antoine Lamielle",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/80_3.webp"
+},
+{
+"file": "France - St. Malo, Le Mont Saint Michel - panoramio (5).jpg",
+"artist": "randreu",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/80_4.webp"
+},
+{
+"file": "Mapillary (287591349666378, QOsWRuLAu1B7 QWsplWbzA) (southglos) 2017-10-25 14H59M26S000.jpg",
+"artist": "southglos",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/80_5.webp"
 }
 ]
 },
@@ -4191,6 +4404,27 @@
 "license": "CC BY 4.0",
 "license_url": "https://creativecommons.org/licenses/by/4.0",
 "src": "img/800/87_2.webp"
+},
+{
+"file": "Colossi of Memnon R02.jpg",
+"artist": "Marc Ryckaert (MJJR)",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/87_3.webp"
+},
+{
+"file": "Memnonovy kolosy - panoramio.jpg",
+"artist": "Pavel Špindler",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/87_4.webp"
+},
+{
+"file": "Memnon 17.jpg",
+"artist": "Olaf Tausch",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/87_5.webp"
 }
 ]
 },
@@ -4649,6 +4883,27 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/94_2.webp"
+},
+{
+"file": "Capo di Ponte - Parco nazionale delle incisioni rupestri di Naquane - 2023-09-27 14-52-04 002.JPG",
+"artist": "Bramfab",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/94_3.webp"
+},
+{
+"file": "Capo di Ponte - Parco nazionale delle incisioni rupestri di Naquane - 2023-09-27 14-52-04 006.JPG",
+"artist": "Bramfab",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/94_4.webp"
+},
+{
+"file": "Capo di Ponte - Parco nazionale delle incisioni rupestri di Naquane - 2023-09-27 14-52-04 001.JPG",
+"artist": "Bramfab",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/94_5.webp"
 }
 ]
 },
@@ -4795,6 +5050,27 @@
 "license": "CC BY 3.0",
 "license_url": "https://creativecommons.org/licenses/by/3.0",
 "src": "img/800/96_2.webp"
+},
+{
+"file": "Crkva Svetih apostola Petra i Pavla u Rasu 06.jpg",
+"artist": "Nikolina Šepić",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/96_3.webp"
+},
+{
+"file": "Crkva Svetih apostola Petra i Pavla u Rasu 07.jpg",
+"artist": "Nikolina Šepić",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/96_4.webp"
+},
+{
+"file": "Crkva Svetih apostola Petra i Pavla u Rasu 05.jpg",
+"artist": "Nikolina Šepić",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/96_5.webp"
 }
 ]
 },
@@ -5542,19 +5818,47 @@
 ],
 "photos": [
 {
-"file": "MaliDjennéMosquée.JPG",
-"artist": "BluesyPete",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"file": "Moschee von Djenné.jpg",
+"artist": "qiv",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/116_0.webp",
 "thumb": "img/thumb/116_0.webp"
 },
 {
-"file": "Djenné.jpg",
-"artist": "Devriese",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
+"file": "Mali - mosque in Djenné.jpg",
+"artist": "Ferdinand Reus from Arnhem, Holland",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/116_1.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 65 - La mosquée de Djenné avec trois tours d'un côté - Djenné, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/116_2.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 92 - Une tour dans le mur extérieur de la Grande Mosquée - Djenné, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/116_3.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 67 - La porte en pisé de l'ancienne Grande Mosquée - Djenné, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/116_4.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 89 - Une scène de rue sur un marché - Djenné, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/116_5.webp"
 }
 ]
 },
@@ -5589,6 +5893,37 @@
 "金加雷貝爾、桑科雷與西迪·葉希亞三座大清真寺是城市象徵",
 "古蹟以泥磚建成，需持續修復維護",
 "沙漠化是長期威脅古蹟的因素"
+],
+"photos": [
+{
+"file": "Mali - Timbuktu, the oldest of the two mosques (8441194496).jpg",
+"artist": "Jeanne Menjoulet from Paris, France",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/119_0.webp",
+"thumb": "img/thumb/119_0.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 48 - Trois tentes de nattes avec des garçons - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/119_1.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 21 - La façade de la halle, décorée de ferronneries - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/119_2.webp"
+},
+{
+"file": "ASC Leiden - van Achterberg Collection - 05 - 22 - Des étals de marché vides sans marchands - Tombouctou, Mali - Novembre-décembre 1993.jpg",
+"artist": "Angeline A. van Achterberg",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/119_3.webp"
+}
 ]
 },
 {
@@ -6117,6 +6452,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/131_2.webp"
+},
+{
+"file": "Malta, 2010 - panoramio - Bengt Nyman (23).jpg",
+"artist": "Bengt Nyman",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/131_3.webp"
+},
+{
+"file": "English Curtain, Valletta.jpg",
+"artist": "Tranceliner",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/131_4.webp"
+},
+{
+"file": "DSC 2107 (1).jpg",
+"artist": "Wendy Verbraeken",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/131_5.webp"
 }
 ]
 },
@@ -6154,12 +6510,47 @@
 ],
 "photos": [
 {
-"file": "Malta Hal Tarxien BW 2011-10-04 12-42-32.JPG",
-"artist": "Berthold Werner",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"file": "Complejo de Ħaġar Qim, isla de Malta, Malta, 2021-08-25, DD 55.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/132_0.webp",
 "thumb": "img/thumb/132_0.webp"
+},
+{
+"file": "Complejo de Ħaġar Qim, isla de Malta, Malta, 2021-08-25, DD 64.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/132_1.webp"
+},
+{
+"file": "Complejo de Ħaġar Qim, isla de Malta, Malta, 2021-08-25, DD 65.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/132_2.webp"
+},
+{
+"file": "Complejo de Ħaġar Qim, isla de Malta, Malta, 2021-08-25, DD 60.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/132_3.webp"
+},
+{
+"file": "Complejo de Ħaġar Qim, isla de Malta, Malta, 2021-08-25, DD 63.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/132_4.webp"
+},
+{
+"file": "Complejo de Ħaġar Qim, isla de Malta, Malta, 2021-08-25, DD 62.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/132_5.webp"
 }
 ]
 },
@@ -6222,6 +6613,27 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/134_2.webp"
+},
+{
+"file": "Eureka-Arcata-Fortuna, CA, CA, USA - panoramio (7).jpg",
+"artist": "Roman Eugeniusz",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/134_3.webp"
+},
+{
+"file": "Redwood National and State Park - panoramio (1).jpg",
+"artist": "Doug Olson",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/134_4.webp"
+},
+{
+"file": "Redwood Fallen Tree with Passage.jpg",
+"artist": "Ramakrishna Gundra",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/134_5.webp"
 }
 ]
 },
@@ -7877,6 +8289,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/160_2.webp"
+},
+{
+"file": "Château de Fontainebleau (Fontainebleau).jpg",
+"artist": "Gzen92",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/160_3.webp"
+},
+{
+"file": "Château de Fontainebleau (Fontainebleau) edited (1).jpg",
+"artist": "Gzen92",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/160_4.webp"
+},
+{
+"file": "Balcon pierre château Fontainebleau.jpg",
+"artist": "Jebulon",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/160_5.webp"
 }
 ]
 },
@@ -9357,6 +9790,27 @@
 "license": "CC BY-SA 3.0 igo",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
 "src": "img/800/185_2.webp"
+},
+{
+"file": "Seychelles outer islands 25.08.2009 10-19-35.jpg",
+"artist": "Simisa",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/185_3.webp"
+},
+{
+"file": "ISS067-E-161854 - View of Earth.jpg",
+"artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/185_4.webp"
+},
+{
+"file": "Aldabra Atoll-108987.jpg",
+"artist": "Ron Van Oers",
+"license": "CC BY-SA 3.0 igo",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+"src": "img/800/185_5.webp"
 }
 ]
 },
@@ -9666,6 +10120,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/189_2.webp"
+},
+{
+"file": "(1) Prefeitura de Oinda.jpg",
+"artist": "Prefeitura de Olinda",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/189_3.webp"
+},
+{
+"file": "(2) Prefeitura de Oinda - 51899919595.jpg",
+"artist": "Prefeitura de Olinda",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/189_4.webp"
+},
+{
+"file": "(3) Prefeitura de Oinda - 51899264301.jpg",
+"artist": "Prefeitura de Olinda",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/189_5.webp"
 }
 ]
 },
@@ -10058,6 +10533,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/194_2.webp"
+},
+{
+"file": "Arch of Trajan (Timgad).jpg",
+"artist": "Bernard Gagnon",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/194_3.webp"
+},
+{
+"file": "Timgad, Algeria - panoramio (30).jpg",
+"artist": "Xiaotong Gao",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/194_4.webp"
+},
+{
+"file": "The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 34.jpg",
+"artist": "Rachid Hamatou",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/194_5.webp"
 }
 ]
 },
@@ -10243,6 +10739,51 @@
 "最盛時覆蓋將近一千六百公頃，有約一百二十座土丘",
 "僧侶丘是美洲最大的史前土方工程，高約三十公尺",
 "是複雜酋邦社會的鮮明例證"
+],
+"photos": [
+{
+"file": "Cahokia 2025k.jpg",
+"artist": "Antony-22",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/198_0.webp",
+"thumb": "img/thumb/198_0.webp"
+},
+{
+"file": "Cahokia 2025i.jpg",
+"artist": "Antony-22",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/198_1.webp"
+},
+{
+"file": "Cahokia 2025j.jpg",
+"artist": "Antony-22",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/198_2.webp"
+},
+{
+"file": "Cahokia 2025h.jpg",
+"artist": "Antony-22",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/198_3.webp"
+},
+{
+"file": "Cahokia 2025g.jpg",
+"artist": "Antony-22",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/198_4.webp"
+},
+{
+"file": "Cahokia 2025e.jpg",
+"artist": "Antony-22",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/198_5.webp"
+}
 ]
 },
 {
@@ -10618,6 +11159,34 @@
 "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
 "src": "img/800/203_0.webp",
 "thumb": "img/thumb/203_0.webp"
+},
+{
+"file": "Salins-les-Bains, le fort Saint-André au-dessus de la ville.jpg",
+"artist": "JGS25",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/203_1.webp"
+},
+{
+"file": "Salines de Salins-les-Bains 1.JPG",
+"artist": "LulaMae's",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/203_2.webp"
+},
+{
+"file": "Clucy, le fort Belin au-dessus de Salins.jpg",
+"artist": "JGS25",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/203_3.webp"
+},
+{
+"file": "Marnoz (39) Bois de Bagney vu depuis l'aire d'envol de Pretin.jpg",
+"artist": "GO69",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/203_4.webp"
 }
 ]
 },
@@ -10866,12 +11435,33 @@
 ],
 "photos": [
 {
-"file": "Flickr - DVIDSHUB - Giant standing Buddhas of Bamiyan still cast shadows (Image 2 of 8).jpg",
-"artist": "Sgt. Ken Scar",
-"license": "Public domain",
-"license_url": "",
+"file": "Buddha statues in Bamyan.JPG",
+"artist": "Jaffnaanna",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/208_0.webp",
 "thumb": "img/thumb/208_0.webp"
+},
+{
+"file": "Morning view to Buddha from the road April 2021.jpg",
+"artist": "Hasefi88",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/208_1.webp"
+},
+{
+"file": "Point from the top of Buddha Bamyan.jpg",
+"artist": "Hasefi88",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/208_2.webp"
+},
+{
+"file": "Detalle de frescos Bamiyan Afgánistan.jpg",
+"artist": "AlfredoGMx",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/208_3.webp"
 }
 ]
 },
@@ -10945,16 +11535,16 @@
 ],
 "photos": [
 {
-"file": "Religious fresco in Rila Monastery.jpg",
-"artist": "Νικόλαος Κυριακάκης",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Grotte de saint Jean de Rila 3.jpg",
+"artist": "Manastirile",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/216_0.webp",
 "thumb": "img/thumb/216_0.webp"
 },
 {
-"file": "Rila Monastery (Рилски манастир) - fresco 2.JPG",
-"artist": "Pudelek (Marcin Szala)",
+"file": "Grotte de saint Jean de Rila 2.JPG",
+"artist": "Manastirile",
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/216_1.webp"
@@ -11086,6 +11676,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/219_2.webp"
+},
+{
+"file": "Srebarna Reserve spring 2010.JPG",
+"artist": "Trygve W Nodeland",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/219_3.webp"
+},
+{
+"file": "Кадър от Сребърна - 2.jpg",
+"artist": "Interact-Bulgaria",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/219_4.webp"
+},
+{
+"file": "Кадър от Сребърна - 3.jpg",
+"artist": "Interact-Bulgaria",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/219_5.webp"
 }
 ]
 },
@@ -11225,6 +11836,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/227_2.webp"
+},
+{
+"file": "Paysage du Parc Natianal de la Comoé (Nord-Est de la Côte d'Ivoire).jpg",
+"artist": "Saxette",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/227_3.webp"
+},
+{
+"file": "Comoe river.jpg",
+"artist": "ETF89",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/227_4.webp"
+},
+{
+"file": "Comoe Savannah 2.jpg",
+"artist": "ETF89",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/227_5.webp"
 }
 ]
 },
@@ -11405,6 +12037,34 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/230_1.webp"
+},
+{
+"file": "Abbaye de Saint-Savin - panoramio.jpg",
+"artist": "horsch",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/230_2.webp"
+},
+{
+"file": "Abbey-saint-savin-P1020397-blacktav.jpg",
+"artist": "Blacktav",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/230_3.webp"
+},
+{
+"file": "N° 0025.jpg",
+"artist": "Didier Doucet-Blanchard",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/230_4.webp"
+},
+{
+"file": "N° 0027.jpg",
+"artist": "Didier Doucet-Blanchard",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/230_5.webp"
 }
 ]
 },
@@ -11544,6 +12204,27 @@
 "license": "GFDL 1.2",
 "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
 "src": "img/800/232_2.webp"
+},
+{
+"file": "Captivating Image of Humayun's Tomb by Prajesh Majumdar's 2012 Masterpiece 02.jpg",
+"artist": "AirPra",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/232_3.webp"
+},
+{
+"file": "Captivating Image of Humayun's Tomb by Prajesh Majumdar's 2012 Masterpiece 07.jpg",
+"artist": "AirPra",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/232_4.webp"
+},
+{
+"file": "Captivating Image of Humayun's Tomb by Prajesh Majumdar's 2012 Masterpiece 06.jpg",
+"artist": "AirPra",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/232_5.webp"
 }
 ]
 },
@@ -11734,6 +12415,37 @@
 "共有九座印度教神廟與一座耆那教聖所",
 "維魯帕克沙神廟約建於740年，由王后為紀念丈夫的勝利而建",
 "是研究印度神廟建築演變的重要場地"
+],
+"photos": [
+{
+"file": "Pattadakal complex of Hindu and Jain temples (53453046654).jpg",
+"artist": "Dinesh Valke from Thane, India",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/239_0.webp",
+"thumb": "img/thumb/239_0.webp"
+},
+{
+"file": "Nandi in the Pattadakal temple complex,Pattadakal,Karnataka,India July,2019.jpg",
+"artist": "Rohan sangodkar",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/239_1.webp"
+},
+{
+"file": "HBPA N 675 Galaganatha Side Pattadakal.jpg",
+"artist": "VasuVR",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/239_2.webp"
+},
+{
+"file": "HBPA N 669 GalaganathaTemple Pattadakal.jpg",
+"artist": "VasuVR",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/239_3.webp"
+}
 ]
 },
 {
@@ -12408,6 +13120,27 @@
 "license": "CC BY 4.0",
 "license_url": "https://creativecommons.org/licenses/by/4.0",
 "src": "img/800/250_2.webp"
+},
+{
+"file": "Airavatesvara Temple Panoramic View.jpg",
+"artist": "Naveen da",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/250_3.webp"
+},
+{
+"file": "12th century Airavatesvara Temple at Darasuram, dedicated to Shiva, built by the Chola king Rajaraja II Tamil Nadu India (5).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/250_4.webp"
+},
+{
+"file": "12th century Airavatesvara Temple at Darasuram, dedicated to Shiva, built by the Chola king Rajaraja II Tamil Nadu India (88).jpg",
+"artist": "Richard Mortel from Riyadh, Saudi Arabia",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/250_5.webp"
 }
 ]
 },
@@ -12847,6 +13580,27 @@
 "license": "CC0",
 "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
 "src": "img/800/259_2.webp"
+},
+{
+"file": "Great Smokey Mountain National Park 11, 05 Aug 2021.jpg",
+"artist": "Puddin Tain",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/259_3.webp"
+},
+{
+"file": "Great Smokey Mountain National Park 6, 05 Aug 2021.jpg",
+"artist": "Puddin Tain",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/259_4.webp"
+},
+{
+"file": "Great Smokey Mountain National Park 3, 05 Aug 2021.jpg",
+"artist": "Puddin Tain",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/259_5.webp"
 }
 ]
 },
@@ -12981,6 +13735,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/261_2.webp"
+},
+{
+"file": "Praslin Vallée de Mai asv2024-10 img13.jpg",
+"artist": "A.Savin",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/261_3.webp"
+},
+{
+"file": "Praslin Vallée de Mai asv2024-10 img18.jpg",
+"artist": "A.Savin",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/261_4.webp"
+},
+{
+"file": "Praslin Vallée de Mai asv2024-10 img15.jpg",
+"artist": "A.Savin",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/261_5.webp"
 }
 ]
 },
@@ -13022,6 +13797,23 @@
 "by": "Gemini＋Claude 子代理交叉複核",
 "reason": "蘇丹較早有 Gebel Barkal（2003）與 Meroe（2011），2016 桑加奈卜僅為第一處自然遺產。"
 }
+],
+"photos": [
+{
+"file": "Acanthaster benziei 50337879.jpg",
+"artist": "Micha Baum",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/262_0.webp",
+"thumb": "img/thumb/262_0.webp"
+},
+{
+"file": "ISS026-E-39242 - View of Earth.jpg",
+"artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/262_1.webp"
+}
 ]
 },
 {
@@ -13057,19 +13849,47 @@
 ],
 "photos": [
 {
-"file": "Torre de Belém por Rodrigo Tetsuo Argenton (6).jpg",
-"artist": "Francisco de Arruda",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Lisboa. Portugal. (53405080767).jpg",
+"artist": "Miguel Ángel García. from Ólvega., España",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/263_0.webp",
 "thumb": "img/thumb/263_0.webp"
 },
 {
-"file": "Lisboa January 2015-40a.jpg",
-"artist": "Alvesgaspar",
+"file": "Lisbon - Belem Tower (26367550174).jpg",
+"artist": "Matthew Robey from Bristol, UK",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/263_1.webp"
+},
+{
+"file": "Lisboa. Portugal. (53405075727).jpg",
+"artist": "Miguel Ángel García. from Ólvega., España",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/263_2.webp"
+},
+{
+"file": "Torre de Belém (1) - Mar 2010.jpg",
+"artist": "Ricardo Tulio Gandelman",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/263_3.webp"
+},
+{
+"file": "Torre de Belém, Lisbon 37.jpg",
+"artist": "Simon Burchell",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"src": "img/800/263_1.webp"
+"src": "img/800/263_4.webp"
+},
+{
+"file": "Viagem portuguesa - WLM 2020 165.jpg",
+"artist": "Joalpe",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/263_5.webp"
 }
 ]
 },
@@ -13861,6 +14681,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/274_2.webp"
+},
+{
+"file": "20250714 061958 - Amanecer en el campamento en Huayllabamba en el camino inca.jpg",
+"artist": "Josefito123",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/274_3.webp"
+},
+{
+"file": "Aguas Calientes (Machu Picchu), 2023 (03).jpg",
+"artist": "Draceane",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/274_4.webp"
+},
+{
+"file": "Machu Picchu, Peru - Laslovarga (254).jpg",
+"artist": "Laslovarga",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/274_5.webp"
 }
 ]
 },
@@ -14063,6 +14904,23 @@
 "神殿建築融合希臘化、羅馬與東方的裝飾特色",
 "曾是第一個阿拉伯王國的首都",
 "因武裝衝突使遺跡受損，已列入瀕危名單"
+],
+"photos": [
+{
+"file": "Hatra-Ruins-2008-12.jpg",
+"artist": "Staff Sgt. JoAnn Makinano",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/277_0.webp",
+"thumb": "img/thumb/277_0.webp"
+},
+{
+"file": "Hatra-Ruins-2008-15.jpg",
+"artist": "Staff Sgt. JoAnn Makinano",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/277_1.webp"
+}
 ]
 },
 {
@@ -14430,6 +15288,20 @@
 "license": "CC BY-SA 2.5",
 "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
 "src": "img/800/287_2.webp"
+},
+{
+"file": "Akakus fozzigiaren.jpg",
+"artist": "Jean-Pierre MALAVIALLE",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/287_3.webp"
+},
+{
+"file": "Akakus-Gebirge - Bizarre Felsformationen.jpg",
+"artist": "Franzfoto",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/287_4.webp"
 }
 ]
 },
@@ -14946,6 +15818,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/299_1.webp"
+},
+{
+"file": "Tyre, mosaic street (6848004215).jpg",
+"artist": "Arian Zwegers",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/299_2.webp"
+},
+{
+"file": "Al Mina site, Tyre, Lebanon.jpg",
+"artist": "Vyacheslav Argenberg",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/299_3.webp"
+},
+{
+"file": "Columns at Al Mina site, Tyre, Lebanon.jpg",
+"artist": "Vyacheslav Argenberg",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/299_4.webp"
+},
+{
+"file": "AlMedinaSite-Tyre-GlassFurnaces RomanDeckert22102021-01.jpg",
+"artist": "RomanDeckert",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/299_5.webp"
 }
 ]
 },
@@ -15272,12 +16172,26 @@
 ],
 "photos": [
 {
-"file": "Tomb Cecil Rhodes1.jpg",
-"artist": "Sputniktilt",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
+"file": "Jameson grave Matopos.jpg",
+"artist": "Fritz Joubert",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/306_0.webp",
 "thumb": "img/thumb/306_0.webp"
+},
+{
+"file": "Intunjambili Cave, Matobo.jpg",
+"artist": "SpiderFitz",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/306_1.webp"
+},
+{
+"file": "Nucras caesicaudata.jpg",
+"artist": "Hans Hillewaert",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/306_2.webp"
 }
 ]
 },
@@ -16961,6 +17875,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/335_2.webp"
+},
+{
+"file": "Valley of flowers national park, Uttarakhand, India 01.jpg",
+"artist": "Rohit Sharma",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/335_3.webp"
+},
+{
+"file": "Valley of flowers national park, Uttarakhand, India 03 (edit).jpg",
+"artist": "Original:  Rohit Sharma\nDerivative work:  UnpetitproleX",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/335_4.webp"
+},
+{
+"file": "\"A panoramic view of valley of flowers Chamoli, India\".jpg 24.jpg",
+"artist": "Naresh Chandra",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/335_5.webp"
 }
 ]
 },
@@ -17733,6 +18668,34 @@
 "license": "CC BY-SA 3.0",
 "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
 "src": "img/800/353_1.webp"
+},
+{
+"file": "Pueblo del Arroyo - panoramio (2).jpg",
+"artist": "runt35",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/353_2.webp"
+},
+{
+"file": "Kin Kletso - panoramio (1).jpg",
+"artist": "runt35",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/353_3.webp"
+},
+{
+"file": "Pueblo del Arroyo - panoramio (1).jpg",
+"artist": "runt35",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/353_4.webp"
+},
+{
+"file": "Pueblo del Arroyo - panoramio (3).jpg",
+"artist": "runt35",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/353_5.webp"
 }
 ]
 },
@@ -17771,12 +18734,26 @@
 "zh_prev": "沃特頓—冰川國際和平公園",
 "photos": [
 {
-"file": "Mountain goat - artificial salt lick.jpg",
-"artist": "Avenue",
-"license": "CC BY-SA 3.0",
-"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+"file": "A Melting Snow Patch (51362607940).jpg",
+"artist": "GlacierNPS",
+"license": "Public domain",
+"license_url": "",
 "src": "img/800/354_0.webp",
 "thumb": "img/thumb/354_0.webp"
+},
+{
+"file": "Carthew-Alderson Trail.jpg",
+"artist": "Stephen Hui",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/354_1.webp"
+},
+{
+"file": "Waterton Glacier international peace park banner Summit Lake Mount Custer and Chapman Peak-c1.jpg",
+"artist": "Traveler100",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/354_2.webp"
 }
 ]
 },
@@ -17916,6 +18893,27 @@
 "license": "CC BY 3.0",
 "license_url": "https://creativecommons.org/licenses/by/3.0",
 "src": "img/800/356_2.webp"
+},
+{
+"file": "Fatihistanbul.jpg",
+"artist": "Hunanuk",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/356_3.webp"
+},
+{
+"file": "At Istanbul - Wikimedia hackathon boat tour 2025 277.jpg",
+"artist": "Photograph by Mike Peel (www.mikepeel.net).",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/356_4.webp"
+},
+{
+"file": "At Istanbul - Wikimedia hackathon boat tour 2025 285.jpg",
+"artist": "Photograph by Mike Peel (www.mikepeel.net).",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/356_5.webp"
 }
 ]
 },
@@ -19064,6 +20062,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/373_1.webp"
+},
+{
+"file": "Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 05.JPG",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/373_2.webp"
+},
+{
+"file": "Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 06.JPG",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/373_3.webp"
+},
+{
+"file": "Stonehenge, Condado de Wiltshire, Inglaterra, 2014-08-12, DD 10.JPG",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/373_4.webp"
+},
+{
+"file": "Stonehenge from the north.jpg",
+"artist": "Sumit Surai",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/373_5.webp"
 }
 ]
 },
@@ -20476,6 +21502,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/400_2.webp"
+},
+{
+"file": "Sarokház. - Budapest, Belső-Ferencváros, Ferenc körút, 22.JPG",
+"artist": "Globetrotter19",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/400_3.webp"
+},
+{
+"file": "Sarokház. - Budapest, Középső-Ferencváros, Ferenc körút, 23.JPG",
+"artist": "Globetrotter19",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/400_4.webp"
+},
+{
+"file": "Lakóházak. - Budapest, Középső-Ferencváros, Ferenc körút, 31 és 29.JPG",
+"artist": "Globetrotter19",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/400_5.webp"
 }
 ]
 },
@@ -20699,6 +21746,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/403_2.webp"
+},
+{
+"file": "Clouds Over Mount Kilimanjaro (Unsplash).jpg",
+"artist": "Joel Peel joel_m_peel",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/403_3.webp"
+},
+{
+"file": "Snowy Mountains In Sky (Unsplash).jpg",
+"artist": "Joel Peel joel_m_peel",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/403_4.webp"
+},
+{
+"file": "Fresh Tracks above the Clouds on a Fresh Morning - Be careful you don't walk off the cliff (9245181831).jpg",
+"artist": "Shane (Lost Australian)",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/403_5.webp"
 }
 ]
 },
@@ -21893,6 +22961,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/425_2.webp"
+},
+{
+"file": "Blenheim - Blenheim Palace - 20210417122845.jpg",
+"artist": "Balon Greyjoy",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/425_3.webp"
+},
+{
+"file": "Blenheim - Blenheim Palace - 20210417122848.jpg",
+"artist": "Balon Greyjoy",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/425_4.webp"
+},
+{
+"file": "Blenheim - Blenheim Palace - 20210417122813.jpg",
+"artist": "Balon Greyjoy",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/425_5.webp"
 }
 ]
 },
@@ -22799,6 +23888,34 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/442_1.webp"
+},
+{
+"file": "Rotunda - University of Virginia.jpg",
+"artist": "Robert Emerson",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/442_2.webp"
+},
+{
+"file": "Winter view toward the Rotunda, the University of Virginia (under renovation, 2016).jpg",
+"artist": "Cobaltum",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/442_3.webp"
+},
+{
+"file": "University of Virginia, March 26-27, 2022 - 51966332232.jpg",
+"artist": "Tim Jarrett",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/442_4.webp"
+},
+{
+"file": "University of Virginia, March 26-27, 2022 - 51966331542.jpg",
+"artist": "Tim Jarrett",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/442_5.webp"
 }
 ]
 },
@@ -23315,6 +24432,27 @@
 "license": "CC BY-SA 2.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/451_2.webp"
+},
+{
+"file": "SL Galle Fort asv2020-01 img21.jpg",
+"artist": "A.Savin",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/451_3.webp"
+},
+{
+"file": "SL Galle Fort asv2020-01 img18.jpg",
+"artist": "A.Savin",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/451_4.webp"
+},
+{
+"file": "SL Galle Fort asv2020-01 img19.jpg",
+"artist": "A.Savin",
+"license": "FAL",
+"license_url": "http://artlibre.org/licence/lal/en",
+"src": "img/800/451_5.webp"
 }
 ]
 },
@@ -23861,6 +24999,51 @@
 "同時保存狩獵採集者與農耕者兩種岩畫傳統",
 "切瓦人直到二十世紀仍持續繪製岩畫",
 "畫中符號與女性密切相關，至今仍有文化意義"
+],
+"photos": [
+{
+"file": "2010-10-21 14-42-31 Malawi - Gongula.JPG",
+"artist": "Hansueli Krapf  This   file was uploaded  with Commonist.",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/476_0.webp",
+"thumb": "img/thumb/476_0.webp"
+},
+{
+"file": "2010-10-21 14-46-50 Malawi - Njuchi.JPG",
+"artist": "Hansueli Krapf  This   file was uploaded  with Commonist.",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/476_1.webp"
+},
+{
+"file": "Chongoni Rock-Art Area-110124.jpg",
+"artist": "Lazare Eloundou Assomo",
+"license": "CC BY-SA 3.0 igo",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+"src": "img/800/476_2.webp"
+},
+{
+"file": "Chongoni Rock-Art Area-110128.jpg",
+"artist": "Lazare Eloundou Assomo",
+"license": "CC BY-SA 3.0 igo",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+"src": "img/800/476_3.webp"
+},
+{
+"file": "Chongoni Rock-Art Area-110126.jpg",
+"artist": "Lazare Eloundou Assomo",
+"license": "CC BY-SA 3.0 igo",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+"src": "img/800/476_4.webp"
+},
+{
+"file": "Chongoni Rock-Art Area-110130.jpg",
+"artist": "Lazare Eloundou Assomo",
+"license": "CC BY-SA 3.0 igo",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+"src": "img/800/476_5.webp"
+}
 ]
 },
 {
@@ -24083,6 +25266,34 @@
 "license": "CC BY 4.0",
 "license_url": "https://creativecommons.org/licenses/by/4.0",
 "src": "img/800/482_1.webp"
+},
+{
+"file": "Cúpulas de Guanajuato - Vista de Guanajuato Capital.jpg",
+"artist": "Juan Carlos Fonseca Mata",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/482_2.webp"
+},
+{
+"file": "Facade with Festive Flags - Guanajuato - Mexico (38262635005).jpg",
+"artist": "Adam Jones from Kelowna, BC, Canada",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/482_3.webp"
+},
+{
+"file": "Fachada de una casa, Guanajuato.jpg",
+"artist": "Juan Carlos Fonseca Mata",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/482_4.webp"
+},
+{
+"file": "Casas en Guanajuato.JPG",
+"artist": "ReyungCho",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/482_5.webp"
 }
 ]
 },
@@ -24145,6 +25356,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/483_2.webp"
+},
+{
+"file": "2007-06-22 Chichen Itza - 021.jpg",
+"artist": "mark byzewski",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/483_3.webp"
+},
+{
+"file": "2007-06-22 Chichen Itza - 020.jpg",
+"artist": "mark byzewski",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/483_4.webp"
+},
+{
+"file": "2007-06-22 Chichen Itza - 018.jpg",
+"artist": "mark byzewski",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/483_5.webp"
 }
 ]
 },
@@ -24664,19 +25896,47 @@
 ],
 "photos": [
 {
-"file": "USA 09643 Taos Pueblo Luca Galuzzi 2007.jpg",
-"artist": "Luca Galuzzi (Lucag)",
-"license": "CC BY-SA 2.5",
-"license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+"file": "Pueblo Taos.jpg",
+"artist": "Obiwannm",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/492_0.webp",
 "thumb": "img/thumb/492_0.webp"
 },
 {
-"file": "Ansel Adams - National Archives 79-AA-Q01 restored.jpg",
-"artist": "Ansel Adams",
-"license": "Public domain",
-"license_url": "",
+"file": "Taos Pueblo Building.jpg",
+"artist": "Keyany",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/492_1.webp"
+},
+{
+"file": "Taos Pueblo Home.jpg",
+"artist": "Bradley  Weber",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/492_2.webp"
+},
+{
+"file": "Everyday life in Taos Pueblo.jpg",
+"artist": "ASITRAC",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/492_3.webp"
+},
+{
+"file": "Taos Pueblo (33890581268).jpg",
+"artist": "Bradley  Weber",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/492_4.webp"
+},
+{
+"file": "April 2017 The Dogs of Taos - Front of Bakery.jpg",
+"artist": "Emily Sabako",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/492_5.webp"
 }
 ]
 },
@@ -25223,6 +26483,41 @@
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/500_0.webp",
 "thumb": "img/thumb/500_0.webp"
+},
+{
+"file": "You are not allowed to follow me Into this town square And then run away.jpg",
+"artist": "F Delventhal",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/500_1.webp"
+},
+{
+"file": "Avenida Tacna 2020.jpg",
+"artist": "MINISTERIO DE DEFENSA DEL PERÚ",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/500_2.webp"
+},
+{
+"file": "Casona historica.jpg",
+"artist": "Hastengeims",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/500_3.webp"
+},
+{
+"file": "Disco Bar Vichama en Jirón Carabaya durante el recorrido de la Ruta Arcoiris de Lima en enero de 2026.jpg",
+"artist": "Qincha",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/500_4.webp"
+},
+{
+"file": "Balcones Centro histórico.jpg",
+"artist": "Pilar C",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/500_5.webp"
 }
 ]
 },
@@ -25360,6 +26655,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/505_2.webp"
+},
+{
+"file": "Portugal Early 1970s Alcobaca Church (50871546437).jpg",
+"artist": "Donald Judge",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/505_3.webp"
+},
+{
+"file": "Mosteiro de Alcobaça in azulejos.jpg",
+"artist": "Joseolgon",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/505_4.webp"
+},
+{
+"file": "Alcobaca, Portugal (52961256938).jpg",
+"artist": "thirdsphoto",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/505_5.webp"
 }
 ]
 },
@@ -25827,6 +27143,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/516_2.webp"
+},
+{
+"file": "Mali1974-064 hg.jpg",
+"artist": "H. Grobe",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/516_3.webp"
+},
+{
+"file": "TeliVillage4.JPG",
+"artist": "Kirua",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/516_4.webp"
+},
+{
+"file": "Mali1974-056 hg.jpg",
+"artist": "H. Grobe",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/516_5.webp"
 }
 ]
 },
@@ -26055,6 +27392,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/522_2.webp"
+},
+{
+"file": "TORRE DE LA IGLESIA - panoramio (1).jpg",
+"artist": "Manuel Velazquez",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/522_3.webp"
+},
+{
+"file": "Palacio de Torrente, Úbeda.jpg",
+"artist": "Vanbasten 23",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/522_4.webp"
+},
+{
+"file": "Ubeda churro shop.jpg",
+"artist": "ButteBag",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/522_5.webp"
 }
 ]
 },
@@ -27328,6 +28686,13 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/548_1.webp"
+},
+{
+"file": "Petroglifo de panguana.jpg",
+"artist": "Javier cosavalente galán",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/548_2.webp"
 }
 ]
 },
@@ -27366,12 +28731,47 @@
 ],
 "photos": [
 {
-"file": "Aerial image of the Palace of Caserta (view from the south).jpg",
-"artist": "Carsten Steger",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Caserta Courtyard.jpg",
+"artist": "NateBergin",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
 "src": "img/800/549_0.webp",
 "thumb": "img/thumb/549_0.webp"
+},
+{
+"file": "01 Palatine Chapel at Caserta.jpg",
+"artist": "NateBergin",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/549_1.webp"
+},
+{
+"file": "San Leucio - Entrata dai Giardini del Belvedere.jpg",
+"artist": "Lucamato",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/549_2.webp"
+},
+{
+"file": "Interno della Reggia di Caserta - Sala dei Paesaggi.jpeg",
+"artist": "Memi26",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/549_3.webp"
+},
+{
+"file": "Reggia di Caserta - Interno della Biblioteca Palatina.jpeg",
+"artist": "Memi26",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/549_4.webp"
+},
+{
+"file": "Reggia di Caserta - Camera da letto di Francesco II.jpeg",
+"artist": "Memi26",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/549_5.webp"
 }
 ]
 },
@@ -27589,6 +28989,27 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/554_2.webp"
+},
+{
+"file": "Cola de ballena gris - panoramio.jpg",
+"artist": "panza-rayada",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/554_3.webp"
+},
+{
+"file": "Whale barnacles and lice.jpg",
+"artist": "Joe McKenna",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/554_4.webp"
+},
+{
+"file": "Clam piles everywhere (6998638409).jpg",
+"artist": "Sam Beebe",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/554_5.webp"
 }
 ]
 },
@@ -28945,12 +30366,40 @@
 ],
 "photos": [
 {
-"file": "Heard Island (cropped).jpg",
-"artist": "Tristannew (original)\nDerivative: SHB2000 (cropped)",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Big Ben Heard Island.jpg",
+"artist": "laikolosse",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/577_0.webp",
 "thumb": "img/thumb/577_0.webp"
+},
+{
+"file": "Elephant Seal Pup on Heard Island.jpg",
+"artist": "laikolosse",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/577_1.webp"
+},
+{
+"file": "Elephant Seals on Heard Island.jpg",
+"artist": "laikolosse",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/577_2.webp"
+},
+{
+"file": "Heard Island - HIMI World Heritage area.jpg",
+"artist": "Tristannew",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/577_3.webp"
+},
+{
+"file": "Heard Island Banner.jpg",
+"artist": "Tristannew",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/577_4.webp"
 }
 ]
 },
@@ -29014,6 +30463,13 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/578_2.webp"
+},
+{
+"file": "Jetties in Denham, Western Australia, July 2020 01.jpg",
+"artist": "Calistemon",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/578_3.webp"
 }
 ]
 },
@@ -29157,6 +30613,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/582_2.webp"
+},
+{
+"file": "Vanharauma3.jpg",
+"artist": "Motopark",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/582_3.webp"
+},
+{
+"file": "Eteläpitkäkatu.jpg",
+"artist": "Mervi Salonen",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/582_4.webp"
+},
+{
+"file": "Vanharauma28.jpg",
+"artist": "Motopark",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/582_5.webp"
 }
 ]
 },
@@ -29538,6 +31015,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/588_2.webp"
+},
+{
+"file": "Cañas (Phragmites australis), Delta del Danubio, Rumanía, 2016-05-28, DD 18.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/588_3.webp"
+},
+{
+"file": "Cañas (Phragmites australis), Delta del Danubio, Rumanía, 2016-05-28, DD 17.jpg",
+"artist": "Diego Delso",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/588_4.webp"
+},
+{
+"file": "Danube Delta - Delta Dunarii - panoramio.jpg",
+"artist": "Ioan Cepaliga",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/588_5.webp"
 }
 ]
 },
@@ -29709,6 +31207,27 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/592_2.webp"
+},
+{
+"file": "Stuppas at Borobudur temple, Java, Indonesia (48965820467).jpg",
+"artist": "Romain Pontida",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/592_3.webp"
+},
+{
+"file": "Borobudur Indonesia 6.jpg",
+"artist": "Philip Nalangan",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/592_4.webp"
+},
+{
+"file": "Borobudur Indonesia 8.jpg",
+"artist": "Philip Nalangan",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/592_5.webp"
 }
 ]
 },
@@ -30376,6 +31895,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/602_2.webp"
+},
+{
+"file": "Buxoro tarixiy ko‘chasi va moviy guambaz.jpg",
+"artist": "AIDEPCUL",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/602_3.webp"
+},
+{
+"file": "Buxoro tarixiy markazidagi moviy gumbaz.jpg",
+"artist": "AIDEPCUL",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/602_4.webp"
+},
+{
+"file": "57 Abdullakhan madrasah 166.jpg",
+"artist": "BeshevI",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/602_5.webp"
 }
 ]
 },
@@ -31713,6 +33253,51 @@
 "是麥覺理海脊露出海面的頂部，位於板塊交會處",
 "地球上唯一有地函岩石正持續露出海平面之處",
 "枕狀玄武岩等噴出岩的露頭十分典型"
+],
+"photos": [
+{
+"file": "King penguin party.jpg",
+"artist": "Krudller",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/629_0.webp",
+"thumb": "img/thumb/629_0.webp"
+},
+{
+"file": "Feeding time KP.jpg",
+"artist": "Krudller",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/629_1.webp"
+},
+{
+"file": "Macquarie station, Macquarie Island.JPG",
+"artist": "Krudller",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/629_2.webp"
+},
+{
+"file": "King Penguins, Macquarie Island.jpg",
+"artist": "Krudller",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/629_3.webp"
+},
+{
+"file": "MacquarieIsland2.JPG",
+"artist": "M. Murphy",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/629_4.webp"
+},
+{
+"file": "Macquarie Island and Elephant Seals.JPG",
+"artist": "MaccaPenguin",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/629_5.webp"
+}
 ]
 },
 {
@@ -32471,6 +34056,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/642_2.webp"
+},
+{
+"file": "A Good Morning in Prambanan Temple.jpg",
+"artist": "Aditya Prabaswara",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/642_3.webp"
+},
+{
+"file": "Dwarapla in other perspective.jpg",
+"artist": "MrSastro",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/642_4.webp"
+},
+{
+"file": "Candi Prambanan - Kompleks Candi Prambanan 6.jpg",
+"artist": "Indonesiagood",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/642_5.webp"
 }
 ]
 },
@@ -32684,6 +34290,20 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/653_2.webp"
+},
+{
+"file": "Home at last.jpg",
+"artist": "Dianathegreat2018",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/653_3.webp"
+},
+{
+"file": "HOORAY.jpg",
+"artist": "Dianathegreat2018",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/653_4.webp"
 }
 ]
 },
@@ -32820,6 +34440,34 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/658_1.webp"
+},
+{
+"file": "Dunas en el Parque nacional Médanos de Coro.jpg",
+"artist": "Nehe009",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/658_2.webp"
+},
+{
+"file": "Efecto del viento sobre las arenas.jpg",
+"artist": "Nehe009",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/658_3.webp"
+},
+{
+"file": "Dunas en los medanos de coro.jpg",
+"artist": "Nehe009",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/658_4.webp"
+},
+{
+"file": "Medanos.JPG",
+"artist": "Gabrielaerc",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/658_5.webp"
 }
 ]
 },
@@ -32883,6 +34531,27 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/659_2.webp"
+},
+{
+"file": "Dowth - 403885635.jpg",
+"artist": "Rowan McLaughlin",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/659_3.webp"
+},
+{
+"file": "Dowth Passage Tomb.1.JPG",
+"artist": "Raemond Carolan",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/659_4.webp"
+},
+{
+"file": "Dowth Passage Tomb.2.JPG",
+"artist": "Raemond Carolan",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/659_5.webp"
 }
 ]
 },
@@ -33178,6 +34847,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/663_2.webp"
+},
+{
+"file": "Sirakami dake.JPG",
+"artist": "らんで",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/663_3.webp"
+},
+{
+"file": "Taanwasiro Situgen.jpg",
+"artist": "らんで",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/663_4.webp"
+},
+{
+"file": "白神山地 暗門滝.jpg",
+"artist": "C.K. Tse",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/663_5.webp"
 }
 ]
 },
@@ -33473,6 +35163,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/668_2.webp"
+},
+{
+"file": "2016 Angkor, Angkor Thom, Bajon (11).jpg",
+"artist": "Marcin Konsek",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/668_3.webp"
+},
+{
+"file": "2016 Angkor, Angkor Thom, Bajon (14).jpg",
+"artist": "Marcin Konsek",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/668_4.webp"
+},
+{
+"file": "Bayon Temple in Angkor (52157290152).jpg",
+"artist": "Radek Kucharski from Warsaw, Poland",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/668_5.webp"
 }
 ]
 },
@@ -33517,19 +35228,12 @@
 ],
 "photos": [
 {
-"file": "Puente medieval sobre el río Celeiro, Sarria, Camino de Santiago, Lugo, España, 2015-09-19, DD 07.jpg",
-"artist": "Diego Delso",
+"file": "Conjunto Tineo (24).jpg",
+"artist": "Xuliu Pombar",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/669_0.webp",
 "thumb": "img/thumb/669_0.webp"
-},
-{
-"file": "Capilla de las Nieves, Puertomarín, Camino de Santiago, Lugo, España, 2015-09-19, DD 18-20 HDR.jpg",
-"artist": "Diego Delso",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"src": "img/800/669_1.webp"
 }
 ]
 },
@@ -34260,6 +35964,23 @@
 "地層年代約三億七千萬年前，屬上泥盆紀",
 "含有該時期六大類化石魚類中的五類",
 "肉鰭魚類化石的數量最多、保存最完好"
+],
+"photos": [
+{
+"file": "Miguasha panorama 2.jpg",
+"artist": "Neumeier",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/686_0.webp",
+"thumb": "img/thumb/686_0.webp"
+},
+{
+"file": "- panoramio (5008).jpg",
+"artist": "steeve normandin",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/686_1.webp"
+}
 ]
 },
 {
@@ -36074,6 +37795,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/714_2.webp"
+},
+{
+"file": "Painted Cave, Baja, California.jpg",
+"artist": "Gary Todd",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/714_3.webp"
+},
+{
+"file": "Replica of La Cueva Pintada - Northern Cultures - National Museum of Antropology - Mexico 2024.jpg",
+"artist": "José Luiz",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/714_4.webp"
+},
+{
+"file": "Northern Mexico Cave Painting.jpg",
+"artist": "Gary Todd",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/714_5.webp"
 }
 ]
 },
@@ -37308,6 +39050,27 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/732_2.webp"
+},
+{
+"file": "St. Barbara Kutna Hora (15052945922).jpg",
+"artist": "Davis Staedtler from San Antonio, TX, USA",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/732_3.webp"
+},
+{
+"file": "Kutna Hora banner spedizione itvoy.jpg",
+"artist": "Davis Staedtler from San Antonio, TX, USA",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/732_4.webp"
+},
+{
+"file": "Kutna Hora banner2.jpg",
+"artist": "Davis Staedtler from San Antonio, TX, USA",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/732_5.webp"
 }
 ]
 },
@@ -37532,6 +39295,27 @@
 "license": "CC0",
 "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
 "src": "img/800/736_2.webp"
+},
+{
+"file": "Bulguksa 03.jpg",
+"artist": "Bernard Gagnon",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/736_3.webp"
+},
+{
+"file": "Geungnakjeon, Bulguksa 01.jpg",
+"artist": "Bernard Gagnon",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/736_4.webp"
+},
+{
+"file": "Beomyeongnu.jpg",
+"artist": "Bernard Gagnon",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/736_5.webp"
 }
 ]
 },
@@ -38506,6 +40290,41 @@
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/753_0.webp",
 "thumb": "img/thumb/753_0.webp"
+},
+{
+"file": "\"Ein Schmelztiegel der Kulturen\". 09.jpg",
+"artist": "Holger Uwe Schmitt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/753_1.webp"
+},
+{
+"file": "\"Ein Schmelztiegel der Kulturen\". 03.jpg",
+"artist": "Holger Uwe Schmitt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/753_2.webp"
+},
+{
+"file": "\"Ein Schmelztiegel der Kulturen\". 05.jpg",
+"artist": "Holger Uwe Schmitt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/753_3.webp"
+},
+{
+"file": "\"Ein Schmelztiegel der Kulturen\". 04.jpg",
+"artist": "Holger Uwe Schmitt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/753_4.webp"
+},
+{
+"file": "\"Ein Schmelztiegel der Kulturen\". 01.jpg",
+"artist": "Holger Uwe Schmitt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/753_5.webp"
 }
 ]
 },
@@ -38652,6 +40471,27 @@
 "license": "CC BY 2.5",
 "license_url": "https://creativecommons.org/licenses/by/2.5",
 "src": "img/800/755_2.webp"
+},
+{
+"file": "Centro Histórico de Porto por Rodrigo Tetsuo Argenton (04).jpg",
+"artist": "",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/755_3.webp"
+},
+{
+"file": "Porto (26103444420).jpg",
+"artist": "bebatut",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/755_4.webp"
+},
+{
+"file": "Centro Histórico do Porto a partir do rooftop do Museu da Misericórdia.jpg",
+"artist": "Acfmagalhaes",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/755_5.webp"
 }
 ]
 },
@@ -38929,6 +40769,34 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/761_1.webp"
+},
+{
+"file": "20130530-DSC 8786 (8927591603).jpg",
+"artist": "jbdodane",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/761_2.webp"
+},
+{
+"file": "20130530-DSC 8790 (8927647553).jpg",
+"artist": "jbdodane",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/761_3.webp"
+},
+{
+"file": "20130530-DSC 8784 (8928168952).jpg",
+"artist": "jbdodane",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/761_4.webp"
+},
+{
+"file": "20130530-DSC 8785 (8928183508).jpg",
+"artist": "jbdodane",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/761_5.webp"
 }
 ]
 },
@@ -39074,6 +40942,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/763_2.webp"
+},
+{
+"file": "Lednice-Valtice Complex (33357385560).jpg",
+"artist": "Norio NAKAYAMA from saitama, japan",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/763_3.webp"
+},
+{
+"file": "Katzelsdorfská myslivna.jpg",
+"artist": "Petr Gabriel Photo",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/763_4.webp"
+},
+{
+"file": "Hlohovec (Břeclav District) - Allahův rybník obr05.jpg",
+"artist": "RomanM82",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/763_5.webp"
 }
 ]
 },
@@ -39443,6 +41332,34 @@
 "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
 "src": "img/800/769_0.webp",
 "thumb": "img/thumb/769_0.webp"
+},
+{
+"file": "Скалы Убс-Нуурской котловины.jpg",
+"artist": "Viktor Novgorodov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/769_1.webp"
+},
+{
+"file": "Небо и скала.jpg",
+"artist": "Viktor Novgorodov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/769_2.webp"
+},
+{
+"file": "Baikal lake.jpg",
+"artist": "Sansar sergelen",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/769_3.webp"
+},
+{
+"file": "Печсчаные дюны озера Торе-Холь.jpg",
+"artist": "Viktor Novgorodov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/769_4.webp"
 }
 ]
 },
@@ -39658,6 +41575,41 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/773_0.webp",
 "thumb": "img/thumb/773_0.webp"
+},
+{
+"file": "Parque nacional de Ordesa.jpg",
+"artist": "Nata Mostova",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/773_1.webp"
+},
+{
+"file": "Valle de Pineta - Faja de Tormosa 01.jpg",
+"artist": "Basotxerri",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/773_2.webp"
+},
+{
+"file": "Ordesa Monte Perdido.jpg",
+"artist": "Nata Mostova",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/773_3.webp"
+},
+{
+"file": "COLA DE CABALLO EN OTOÑO - panoramio.jpg",
+"artist": "Manuel Velazquez",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/773_4.webp"
+},
+{
+"file": "Valle de Pineta - Cinca 01.jpg",
+"artist": "Basotxerri",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/773_5.webp"
 }
 ]
 },
@@ -40366,6 +42318,27 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/782_2.webp"
+},
+{
+"file": "Consulado del Mar 02.JPG",
+"artist": "Miguel Hermoso Cuesta",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/782_3.webp"
+},
+{
+"file": "Consulado del Mar 01.JPG",
+"artist": "Miguel Hermoso Cuesta",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/782_4.webp"
+},
+{
+"file": "1533 wurde das Gebäude der Seidenbörse in Valencia fertiggestellt. 06.jpg",
+"artist": "Holger Uwe Schmitt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/782_5.webp"
 }
 ]
 },
@@ -42703,6 +44676,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/818_2.webp"
+},
+{
+"file": "Kinderdijk (48467902081).jpg",
+"artist": "BriYYZ from Toronto, Canada",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/818_3.webp"
+},
+{
+"file": "Early Spring in Holland - 49633456826.jpg",
+"artist": "rboed*",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/818_4.webp"
+},
+{
+"file": "And we all wear wooden shoes (43014088142).jpg",
+"artist": "Rob Oo from NL",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/818_5.webp"
 }
 ]
 },
@@ -43229,6 +45223,37 @@
 "五世紀中葉被阿提拉摧毀，大部分仍埋於田地之下",
 "宗主教聖殿有精美的馬賽克地面",
 "對基督教在中歐的傳播具關鍵作用"
+],
+"photos": [
+{
+"file": "Aquileia - Basilica di Santa Maria Assunta in Cielo e Santi Ermagora e Fortunato - 2026-09-25 21-18-02 001.jpg",
+"artist": "Terragio67",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/825_0.webp",
+"thumb": "img/thumb/825_0.webp"
+},
+{
+"file": "Museo archeologico (Aquileia) 60.jpg",
+"artist": "Accurimbono",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/825_1.webp"
+},
+{
+"file": "Aquileia - Area archeologica di Aquileia - 2025-09-01 11-33-10 002.jpg",
+"artist": "GiorgioGaleotti",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/825_2.webp"
+},
+{
+"file": "Area archeologica - Aquileia, Udine, Italia - 14 Aprile 2022.jpg",
+"artist": "GiorgioGaleotti",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/825_3.webp"
+}
 ]
 },
 {
@@ -43346,6 +45371,41 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/827_0.webp",
 "thumb": "img/thumb/827_0.webp"
+},
+{
+"file": "Modena, Duomo di Modena 069.jpg",
+"artist": "Mattis",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/827_1.webp"
+},
+{
+"file": "Modena, Duomo di Modena 016.jpg",
+"artist": "Mattis",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/827_2.webp"
+},
+{
+"file": "Modena, Duomo di Modena 048.jpg",
+"artist": "Mattis",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/827_3.webp"
+},
+{
+"file": "Modena, Duomo di Modena 045.jpg",
+"artist": "Mattis",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/827_4.webp"
+},
+{
+"file": "Modena, Duomo di Modena 017.jpg",
+"artist": "Mattis",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/827_5.webp"
 }
 ]
 },
@@ -44072,6 +46132,37 @@
 "許多底層岩石對植物有毒，促使物種特殊演化",
 "是西半球保育特有植物最重要的地點之一",
 "脊椎與無脊椎動物的特有程度也很高"
+],
+"photos": [
+{
+"file": "El Yunque (575 m), Parque Nacional Alejandro de Humboldt, Baracoa - panoramio (1).jpg",
+"artist": "Martin Cígler",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/839_0.webp",
+"thumb": "img/thumb/839_0.webp"
+},
+{
+"file": "Parque Nacional Alejandro de Humboldt, Baracoa - panoramio (1).jpg",
+"artist": "Martin Cígler",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/839_1.webp"
+},
+{
+"file": "Parque Nacional Alejandro de Humboldt, Baracoa - panoramio.jpg",
+"artist": "Martin Cígler",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/839_2.webp"
+},
+{
+"file": "Parque Nacional Alejandro de Humboldt, Baracoa - panoramio (2).jpg",
+"artist": "Martin Cígler",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/839_3.webp"
+}
 ]
 },
 {
@@ -44106,26 +46197,47 @@
 ],
 "photos": [
 {
-"file": "Fragmento del Valle de Viñales. Cuba.JPG",
-"artist": "Ivan2010",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"file": "CUBA - panoramio (37).jpg",
+"artist": "Андрей Бобровский",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
 "src": "img/800/840_0.webp",
 "thumb": "img/thumb/840_0.webp"
 },
 {
-"file": "Vinales vue mogotes.jpg",
-"artist": "Velvet",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "CUBA - panoramio (38).jpg",
+"artist": "Андрей Бобровский",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
 "src": "img/800/840_1.webp"
 },
 {
-"file": "Vinales4.jpg",
-"artist": "Kirua",
-"license": "CC BY 2.5",
-"license_url": "https://creativecommons.org/licenses/by/2.5",
+"file": "CUBA - panoramio (42).jpg",
+"artist": "Андрей Бобровский",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
 "src": "img/800/840_2.webp"
+},
+{
+"file": "Cuba 2013-01-22 (8483299540).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/840_3.webp"
+},
+{
+"file": "Cuba 2013-01-22 (8482207173).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/840_4.webp"
+},
+{
+"file": "Cuba 2013-01-22 (8485723109).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/840_5.webp"
 }
 ]
 },
@@ -44582,6 +46694,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/849_2.webp"
+},
+{
+"file": "Troya antik kenti3.jpg",
+"artist": "Kızıldeniz",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/849_3.webp"
+},
+{
+"file": "Troya antik kenti1.jpg",
+"artist": "Kızıldeniz",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/849_4.webp"
+},
+{
+"file": "Poppies among the ruins of Troy (May 2026).jpg",
+"artist": "Ben1152000",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/849_5.webp"
 }
 ]
 },
@@ -45158,26 +47291,33 @@
 ],
 "photos": [
 {
-"file": "Olomouc, Horní náměstí (2017).jpg",
-"artist": "Pudelek",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "8.8.17 2 Olomouc 064 (36357637541).jpg",
+"artist": "Donald Judge from England",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/859_0.webp",
 "thumb": "img/thumb/859_0.webp"
 },
 {
-"file": "Olomouc 29.jpg",
-"artist": "Scotch Mist",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Holy Trinity Column - Assumption of Mary.jpg",
+"artist": "Michal Maňas",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
 "src": "img/800/859_1.webp"
 },
 {
-"file": "Holy Trinity Column - top.jpg",
-"artist": "Jan Kameníček",
-"license": "Public domain",
-"license_url": "",
+"file": "8.8.17 2 Olomouc 063 (35659963474).jpg",
+"artist": "Donald Judge from England",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/859_2.webp"
+},
+{
+"file": "Holy Trinity Column - Bartholomew.jpg",
+"artist": "Michal Maňas",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/859_3.webp"
 }
 ]
 },
@@ -45403,6 +47543,27 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/862_2.webp"
+},
+{
+"file": "Plaza de Zaragoza - Tlacotalpan - Veracruz - Mexico dic 2024.jpg",
+"artist": "Adam Jones",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/862_3.webp"
+},
+{
+"file": "KioskTlacotalpan01.JPG",
+"artist": "AlejandroLinaresGarcia",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/862_4.webp"
+},
+{
+"file": "HousesTlacotalpan02.JPG",
+"artist": "AlejandroLinaresGarcia",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/862_5.webp"
 }
 ]
 },
@@ -45465,6 +47626,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/863_2.webp"
+},
+{
+"file": "Iglesia de San Blas, Cuenca 01.jpg",
+"artist": "Bernard Gagnon",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/863_3.webp"
+},
+{
+"file": "Iglesia de San Blas, Cuenca 04.jpg",
+"artist": "Bernard Gagnon",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/863_4.webp"
+},
+{
+"file": "Cuenca Ecuador Catedral Vieja Jesus and apostles.jpg",
+"artist": "Cayambe",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/863_5.webp"
 }
 ]
 },
@@ -46044,6 +48226,37 @@
 "為國際貿易集市與毛紡業早期組織提供見證",
 "城市結構專為舉辦集市及相關活動而建，保存良好",
 "分為上城與下城，並有儲貨與保障交易的設施"
+],
+"photos": [
+{
+"file": "Photo de la Ville de Provins.jpg",
+"artist": "Dastel",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/873_0.webp",
+"thumb": "img/thumb/873_0.webp"
+},
+{
+"file": "Holy Cross church in Provins (2).jpg",
+"artist": "Tournasol7",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/873_1.webp"
+},
+{
+"file": "Provins - église Sainte-Croix - chevet 02.jpg",
+"artist": "Coyau",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/873_2.webp"
+},
+{
+"file": "Église Sainte-Croix, Provins - Rear View.jpg",
+"artist": "Poulpy",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/873_3.webp"
+}
 ]
 },
 {
@@ -46332,6 +48545,27 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/877_2.webp"
+},
+{
+"file": "Campbell I 1 17.jpg",
+"artist": "Department of Scientific and Industrial Research",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/877_3.webp"
+},
+{
+"file": "Campbell I 1 05.jpg",
+"artist": "Department of Scientific and Industrial Research",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/877_4.webp"
+},
+{
+"file": "Campbell I 1 08.jpg",
+"artist": "Department of Scientific and Industrial Research",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/877_5.webp"
 }
 ]
 },
@@ -47831,6 +50065,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/904_2.webp"
+},
+{
+"file": "BarsanaMM2012 (117).JPG",
+"artist": "Țetcu Mircea Rareș",
+"license": "CC BY-SA 3.0 ro",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+"src": "img/800/904_3.webp"
+},
+{
+"file": "BarsanaMM2012 (122).JPG",
+"artist": "Țetcu Mircea Rareș",
+"license": "CC BY-SA 3.0 ro",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+"src": "img/800/904_4.webp"
+},
+{
+"file": "BarsanaMM2012 (114).JPG",
+"artist": "Țetcu Mircea Rareș",
+"license": "CC BY-SA 3.0 ro",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+"src": "img/800/904_5.webp"
 }
 ]
 },
@@ -48354,6 +50609,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/912_2.webp"
+},
+{
+"file": "20250520 Dafowan (160237).jpg",
+"artist": "Yumeto",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/912_3.webp"
+},
+{
+"file": "Dazu Rock Carvings - Beishan 大足石刻-北山摩崖造像, Chongqing, 2023 (53669202062).jpg",
+"artist": "JL Cogburn",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/912_4.webp"
+},
+{
+"file": "Dazu Rock Carvings - Beishan 大足石刻-北山摩崖造像, Chongqing, 2023 (53669206332).jpg",
+"artist": "JL Cogburn",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/912_5.webp"
 }
 ]
 },
@@ -50719,6 +52995,27 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/954_2.webp"
+},
+{
+"file": "جبل موسى في الصباح.jpg",
+"artist": "Adergham2017",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/954_3.webp"
+},
+{
+"file": "جبل موسى ليلا.jpg",
+"artist": "Adergham2017",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/954_4.webp"
+},
+{
+"file": "Monastero di Santa Caterina, Saint Katherine Monastery - panoramio.jpg",
+"artist": "ErMejo",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/954_5.webp"
 }
 ]
 },
@@ -50966,19 +53263,47 @@
 ],
 "photos": [
 {
-"file": "Valparaiso seen from top.jpg",
-"artist": "This photo was taken by Roman Bonnefoy (  Romanceor [parlons-en]). Feel free to use my pictures, but please credit",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Sector Bancario de Calle Prat Reloj Turri.JPG",
+"artist": "Alvaro Vidal",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/959_0.webp",
 "thumb": "img/thumb/959_0.webp"
 },
 {
-"file": "Templeman y Almirante Montt, Valparaíso.jpg",
-"artist": "Till Niermann",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
+"file": "Sector Bancario de Calle Prat Edificio El Mercurio.JPG",
+"artist": "Alvaro Vidal",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/959_1.webp"
+},
+{
+"file": "Sector Bancario de Calle Prat El Mercurio.JPG",
+"artist": "Alvaro Vidal",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/959_2.webp"
+},
+{
+"file": "Zona bancaria, Valparaíso.JPG",
+"artist": "Nereidas",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/959_3.webp"
+},
+{
+"file": "Zona bancaria, Valparaíso - visión calle.JPG",
+"artist": "Nereidas",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/959_4.webp"
+},
+{
+"file": "Valparaíso 9401.jpg",
+"artist": "Draceane",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/959_5.webp"
 }
 ]
 },
@@ -52073,6 +54398,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/977_2.webp"
+},
+{
+"file": "Gochang Dolmens IMG 20160930 115435.jpg",
+"artist": "G41rn8",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/977_3.webp"
+},
+{
+"file": "Gochang Dolmens IMG 20160930 114529.jpg",
+"artist": "G41rn8",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/977_4.webp"
+},
+{
+"file": "Example of a northern-style dolmen at Ganghwa Island.jpg",
+"artist": "Taewangkorea",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/977_5.webp"
 }
 ]
 },
@@ -52611,6 +54957,27 @@
 "license": "CC BY-SA 3.0 igo",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
 "src": "img/800/985_2.webp"
+},
+{
+"file": "Royal Natal Drakensberg 2015.JPG",
+"artist": "Bjørn Christian Tørrissen",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/985_3.webp"
+},
+{
+"file": "Mountains at Royal Natal National Park.jpg",
+"artist": "TheStorm",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/985_4.webp"
+},
+{
+"file": "Bergville Drakensbergen Waterfall 05.jpg",
+"artist": "Ad Meskens\nYou are free to use this picture for any purpose as long as you credit its author, Ad Meskens.\nExample:  © Ad",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/985_5.webp"
 }
 ]
 },
@@ -53152,6 +55519,27 @@
 "license": "FAL",
 "license_url": "http://artlibre.org/licence/lal/en",
 "src": "img/800/994_2.webp"
+},
+{
+"file": "Curonian Spit - View from Muller Height.jpg",
+"artist": "Alexander Grebenkov",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/994_3.webp"
+},
+{
+"file": "Curonian Spit - View from Muller Height 2.jpg",
+"artist": "Alexander Grebenkov",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/994_4.webp"
+},
+{
+"file": "Curonian Spit - View from Muller Height 3.jpg",
+"artist": "Alexander Grebenkov",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/994_5.webp"
 }
 ]
 },
@@ -53290,6 +55678,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/996_2.webp"
+},
+{
+"file": "20191023.Brügge.-029.jpg",
+"artist": "Bybbisch94, Christian Gebhardt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/996_3.webp"
+},
+{
+"file": "20191023.Brügge.-013.jpg",
+"artist": "Bybbisch94, Christian Gebhardt",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/996_4.webp"
+},
+{
+"file": "Koolkerke Rode Poort R01.jpg",
+"artist": "Marc Ryckaert (MJJR)",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/996_5.webp"
 }
 ]
 },
@@ -53502,6 +55911,41 @@
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/1000_0.webp",
 "thumb": "img/thumb/1000_0.webp"
+},
+{
+"file": "NORONHA-PE 03.JPG",
+"artist": "Rogerio Ponton",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1000_1.webp"
+},
+{
+"file": "NORONHA-PE 01.JPG",
+"artist": "Rogerio Ponton",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1000_2.webp"
+},
+{
+"file": "NORONHA-PE 05.JPG",
+"artist": "Rogerio Ponton",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1000_3.webp"
+},
+{
+"file": "NORONHA-PE 04.JPG",
+"artist": "Rogerio Ponton",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1000_4.webp"
+},
+{
+"file": "Natal e Fernando de Noronha em 23-04-2015 357.JPG",
+"artist": "Ivone Chart de Lima",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1000_5.webp"
 }
 ]
 },
@@ -53647,6 +56091,27 @@
 "license": "CC BY-SA 3.0 igo",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
 "src": "img/800/1002_2.webp"
+},
+{
+"file": "Yixian Xidi 2016.09.10 12-27-34.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1002_3.webp"
+},
+{
+"file": "Yixian Xidi 2016.09.10 12-28-44.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1002_4.webp"
+},
+{
+"file": "Yixian Xidi 2016.09.10 12-29-28.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1002_5.webp"
 }
 ]
 },
@@ -54089,6 +56554,20 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1008_0.webp",
 "thumb": "img/thumb/1008_0.webp"
+},
+{
+"file": "Cuba Cafetal Isabelica molino de pilar P1080160.JPG",
+"artist": "Sigi Knoll (Lagaly_de)",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1008_1.webp"
+},
+{
+"file": "Desde el Santuario - panoramio.jpg",
+"artist": "DnTrotaMundos ☮",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1008_2.webp"
 }
 ]
 },
@@ -54213,6 +56692,27 @@
 "license": "CC BY-SA 2.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/1010_2.webp"
+},
+{
+"file": "Beach of the Arabian Sea.jpg",
+"artist": "Neux-Neux",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1010_3.webp"
+},
+{
+"file": "Dunst Oman scan0329 - Samhuram.jpg",
+"artist": "Bernhard Dunst",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1010_4.webp"
+},
+{
+"file": "Al Balid Archeological Park 4.jpg",
+"artist": "https://www.flickr.com/photos/130649623@N05/",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1010_5.webp"
 }
 ]
 },
@@ -54502,6 +57002,27 @@
 "license": "CC BY-SA 2.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/1014_2.webp"
+},
+{
+"file": "Tree Roots in limestone formations (15657760691).jpg",
+"artist": "Bernard DUPONT from FRANCE",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1014_3.webp"
+},
+{
+"file": "Paired green fruits in tree (Id ?) (15474099807).jpg",
+"artist": "Bernard DUPONT from FRANCE",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1014_4.webp"
+},
+{
+"file": "Wild Ginger (Zingiberaceae) (15446740549).jpg",
+"artist": "Bernard DUPONT from FRANCE",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1014_5.webp"
 }
 ]
 },
@@ -54563,6 +57084,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1016_2.webp"
+},
+{
+"file": "Casa Tristán del Pozo en Arequipa.jpg",
+"artist": "Sengo707",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1016_3.webp"
+},
+{
+"file": "Arequipa, Casona de Tristán de Pozo, 2023 (01).jpg",
+"artist": "Draceane",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1016_4.webp"
+},
+{
+"file": "Arequipa, Casona de Tristán de Pozo, 2023 (04).jpg",
+"artist": "Draceane",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1016_5.webp"
 }
 ]
 },
@@ -54624,6 +57166,27 @@
 "license": "CC BY-SA 2.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/1017_2.webp"
+},
+{
+"file": "Voltzberg Mountain top.jpg",
+"artist": "Jan Willem Broekema from Leiden, The Netherlands, Hans Erren (cropped version)",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1017_3.webp"
+},
+{
+"file": "Birds at Fungu Island air strip (2720074036).jpg",
+"artist": "Jan Willem Broekema from Leiden, The Netherlands",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1017_4.webp"
+},
+{
+"file": "Canoe (korjaal) on Fungu Island jungle (2719255807).jpg",
+"artist": "Jan Willem Broekema from Leiden, The Netherlands",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1017_5.webp"
 }
 ]
 },
@@ -54848,6 +57411,27 @@
 "license": "CC0",
 "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
 "src": "img/800/1022_2.webp"
+},
+{
+"file": "Kasubi Tombs 20250815 2.jpg",
+"artist": "Z thomas",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1022_3.webp"
+},
+{
+"file": "Royal Kasubi tombs in Kampala6.jpg",
+"artist": "Samson Ssemakadde",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1022_4.webp"
+},
+{
+"file": "Kasubi Tombs 20250815 3.jpg",
+"artist": "Z thomas",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1022_5.webp"
 }
 ]
 },
@@ -54910,6 +57494,27 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1023_2.webp"
+},
+{
+"file": "Белый медведь вандалит.jpg",
+"artist": "Анастасия Игоревна Петухова",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1023_3.webp"
+},
+{
+"file": "Белый медведь вандалит в Бухте Сомнительная.jpg",
+"artist": "Анастасия Игоревна Петухова",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1023_4.webp"
+},
+{
+"file": "Первый закат после долгого полярного дня.jpg",
+"artist": "Анастасия Игоревна Петухова",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1023_5.webp"
 }
 ]
 },
@@ -56613,6 +59218,44 @@
 "棱堡與城牆是文藝復興軍事設計的早期範例",
 "聖母升天教堂採用曼努埃爾風格的晚期哥德式",
 "是葡萄牙前往印度航線上的早期據點之一"
+],
+"photos": [
+{
+"file": "A view of small fishing boats sitting in from of the portuguese city in El jadida.jpg",
+"artist": "Omalihy",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1058_0.webp",
+"thumb": "img/thumb/1058_0.webp"
+},
+{
+"file": "Bensimon Synagogue, El Jadida.jpg",
+"artist": "Reda benkhadra",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1058_1.webp"
+},
+{
+"file": "Cité Portugaise el jadida.JPG",
+"artist": "Abdelali Benattar",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1058_2.webp"
+},
+{
+"file": "El jadida - panoramio (2).jpg",
+"artist": "angelius1979",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1058_3.webp"
+},
+{
+"file": "El Jadida Morocco - panoramio.jpg",
+"artist": "angelius1979",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1058_4.webp"
+}
 ]
 },
 {
@@ -56646,6 +59289,51 @@
 "是小紅鶴最重要的覓食地，也有大白鵜鶘繁殖",
 "是大白鵜鶘重要的築巢與繁殖場",
 "棲息有13種全球受威脅的鳥類"
+],
+"photos": [
+{
+"file": "Great white pelicans (Pelecanus onocrotalus).jpg",
+"artist": "Charles J. Sharp",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1060_0.webp",
+"thumb": "img/thumb/1060_0.webp"
+},
+{
+"file": "Lake Bogoria 2011.jpg",
+"artist": "Arthur Buliva",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1060_1.webp"
+},
+{
+"file": "Elementaita Lake Kenya.jpg",
+"artist": "Pufacz",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1060_2.webp"
+},
+{
+"file": "A day with Rhino, Rift Valley.jpg",
+"artist": "Mara008",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1060_3.webp"
+},
+{
+"file": "2013-01-23 07-02-16 Kenya Central - Lari 5h.JPG",
+"artist": "Hansueli Krapf  This   file was uploaded  with Commonist.",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1060_4.webp"
+},
+{
+"file": "Fishers of the Rift Valley.jpg",
+"artist": "Mara008",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1060_5.webp"
+}
 ]
 },
 {
@@ -57337,19 +60025,47 @@
 ],
 "photos": [
 {
-"file": "Street in old town in Bratislava.JPG",
-"artist": "Pudelek",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"file": "Třebíč-Zámostí, Havlíčkovo nábřeží, přes řeku Jihlavu.jpg",
+"artist": "ŠJů",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
 "src": "img/800/1078_0.webp",
 "thumb": "img/thumb/1078_0.webp"
 },
 {
-"file": "Boskovice (Boskowitz) - židovské město (01).JPG",
-"artist": "Pudelek",
+"file": "Třebíč-Zámostí, L. Pokorného (01).jpg",
+"artist": "ŠJů",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1078_1.webp"
+},
+{
+"file": "Třebíč-Zámostí, L. Pokorného 25, Stinná.jpg",
+"artist": "ŠJů",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1078_2.webp"
+},
+{
+"file": "Třebíč-Zámostí, L. Pokorného 38.jpg",
+"artist": "ŠJů",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1078_3.webp"
+},
+{
+"file": "Třebíč-Zámostí, L. Pokorného 42, průchod k nábřeží.jpg",
+"artist": "ŠJů",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1078_4.webp"
+},
+{
+"file": "Overview of christmas lights of footbridge of plk. Jindřich Svoboda in 2023 at Havlíčkovo nábřěží street in Třebíč, Třebíč District.jpg",
+"artist": "Jiří Sedláček",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"src": "img/800/1078_1.webp"
+"src": "img/800/1078_5.webp"
 }
 ]
 },
@@ -58495,6 +61211,23 @@
 "白鶴與卷羽鵜鶘等全球受威脅鳥類在此棲息",
 "草原區是極危物種高鼻羚羊的庇護所",
 "湖泊位於分水嶺上，水系分別流向北冰洋與鹹海—額爾濟斯河盆地"
+],
+"photos": [
+{
+"file": "Sunset in Korgalzhyn Nature Reserve.jpg",
+"artist": "Dildakhmet",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1102_0.webp",
+"thumb": "img/thumb/1102_0.webp"
+},
+{
+"file": "New Born Saiga in Korgalzhyn Reserve.jpg",
+"artist": "Yakov Fedorov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1102_1.webp"
+}
 ]
 },
 {
@@ -60806,6 +63539,37 @@
 "約有一千八百幅岩刻，並有冶鐵證據",
 "新石器與鐵器時代遺址反映班圖人沿奧果韋河谷的遷徙",
 "同時符合自然與文化標準的複合遺產"
+],
+"photos": [
+{
+"file": "Elephants in Lopé National Park.JPG",
+"artist": "Ngangorica",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1147_0.webp",
+"thumb": "img/thumb/1147_0.webp"
+},
+{
+"file": "AfriSAR studies Gabon’s rainforest (50911439873).jpg",
+"artist": "National Snow and Ice Data Center from Boulder, United States",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1147_1.webp"
+},
+{
+"file": "La-lopé-gabon.jpg",
+"artist": "Vincent.vaquin",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1147_2.webp"
+},
+{
+"file": "Gabon banner Lopé National Park.jpg",
+"artist": "Lopé_National_Park_river_panorama.jpg: FX\nderivative work: Jjtkk",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1147_3.webp"
+}
 ]
 },
 {
@@ -62065,6 +64829,44 @@
 "超過一百五十處岩棚，涵蓋範圍達兩千三百三十六平方公里",
 "畫作序列記錄由狩獵採集轉向農牧的社會變遷",
 "部分岩棚至今仍與附近居民的儀式有關"
+],
+"photos": [
+{
+"file": "Kondoa Irangi Rock Paintings (51507918388).jpg",
+"artist": "Nina R from Africa",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1183_0.webp",
+"thumb": "img/thumb/1183_0.webp"
+},
+{
+"file": "Kondoa Irangi Rock Paintings (51507806126).jpg",
+"artist": "Nina R from Africa",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1183_1.webp"
+},
+{
+"file": "Kondoa, Tanzania (51495130497).jpg",
+"artist": "Nina R from Africa",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1183_2.webp"
+},
+{
+"file": "Kondoa Irangi Rock Paintings (51507756351).jpg",
+"artist": "Nina R from Africa",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1183_3.webp"
+},
+{
+"file": "Kondoa, Tanzania (51496658839).jpg",
+"artist": "Nina R from Africa",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1183_4.webp"
+}
 ]
 },
 {
@@ -62411,6 +65213,44 @@
 "據說是伊斯蘭世界第四聖城",
 "擁有八十二座清真寺與一百零二座聖祠",
 "室內設計獨特的城鎮住宅是最引人注目的文化遺產"
+],
+"photos": [
+{
+"file": "Grand mosque Jami Mosque or Juma Mesjid, in Harar Built in 12th century.jpg",
+"artist": "Elias Tesfaye (Shagiz Adonay)",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1189_0.webp",
+"thumb": "img/thumb/1189_0.webp"
+},
+{
+"file": "DSC 0020 Enay Abida Hund craft College.jpg",
+"artist": "Naif Mohamed",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1189_1.webp"
+},
+{
+"file": "Harar, albero monumentale 02.jpg",
+"artist": "Sailko",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1189_2.webp"
+},
+{
+"file": "Harar, casa tradizionale (anisa) 00.jpg",
+"artist": "Sailko",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1189_3.webp"
+},
+{
+"file": "Harar, casa tradizionale (anisa) 02.jpg",
+"artist": "Sailko",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1189_4.webp"
+}
 ]
 },
 {
@@ -63306,6 +66146,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1208_1.webp"
+},
+{
+"file": "010213-Kerman-IMG 0371-2.jpg",
+"artist": "Safa.daneshvar",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1208_2.webp"
+},
+{
+"file": "010213-Kerman-IMG 0354-2.jpg",
+"artist": "Safa.daneshvar",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1208_3.webp"
+},
+{
+"file": "Wiki Loves Monuments 2018 Iran - Kerman - Anar - Arg-e Bam - Picture 06.jpg",
+"artist": "Arteen Arakel Lalabekyan",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1208_4.webp"
+},
+{
+"file": "Wiki Loves Monuments 2018 Iran - Kerman - Anar - Arg-e Bam - Picture 11.jpg",
+"artist": "Arteen Arakel Lalabekyan",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1208_5.webp"
 }
 ]
 },
@@ -63661,6 +66529,13 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1215_1.webp"
+},
+{
+"file": "Delabole Slate Quarry.jpg",
+"artist": "Astronautilus",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"src": "img/800/1215_2.webp"
 }
 ]
 },
@@ -64143,6 +67018,23 @@
 "洛比地區十座堡壘中保存最完好者",
 "見證了橫跨撒哈拉的黃金貿易",
 "遺址大部分尚未發掘，仍有許多謎團"
+],
+"photos": [
+{
+"file": "2016.05-441-131ap wall Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1106h.jpg",
+"artist": "Rik Schuiling / TropCrop-TCS",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1225_0.webp",
+"thumb": "img/thumb/1225_0.webp"
+},
+{
+"file": "2016.05-441-134ap archeology,excavation Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1119h.jpg",
+"artist": "Rik Schuiling / TropCrop-TCS",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1225_1.webp"
+}
 ]
 },
 {
@@ -64592,6 +67484,41 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/1236_0.webp",
 "thumb": "img/thumb/1236_0.webp"
+},
+{
+"file": "Nicaragua 2017-03-13 (33663091692).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1236_1.webp"
+},
+{
+"file": "Nicaragua 2017-03-13 (33663093602).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1236_2.webp"
+},
+{
+"file": "Nicaragua 2017-03-13 (33018109144).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1236_3.webp"
+},
+{
+"file": "Nicaragua 2017-03-13 (33663092512).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1236_4.webp"
+},
+{
+"file": "Nicaragua 2017-03-13 (33799636676).jpg",
+"artist": "Guillaume Baviere from Uppsala, Sweden",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1236_5.webp"
 }
 ]
 },
@@ -66614,6 +69541,44 @@
 "包括聖方濟各教堂與修道院、慈悲堂、省政府宮",
 "周圍的十八、十九世紀房屋構成完整的都市景觀",
 "方濟各會建築群是巴西東北部該修會建築的典型"
+],
+"photos": [
+{
+"file": "Cruzeiro da Praça São Francisco São Cristóvão 2022-0993.jpg",
+"artist": "Paul R. Burley",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1272_0.webp",
+"thumb": "img/thumb/1272_0.webp"
+},
+{
+"file": "Cruzeiro da Praça São Francisco São Cristóvão 2022-0973.jpg",
+"artist": "Paul R. Burley",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1272_1.webp"
+},
+{
+"file": "Cruzeiro da Praça São Francisco São Cristóvão 2022-0989.jpg",
+"artist": "Paul R. Burley",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1272_2.webp"
+},
+{
+"file": "Cruzeiro da Praça São Francisco São Cristóvão 2022-0983.jpg",
+"artist": "Paul R. Burley",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1272_3.webp"
+},
+{
+"file": "Cruzeiro da Praça São Francisco São Cristóvão 2022-0985.jpg",
+"artist": "Paul R. Burley",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1272_4.webp"
+}
 ]
 },
 {
@@ -66895,6 +69860,51 @@
 "遺產由五處資產組成，包含神聖的金雞山",
 "將淨土思想轉化為實際的空間與庭園設計",
 "平泉曾是與京都比肩的北方政治中心"
+],
+"photos": [
+{
+"file": "Hiraizumi's surroundings, Iwate Prefecture; August 2018 (03).jpg",
+"artist": "_steffen",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1277_0.webp",
+"thumb": "img/thumb/1277_0.webp"
+},
+{
+"file": "230728 Chusonji Hiraizumi Iwate pref Japan15s3.jpg",
+"artist": "663highland",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1277_1.webp"
+},
+{
+"file": "230728 Chusonji Hiraizumi Iwate pref Japan07s3.jpg",
+"artist": "663highland",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1277_2.webp"
+},
+{
+"file": "230728 Chusonji Hiraizumi Iwate pref Japan16s3.jpg",
+"artist": "663highland",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1277_3.webp"
+},
+{
+"file": "230728 Chusonji Hiraizumi Iwate pref Japan10s3.jpg",
+"artist": "663highland",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1277_4.webp"
+},
+{
+"file": "230728 Chusonji Hiraizumi Iwate pref Japan22s3.jpg",
+"artist": "663highland",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1277_5.webp"
+}
 ]
 },
 {
@@ -66928,6 +69938,51 @@
 "包含一座天文與氣象觀測臺",
 "見證東亞由佛教向新儒學轉變的思想歷程",
 "其中有培養國家官員的教育機構"
+],
+"photos": [
+{
+"file": "1461 - Nordkorea 2015 - Käsong - Koryo Museum (22970455332).jpg",
+"artist": "Uwe Brodrecht",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1278_0.webp",
+"thumb": "img/thumb/1278_0.webp"
+},
+{
+"file": "1635 - Nordkorea 2015 - Käsong - Grabmäler König Kongmih (22563032057).jpg",
+"artist": "Uwe Brodrecht",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1278_1.webp"
+},
+{
+"file": "1473 - Nordkorea 2015 - Käsong - Koryo Museum (22970301872).jpg",
+"artist": "Uwe Brodrecht",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1278_2.webp"
+},
+{
+"file": "1470 - Nordkorea 2015 - Käsong - Koryo Museum (22795737640).jpg",
+"artist": "Uwe Brodrecht",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1278_3.webp"
+},
+{
+"file": "1469 - Nordkorea 2015 - Käsong - Koryo Museum (22565415807).jpg",
+"artist": "Uwe Brodrecht",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1278_4.webp"
+},
+{
+"file": "1472 - Nordkorea 2015 - Käsong - Koryo Museum (22565370357).jpg",
+"artist": "Uwe Brodrecht",
+"license": "CC BY-SA 2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+"src": "img/800/1278_5.webp"
+}
 ]
 },
 {
@@ -67674,6 +70729,44 @@
 "是十六世紀葡萄牙軍事防禦工事的傑出範例",
 "遺產範圍包含護城壕與周邊環境",
 "見證印度洋沿岸多元文化的交會"
+],
+"photos": [
+{
+"file": "FJesus004.jpg",
+"artist": "O.Mustafin",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1295_0.webp",
+"thumb": "img/thumb/1295_0.webp"
+},
+{
+"file": "FJesus002.jpg",
+"artist": "O.Mustafin",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1295_1.webp"
+},
+{
+"file": "Fort Jesus, 2025 (12).jpg",
+"artist": "Bahnfrend",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1295_2.webp"
+},
+{
+"file": "FJesus018.jpg",
+"artist": "O.Mustafin",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1295_3.webp"
+},
+{
+"file": "Fort Jesus, 2025 (03).jpg",
+"artist": "Bahnfrend",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1295_4.webp"
+}
 ]
 },
 {
@@ -69486,12 +72579,40 @@
 ],
 "photos": [
 {
-"file": "Waga 01.jpg",
-"artist": "Bernard Gagnon",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"file": "Konso compound.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1333_0.webp",
 "thumb": "img/thumb/1333_0.webp"
+},
+{
+"file": "Traditional Konso village surrounded by vegetation.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1333_1.webp"
+},
+{
+"file": "Traditional settlement in the Konso Cultural Landscape.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1333_2.webp"
+},
+{
+"file": "Traditional Konso homestead.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1333_3.webp"
+},
+{
+"file": "Landscape of agricultural terraces near Konso.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1333_4.webp"
 }
 ]
 },
@@ -70699,6 +73820,23 @@
 "宗教儀式、傳統醫藥與舞蹈延續山地精神連結",
 "是生物多樣性熱點，特有物種眾多",
 "兼具文化與自然價值的複合遺產"
+],
+"photos": [
+{
+"file": "2025 Hurricane Melissa-20251104a RGB-raw-179922 1104251626254 018 RGB1.jpg",
+"artist": "NOAA / NODD",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/1356_0.webp",
+"thumb": "img/thumb/1356_0.webp"
+},
+{
+"file": "2025 Hurricane Melissa-20251104a RGB-raw-179923 1104251626265 018 RGB1.jpg",
+"artist": "NOAA / NODD",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/1356_1.webp"
+}
 ]
 },
 {
@@ -71818,6 +74956,20 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1375_1.webp"
+},
+{
+"file": "Old Fairground - Jagadish Kanan - Santiniketan 2014-06-29 5405.JPG",
+"artist": "Biswarup Ganguly",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1375_2.webp"
+},
+{
+"file": "Old Fairground - Jagadish Kanan - Santiniketan 2014-06-29 5407.JPG",
+"artist": "Biswarup Ganguly",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1375_3.webp"
 }
 ]
 },
@@ -72086,12 +75238,47 @@
 ],
 "photos": [
 {
-"file": "Loxodontacyclotis.jpg",
-"artist": "Thomas Breuer",
-"license": "CC BY 2.5",
-"license_url": "https://creativecommons.org/licenses/by/2.5",
+"file": "African elephant, Mbeli-Bai, Republic of Congo (18320426684).jpg",
+"artist": "U.S. Fish and Wildlife Service Headquarters",
+"license": "Public domain",
+"license_url": "",
 "src": "img/800/1380_0.webp",
 "thumb": "img/thumb/1380_0.webp"
+},
+{
+"file": "Primary rainforest in Sangha Trinational.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1380_1.webp"
+},
+{
+"file": "Flooded channel in the Black Forest, Republic of the Congo.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1380_2.webp"
+},
+{
+"file": "Flooded rainforest channel in the Black Forest, Republic of the Congo.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1380_3.webp"
+},
+{
+"file": "Flooded vegetation in the Black Forest, Republic of the Congo.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1380_4.webp"
+},
+{
+"file": "Blackwater channel in the Black Forest, Republic of the Congo.jpg Descripció.jpg",
+"artist": "JosepMGracia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1380_5.webp"
 }
 ]
 },
@@ -72279,6 +75466,27 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1387_0.webp",
 "thumb": "img/thumb/1387_0.webp"
+},
+{
+"file": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu) - Universidade de Coimbra - Alta e Sofia - 2026-10-10 14-04-18 045.jpg",
+"artist": "Alchimista",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1387_1.webp"
+},
+{
+"file": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu) - Universidade de Coimbra - Alta e Sofia - 2026-10-10 14-04-18 048.jpg",
+"artist": "Alchimista",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1387_2.webp"
+},
+{
+"file": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu) - Universidade de Coimbra - Alta e Sofia - 2026-10-10 14-04-18 035.jpg",
+"artist": "Alchimista",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1387_3.webp"
 }
 ]
 },
@@ -74226,6 +77434,41 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
 "src": "img/800/1425_0.webp",
 "thumb": "img/thumb/1425_0.webp"
+},
+{
+"file": "Pernand-Vergelesses (21) Le bourg vu depuis le climat En Charlemagne (Grand Cru Corton).jpg",
+"artist": "GO69",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1425_1.webp"
+},
+{
+"file": "Ladoix-Serrigny (21) Le vignoble vu depuis le climat Les Renardes en Aloxe-Corton.jpg",
+"artist": "GO69",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1425_2.webp"
+},
+{
+"file": "Pernand-Vergelesses (21) La Grande Corvée de Bully.jpg",
+"artist": "GO69",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1425_3.webp"
+},
+{
+"file": "Pernand-Vergelesses (21) Panorama depuis l'oratoire Notre-Dame de Bonne Espérance - 01.jpg",
+"artist": "GO69",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1425_4.webp"
+},
+{
+"file": "Savigny lès Beaune-Colline de Corton-20170601.jpg",
+"artist": "Daniel VILLAFRUELA.",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1425_5.webp"
 }
 ]
 },
@@ -74691,6 +77934,37 @@
 "包含利馬涅斷層與多姆山火山排列",
 "展示大陸地殼破裂與岩漿上升",
 "大陸裂解是板塊構造五大階段之一"
+],
+"photos": [
+{
+"file": "Parapente - 151.jpg",
+"artist": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the lice",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1434_0.webp",
+"thumb": "img/thumb/1434_0.webp"
+},
+{
+"file": "Parapente - 166.jpg",
+"artist": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the lice",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1434_1.webp"
+},
+{
+"file": "Parapente - 155.jpg",
+"artist": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the lice",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1434_2.webp"
+},
+{
+"file": "Parapente - 153.jpg",
+"artist": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the lice",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1434_3.webp"
+}
 ]
 },
 {
@@ -75202,6 +78476,34 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/1443_1.webp"
+},
+{
+"file": "Grand canal branch flooded.jpg",
+"artist": "Rolfmueller",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1443_2.webp"
+},
+{
+"file": "A boat on Grand Canal of China.JPG",
+"artist": "No machine-readable author provided. IcaN assumed (based on copyright claims).",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/1443_3.webp"
+},
+{
+"file": "A sight-seeing boat.JPG",
+"artist": "No machine-readable author provided. IcaN assumed (based on copyright claims).",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/1443_4.webp"
+},
+{
+"file": "Near Grand Canal of China.JPG",
+"artist": "No machine-readable author provided. IcaN assumed (based on copyright claims).",
+"license": "Public domain",
+"license_url": "",
+"src": "img/800/1443_5.webp"
 }
 ]
 },
@@ -75250,6 +78552,20 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1444_0.webp",
 "thumb": "img/thumb/1444_0.webp"
+},
+{
+"file": "Pyu Ancient City In Myanmar UNESCO World Heritage 003.jpg",
+"artist": "Tetsuya Kitahata",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1444_1.webp"
+},
+{
+"file": "Graveyard at Hanlin, Pyu ancient city (2).jpg",
+"artist": "Ninjastrikers",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1444_2.webp"
 }
 ]
 },
@@ -75712,6 +79028,34 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
 "src": "img/800/1453_0.webp",
 "thumb": "img/thumb/1453_0.webp"
+},
+{
+"file": "Diquis Stone Spheres in situ Finca 6 CR 12 2020.jpg",
+"artist": "Diego Padilla Durán y Mariordo (Mario Roberto Durán Ortiz)",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1453_1.webp"
+},
+{
+"file": "Stone Spheres of the Diquís - 55434735526.jpg",
+"artist": "xiquinhosilva",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1453_2.webp"
+},
+{
+"file": "Stone Spheres of the Diquís - 55434737121.jpg",
+"artist": "xiquinhosilva",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1453_3.webp"
+},
+{
+"file": "Stone Spheres of the Diquís - 55434736596.jpg",
+"artist": "xiquinhosilva",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1453_4.webp"
 }
 ]
 },
@@ -77365,6 +80709,13 @@
 "license": "OGL v1.0",
 "license_url": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
 "src": "img/800/1481_1.webp"
+},
+{
+"file": "اهوار الحويزة ميسان العراق.jpg",
+"artist": "Marwa haider93",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1481_2.webp"
 }
 ]
 },
@@ -77966,6 +81317,37 @@
 "梯田種植蔬果、葡萄與橄欖",
 "地下水源供應的灌溉渠網系統",
 "傳統制度在巴提爾村各家庭之間分配水源"
+],
+"photos": [
+{
+"file": "Ein-Kobi-0834.jpg",
+"artist": "Bukvoed",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1492_0.webp",
+"thumb": "img/thumb/1492_0.webp"
+},
+{
+"file": "Ein-Kobi-0859.jpg",
+"artist": "Bukvoed",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1492_1.webp"
+},
+{
+"file": "Ein-Kobi-0851.jpg",
+"artist": "Bukvoed",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1492_2.webp"
+},
+{
+"file": "EIN KOBI.JPG",
+"artist": "AVRAHAM GRAICER",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1492_3.webp"
+}
 ]
 },
 {
@@ -79977,6 +83359,51 @@
 "年代橫跨青銅時代至鐵器時代晚期",
 "遺址的朝向與視線連結可能蘊含天文與宇宙觀意涵",
 "遺址散布在現今仍使用的農牧景觀之中"
+],
+"photos": [
+{
+"file": "Naveta des Tudons - 001.jpg",
+"artist": "Américo Toledano",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1528_0.webp",
+"thumb": "img/thumb/1528_0.webp"
+},
+{
+"file": "Naveta des Tudons - 003.jpg",
+"artist": "Américo Toledano",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1528_1.webp"
+},
+{
+"file": "Naveta des Tudons - panoramio.jpg",
+"artist": "LucT",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1528_2.webp"
+},
+{
+"file": "Naveta des Tudons - 006.jpg",
+"artist": "Américo Toledano",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1528_3.webp"
+},
+{
+"file": "Naveta des Tudons - 005.jpg",
+"artist": "Américo Toledano",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1528_4.webp"
+},
+{
+"file": "Naveta des Tudons - 004.jpg",
+"artist": "Américo Toledano",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1528_5.webp"
+}
 ]
 },
 {
@@ -81303,6 +84730,30 @@
 "羅馬人在一百六十六年間開採約五百噸黃金",
 "蠟面木製書寫板提供羅馬採礦與社會的詳細資料",
 "登錄時即同時列入瀕危世界遺產名單"
+],
+"photos": [
+{
+"file": "Rosia Montana Roman Gold Mines 2011 - Galleries.jpg",
+"artist": "Codrinb",
+"license": "CC BY-SA 3.0 ro",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+"src": "img/800/1552_0.webp",
+"thumb": "img/thumb/1552_0.webp"
+},
+{
+"file": "Rosia Montana Roman Gold Mines 2011 - Galleries-5.jpg",
+"artist": "Codrinb",
+"license": "CC BY-SA 3.0 ro",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+"src": "img/800/1552_1.webp"
+},
+{
+"file": "Rosia Montana Roman Gold Mines 2011 - Galleries-11.jpg",
+"artist": "Codrinb",
+"license": "CC BY-SA 3.0 ro",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+"src": "img/800/1552_2.webp"
+}
 ]
 },
 {
@@ -81771,6 +85222,51 @@
 "十一世紀的清淨寺是中國最早的伊斯蘭建築之一",
 "包含石砌碼頭、陶瓷與鋼鐵生產遺址及古橋佛塔",
 "阿拉伯文與西方文獻稱之為「刺桐」"
+],
+"photos": [
+{
+"file": "Quanzhou Fashi Zhenwu Miao 20120301-7.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1561_0.webp",
+"thumb": "img/thumb/1561_0.webp"
+},
+{
+"file": "Quanzhou Fashi Zhenwu Miao 20120301-3.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1561_1.webp"
+},
+{
+"file": "Quanzhou Fashi Zhenwu Miao 20120301-2.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1561_2.webp"
+},
+{
+"file": "Quanzhou Fashi Zhenwu Miao 20120301-4.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1561_3.webp"
+},
+{
+"file": "Quanzhou Fashi Zhenwu Miao 20120301-1.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1561_4.webp"
+},
+{
+"file": "Quanzhou Fashi Zhenwu Miao 20120301-5.jpg",
+"artist": "Zhangzhugang",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1561_5.webp"
+}
 ]
 },
 {
@@ -82380,6 +85876,23 @@
 "十七世紀起形成葡萄行列平行與垂直於坡面的棋盤狀景觀",
 "十九世紀的「bellussera」整枝技術豐富了景觀美感",
 "葡萄園、森林、小村落與農地交織"
+],
+"photos": [
+{
+"file": "Conegliano da Santa Lucia.jpeg",
+"artist": "Est32",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1571_0.webp",
+"thumb": "img/thumb/1571_0.webp"
+},
+{
+"file": "2014-10-24 07-34-48 Italy Friuli-Venezia Giulia Zoppola S.S. N.13 Pontebbana.jpg",
+"artist": "Hansueli Krapf  This   file was uploaded  with Commonist.",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1571_1.webp"
+}
 ]
 },
 {
@@ -82641,6 +86154,30 @@
 "火山岩與沉積岩序列的年代為三十六億至三十二億五千萬年前",
 "是世界上最古老的地質構造之一",
 "保存地表狀況、隕石撞擊、火山活動與早期生命環境的資訊"
+],
+"photos": [
+{
+"file": "Baberton greenstone belt view.jpg",
+"artist": "MaruAttwood",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1575_0.webp",
+"thumb": "img/thumb/1575_0.webp"
+},
+{
+"file": "2013-02-25 13-30-08 South Africa - Barberton Barberton 7h.JPG",
+"artist": "NOTE: This image is a panorama  consisting of multiple frames that were merged or stitched in software. As a result, thi",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1575_1.webp"
+},
+{
+"file": "Macledium zeyheri subsp. zeyheri 1DS-II 1-7562.jpg",
+"artist": "SAplants",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1575_2.webp"
+}
 ]
 },
 {
@@ -84433,6 +87970,51 @@
 "包含道路、軍團要塞、小型堡壘與臨時營地等多種遺跡",
 "遺址選擇著重呈現與當地地形的關係",
 "為羅馬帝國邊界跨國系列遺產的一部分"
+],
+"photos": [
+{
+"file": "Carnuntum in 2026 by TheTokl - 20.jpg",
+"artist": "Tobias Kleinlercher / Wikipedia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1608_0.webp",
+"thumb": "img/thumb/1608_0.webp"
+},
+{
+"file": "Carnuntum Buergerhaus-DSC 0056w.jpg",
+"artist": "Peter Haas",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1608_1.webp"
+},
+{
+"file": "Carnuntum in 2026 by TheTokl - 04.jpg",
+"artist": "Tobias Kleinlercher / Wikipedia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1608_2.webp"
+},
+{
+"file": "Carnuntum in 2026 by TheTokl - 09.jpg",
+"artist": "Tobias Kleinlercher / Wikipedia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1608_3.webp"
+},
+{
+"file": "Carnuntum in 2026 by TheTokl - 07.jpg",
+"artist": "Tobias Kleinlercher / Wikipedia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1608_4.webp"
+},
+{
+"file": "Carnuntum in 2026 by TheTokl - 02.jpg",
+"artist": "Tobias Kleinlercher / Wikipedia",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1608_5.webp"
+}
 ]
 },
 {
@@ -86490,6 +90072,20 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1647_0.webp",
 "thumb": "img/thumb/1647_0.webp"
+},
+{
+"file": "روستای پلنگان.jpg",
+"artist": "رضا خدامرادی",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"src": "img/800/1647_1.webp"
+},
+{
+"file": "Paveh 33.jpg",
+"artist": "Payonfilm",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1647_2.webp"
 }
 ]
 },
@@ -87065,6 +90661,20 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1660_1.webp"
+},
+{
+"file": "Aggersborg.Panorama.2.ajb.jpg",
+"artist": "Ajepbah",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1660_2.webp"
+},
+{
+"file": "Aggersborg.Panorama.1.ajb.jpg",
+"artist": "Ajepbah",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1660_3.webp"
 }
 ]
 },
@@ -88718,6 +92328,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1692_1.webp"
+},
+{
+"file": "Fiume Secchia 01 - Castelnovo ne' Monti, Reggio Emilia, Italia - 16 Ottobre 2016.jpg",
+"artist": "Giorgio Galeotti",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1692_2.webp"
+},
+{
+"file": "Torrente Sologno e Gessi Triassici - Villa Minozzo, Reggio Emilia, Italia - 15 Luglio 2026 05.jpg",
+"artist": "Giorgio Galeotti",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1692_3.webp"
+},
+{
+"file": "Torrente Sologno - Villa Minozzo, Reggio Emilia, Italia - 15 Luglio 2026.jpg",
+"artist": "Giorgio Galeotti",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1692_4.webp"
+},
+{
+"file": "Strada Provinciale 108 - Castelnovo ne' Monti, Reggio Emilia, Italy - June 9, 2019.jpg",
+"artist": "Giorgio Galeotti",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1692_5.webp"
 }
 ]
 },
@@ -89819,6 +93457,41 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1711_0.webp",
 "thumb": "img/thumb/1711_0.webp"
+},
+{
+"file": "A Maidam in Charaideo Maidam complex 1.jpg",
+"artist": "Rangan Datta Wiki",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1711_1.webp"
+},
+{
+"file": "A Couple of Maidams in Charaideo Maidam complex.jpg",
+"artist": "Rangan Datta Wiki",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1711_2.webp"
+},
+{
+"file": "A Maidam in Charaideo Maidam complex 2.jpg",
+"artist": "Rangan Datta Wiki",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1711_3.webp"
+},
+{
+"file": "A Maidam in Charaideo Maidam complex 5.jpg",
+"artist": "Rangan Datta Wiki",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1711_4.webp"
+},
+{
+"file": "Maidam No. 89 with marker.jpg",
+"artist": "Rangan Datta Wiki",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1711_5.webp"
 }
 ]
 },
@@ -90097,6 +93770,44 @@
 "以街廓為單位的緊湊都市規劃",
 "卡緬納古拉山丘上有同時期的別墅",
 "由漁村快速轉變為波蘭通往大海的新門戶"
+],
+"photos": [
+{
+"file": "GdyniaPL2025 20250620 183342.jpg",
+"artist": "GdyniaPL2025@GdyniaPL2025",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1715_0.webp",
+"thumb": "img/thumb/1715_0.webp"
+},
+{
+"file": "GdyniaPL2025 20250620 183254.jpg",
+"artist": "GdyniaPL2025@GdyniaPL2025",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1715_1.webp"
+},
+{
+"file": "GdyniaPL2025 20250620 183257.jpg",
+"artist": "GdyniaPL2025@GdyniaPL2025",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1715_2.webp"
+},
+{
+"file": "GdyniaPL2025 20250620 183347.jpg",
+"artist": "GdyniaPL2025@GdyniaPL2025",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1715_3.webp"
+},
+{
+"file": "GdyniaPL2025 20250620 183354.jpg",
+"artist": "GdyniaPL2025@GdyniaPL2025",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"src": "img/800/1715_4.webp"
+}
 ]
 },
 {
@@ -91886,6 +95597,44 @@
 "名稱在馬法語中意為「酋長居所的廢墟」",
 "乾砌石建築大約建於十二至十七世紀",
 "梯田、住宅、墓葬與禮拜場所構成完整景觀"
+],
+"photos": [
+{
+"file": "SOCOPAD.jpg",
+"artist": "PegCult",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1745_0.webp",
+"thumb": "img/thumb/1745_0.webp"
+},
+{
+"file": "Résidence Mafa de Djingliya.jpg",
+"artist": "PegCult",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1745_1.webp"
+},
+{
+"file": "Végétation de Djingliya 3.jpg",
+"artist": "PegCult",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1745_2.webp"
+},
+{
+"file": "Végétation de Djingliya.jpg",
+"artist": "PegCult",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1745_3.webp"
+},
+{
+"file": "Végétation de Djingliya 4.jpg",
+"artist": "PegCult",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1745_4.webp"
+}
 ]
 },
 {
@@ -91923,6 +95672,23 @@
 "位於上幾內亞森林生物多樣性熱點",
 "超過一千種植物，其中一百一十三種為特有種",
 "庇護非洲森林象、侏儒河馬與白頸岩鵲"
+],
+"photos": [
+{
+"file": "Rufous Fishing-Owl Scotopelia ussheri in Southern Province, Sierra Leone 01.png",
+"artist": "Barry Reed",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1746_0.webp",
+"thumb": "img/thumb/1746_0.webp"
+},
+{
+"file": "Rufous Fishing-Owl Scotopelia ussheri in Southern Province, Sierra Leone 02.png",
+"artist": "Barry Reed",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"src": "img/800/1746_1.webp"
+}
 ]
 },
 {
@@ -92058,6 +95824,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1748_1.webp"
+},
+{
+"file": "2016 Phnom Penh, Muzeum Ludobójstwa Tuol Sleng (36).jpg",
+"artist": "Marcin Konsek",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1748_2.webp"
+},
+{
+"file": "2016 Phnom Penh, Muzeum Ludobójstwa Tuol Sleng (32).jpg",
+"artist": "Marcin Konsek",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1748_3.webp"
+},
+{
+"file": "2016 Phnom Penh, Muzeum Ludobójstwa Tuol Sleng (34).jpg",
+"artist": "Marcin Konsek",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1748_4.webp"
+},
+{
+"file": "2016 Phnom Penh, Muzeum Ludobójstwa Tuol Sleng (02).jpg",
+"artist": "Marcin Konsek",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1748_5.webp"
 }
 ]
 },
@@ -92175,6 +95969,20 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1750_0.webp",
 "thumb": "img/thumb/1750_0.webp"
+},
+{
+"file": "Vestiges de l'ancienne roça de Porto Alegre (São Tomé) (2).jpg",
+"artist": "Ji-Elle",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1750_1.webp"
+},
+{
+"file": "Vestiges de l'ancienne roça de Porto Alegre (São Tomé) (1).jpg",
+"artist": "Ji-Elle",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1750_2.webp"
 }
 ]
 },
@@ -92455,6 +96263,34 @@
 "license": "CC BY 2.5",
 "license_url": "https://creativecommons.org/licenses/by/2.5",
 "src": "img/800/1757_1.webp"
+},
+{
+"file": "Asuka Mizuochi Site, zenkei-2.jpg",
+"artist": "Saigen Jiro",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1757_2.webp"
+},
+{
+"file": "Asuka Mizuochi Site, kibako-2.jpg",
+"artist": "Saigen Jiro",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1757_3.webp"
+},
+{
+"file": "Asuka Mizuochi Site, kibako.jpg",
+"artist": "Saigen Jiro",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1757_4.webp"
+},
+{
+"file": "Asuka-dera, seimon-ato-2.jpg",
+"artist": "Saigen Jiro",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"src": "img/800/1757_5.webp"
 }
 ]
 },
@@ -92947,6 +96783,34 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1766_1.webp"
+},
+{
+"file": "Xalqlar doʻstligi saroyi 11.jpg",
+"artist": "Humoyun Mehridinov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1766_2.webp"
+},
+{
+"file": "Xalqlar doʻstligi saroyi 01.jpg",
+"artist": "Humoyun Mehridinov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1766_3.webp"
+},
+{
+"file": "Xalqlar doʻstligi saroyi 05.jpg",
+"artist": "Humoyun Mehridinov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1766_4.webp"
+},
+{
+"file": "Xalqlar doʻstligi saroyi 04.jpg",
+"artist": "Humoyun Mehridinov",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"src": "img/800/1766_5.webp"
 }
 ]
 },
