@@ -302,6 +302,7 @@ function critBadges(s){return s.criteria.map(k=>`<span class="badge" title="(${k
 function capHtml(p){
   const f=encodeURIComponent((p.file||'').replace(/ /g,'_'));
   const lic=p.license?(p.license_url?`<a href="${esc(p.license_url)}" target="_blank" rel="noopener">${esc(p.license)}</a>`:esc(p.license)):'—';
+  if(p.page) return `攝影：${esc(p.artist||'未知')} · 授權：${lic} · 來源：<a href="${esc(p.page)}" target="_blank" rel="noopener">UNESCO 世界遺產中心</a>`;
   return `攝影：${esc(p.artist||'未知')} · 授權：${lic} · 來源：<a href="https://commons.wikimedia.org/wiki/File:${f}" target="_blank" rel="noopener">Wikimedia Commons</a>`;
 }
 function sitePage(id){
