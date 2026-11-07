@@ -63,6 +63,7 @@ main{padding:18px 16px 70px;max-width:1400px;margin:0 auto}
 .wall{columns:260px;column-gap:10px}
 .wall a{display:block;position:relative;margin:0 0 10px;break-inside:avoid;border-radius:6px;overflow:hidden;background:var(--panel);cursor:pointer;color:#fff;text-decoration:none;border:1px solid var(--line)}
 .wall img{width:100%;display:block;min-height:120px;background:var(--bg2)}
+img.nd{object-fit:contain!important;background:var(--bg2)} /* NoDerivatives 授權：完整顯示、不裁切 */
 .wall .cap{position:absolute;left:0;right:0;bottom:0;padding:24px 10px 8px;background:linear-gradient(transparent,rgba(0,0,0,.78));font-size:.85rem;line-height:1.35}
 .wall .cap small{display:block;opacity:.8;font-size:.72rem}
 .rgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
@@ -149,10 +150,11 @@ const num=s=>parseInt(s.id,10);
 function go(h){location.hash=h}
 function setTab(v){document.querySelectorAll('.tabs [data-v]').forEach(b=>b.setAttribute('aria-selected',b.dataset.v===v))}
 function thumbOf(s){const p=s.photos&&s.photos[0];return p?(p.thumb||p.src):''}
+function isND(p){return !!p&&/Nomination File|NoDerivatives|-ND/i.test(p.license||'')}
 function phHtml(s){return `<div class="ph"><b>${CATCH[s.cat]||'遺'}</b><span>照片待補</span></div>`}
 function imgOrPh(src,s,alt){
   if(!src) return phHtml(s);
-  return `<img src="${esc(src)}" alt="${esc(alt||'')}" loading="lazy" onerror="this.outerHTML=window.PH(${num(s)})">`;
+  return `<img ${isND(s.photos&&s.photos[0])?'class="nd" ':''}src="${esc(src)}" alt="${esc(alt||'')}" loading="lazy" onerror="this.outerHTML=window.PH(${num(s)})">`;
 }
 window.PH=id=>phHtml(BY[id]||{cat:'cultural'});
 function card(s){
@@ -309,7 +311,7 @@ function sitePage(id){
   const s=BY[id]; if(!s) return '<p>找不到這處遺產。</p>';
   const photos=s.photos||[];
   const sib=SITES.filter(x=>x.iso[0]===s.iso[0]).sort((a,b)=>num(a)-num(b)); const i=sib.indexOf(s); const prev=sib[i-1],next=sib[i+1];
-  const fig=(p,k,main)=>`<figure class="fig ${main?'main':''}"><div class="im" onclick="openLb('${s.id}',${k})"><img src="${esc(p.src||p.thumb)}" alt="${esc(sname(s))}" ${main?'':'loading="lazy"'} onerror="this.closest('figure').style.display='none'"></div><figcaption>${capHtml(p)}</figcaption></figure>`;
+  const fig=(p,k,main)=>`<figure class="fig ${main?'main':''}"><div class="im" onclick="openLb('${s.id}',${k})"><img ${isND(p)?'class="nd" ':''}src="${esc(p.src||p.thumb)}" alt="${esc(sname(s))}" ${main?'':'loading="lazy"'} onerror="this.closest('figure').style.display='none'"></div><figcaption>${capHtml(p)}</figcaption></figure>`;
   const mainFig=photos[0]?fig(photos[0],0,true):`<figure class="fig main" style="--cc:${catColor(s.cat)}"><div class="im" style="cursor:default">${phHtml(s)}</div></figure>`;
   const rest=photos.slice(1);
   const ext=(s.ext||[]).length?`；擴展：${s.ext.join('、')}`:'';

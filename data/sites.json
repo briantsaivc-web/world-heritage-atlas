@@ -679,6 +679,14 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/13_4.webp"
+},
+{
+"file": "unesco:206425",
+"artist": "Tsegaye Teshome",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/13_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=206425"
 }
 ]
 },
@@ -14178,6 +14186,38 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/262_1.webp"
+},
+{
+"file": "unesco:136073",
+"artist": "PERGSA Photo Library",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/262_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136073"
+},
+{
+"file": "unesco:136078",
+"artist": "Hans Sjoholm",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/262_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136078"
+},
+{
+"file": "unesco:136071",
+"artist": "PERGSA Photo Library",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/262_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136071"
+},
+{
+"file": "unesco:136076",
+"artist": "PERGSA Photo Library",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/262_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136076"
 }
 ]
 },
@@ -15387,6 +15427,14 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/278_4.webp"
+},
+{
+"file": "unesco:166726",
+"artist": "Qahtan Al-Abeed",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/278_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166726"
 }
 ]
 },
@@ -19327,6 +19375,14 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/354_2.webp"
+},
+{
+"file": "unesco:110695",
+"artist": "",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/354_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=110695"
 }
 ]
 },
@@ -65298,6 +65354,14 @@
 "license": "CC BY 2.0",
 "license_url": "https://creativecommons.org/licenses/by/2.0",
 "src": "img/800/1147_3.webp"
+},
+{
+"file": "unesco:115304",
+"artist": "Christopher Morris Wilks",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1147_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=115304"
 }
 ]
 },
@@ -75926,6 +75990,38 @@
 "license": "Public domain",
 "license_url": "",
 "src": "img/800/1356_1.webp"
+},
+{
+"file": "unesco:137152",
+"artist": "JCDT",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1356_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137152"
+},
+{
+"file": "unesco:137155",
+"artist": "M. Morgan",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1356_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137155"
+},
+{
+"file": "unesco:137151",
+"artist": "S. Walters",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1356_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137151"
+},
+{
+"file": "unesco:137174",
+"artist": "R. Miller",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1356_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137174"
 }
 ]
 },
@@ -79181,6 +79277,57 @@
 "涵蓋四個阿尼什納比社群的傳統領地",
 "水路連結生計、居住與儀式場所",
 "結合北方針葉林、河流與濕地"
+],
+"photos": [
+{
+"file": "unesco:123223",
+"artist": "Pimachiowin Aki",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1415_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=123223",
+"thumb": "img/thumb/1415_0.webp"
+},
+{
+"file": "unesco:123222",
+"artist": "Pimachiowin Aki",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1415_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=123222"
+},
+{
+"file": "unesco:141165",
+"artist": "Hidehiro Otake",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1415_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=141165"
+},
+{
+"file": "unesco:123220",
+"artist": "Pimachiowin Aki",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1415_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=123220"
+},
+{
+"file": "unesco:141168",
+"artist": "Hidehiro Otake",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1415_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=141168"
+},
+{
+"file": "unesco:141167",
+"artist": "Hidehiro Otake",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1415_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=141167"
+}
 ]
 },
 {
@@ -79451,6 +79598,49 @@
 "冬季居住在鑿於軟岩中的洞穴住宅",
 "春秋兩季住在山地牧場的臨時聚落",
 "是少見的以人遷移為主的牧業系統"
+],
+"photos": [
+{
+"file": "unesco:137077",
+"artist": "M. Hekmat",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1423_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137077",
+"thumb": "img/thumb/1423_0.webp"
+},
+{
+"file": "unesco:137081",
+"artist": "P. Karamnejad",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1423_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137081"
+},
+{
+"file": "unesco:137079",
+"artist": "P. Karamnejad",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1423_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137079"
+},
+{
+"file": "unesco:137078",
+"artist": "P. Karamnejad",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1423_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137078"
+},
+{
+"file": "unesco:137082",
+"artist": "P. Karamnejad",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1423_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=137082"
+}
 ]
 },
 {
@@ -79882,6 +80072,57 @@
 "瀕危的綠蠵龜與稜皮龜在此棲息",
 "波伊朗島是重要的海龜築巢地",
 "紅樹林與泥灘支持超過八十七萬隻濱鳥"
+],
+"photos": [
+{
+"file": "unesco:219816",
+"artist": "Helio Van Ingen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1431_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219816",
+"thumb": "img/thumb/1431_0.webp"
+},
+{
+"file": "unesco:219822",
+"artist": "Hellio & van Ingen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1431_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219822"
+},
+{
+"file": "unesco:219813",
+"artist": "Enrique López-Tapia de Inés",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1431_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219813"
+},
+{
+"file": "unesco:219821",
+"artist": "Hellio & van Ingen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1431_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219821"
+},
+{
+"file": "unesco:219820",
+"artist": "Hellio & van Ingen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1431_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219820"
+},
+{
+"file": "unesco:219825",
+"artist": "Hellio & van Ingen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1431_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219825"
+}
 ]
 },
 {
@@ -80448,6 +80689,57 @@
 "薩滿教與佛教習俗融合的聖山崇拜",
 "被認為是成吉思汗的出生與埋葬地",
 "敖包等石堆是崇拜儀式的重要元素"
+],
+"photos": [
+{
+"file": "unesco:136556",
+"artist": "B. Tsogtbaatar",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1440_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136556",
+"thumb": "img/thumb/1440_0.webp"
+},
+{
+"file": "unesco:136561",
+"artist": "A. Duurenjargal",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1440_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136561"
+},
+{
+"file": "unesco:136559",
+"artist": "B. Hashmargad",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1440_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136559"
+},
+{
+"file": "unesco:136563",
+"artist": "A. Duurenjargal",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1440_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136563"
+},
+{
+"file": "unesco:136558",
+"artist": "A. Duurenjargal",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1440_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136558"
+},
+{
+"file": "unesco:136564",
+"artist": "A. Duurenjargal",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1440_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136564"
+}
 ]
 },
 {
@@ -80956,6 +81248,38 @@
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1448_0.webp",
 "thumb": "img/thumb/1448_0.webp"
+},
+{
+"file": "unesco:136572",
+"artist": "N. Tseveenmyadag",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1448_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136572"
+},
+{
+"file": "unesco:136570",
+"artist": "Evgeniy Kokukhin",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1448_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136570"
+},
+{
+"file": "unesco:136581",
+"artist": "V. Kirilyuk",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1448_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136581"
+},
+{
+"file": "unesco:147465",
+"artist": "V.Kirilyuk",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1448_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=147465"
 }
 ]
 },
@@ -81080,12 +81404,53 @@
 ],
 "photos": [
 {
-"file": "Thimlich Ohinga Cultural Landscape- Kenya.JPG",
-"artist": "Wycondi",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"file": "unesco:136402",
+"artist": "Ephraim Mwangi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
 "src": "img/800/1450_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136402",
 "thumb": "img/thumb/1450_0.webp"
+},
+{
+"file": "unesco:203853",
+"artist": "Ephraim Mwangi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1450_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=203853"
+},
+{
+"file": "unesco:136405",
+"artist": "Ephraim Mwangi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1450_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136405"
+},
+{
+"file": "unesco:136403",
+"artist": "Ephraim Mwangi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1450_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136403"
+},
+{
+"file": "unesco:136406",
+"artist": "Ephraim Mwangi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1450_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136406"
+},
+{
+"file": "unesco:136404",
+"artist": "Ephraim Mwangi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1450_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=136404"
 }
 ]
 },
@@ -83790,6 +84155,57 @@
 "「有機建築」模糊室內與室外的界線",
 "創新運用鋼與混凝土等新材料",
 "對歐洲現代建築發展影響深遠"
+],
+"photos": [
+{
+"file": "unesco:140876",
+"artist": "Joshua White",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1496_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=140876",
+"thumb": "img/thumb/1496_0.webp"
+},
+{
+"file": "unesco:140875",
+"artist": "Joshua White",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1496_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=140875"
+},
+{
+"file": "unesco:140883",
+"artist": "Andrew Pielage",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1496_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=140883"
+},
+{
+"file": "unesco:140872",
+"artist": "Frank Lloyd Wright Trust",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1496_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=140872"
+},
+{
+"file": "unesco:140871",
+"artist": "Frank Lloyd Wright Trust",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1496_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=140871"
+},
+{
+"file": "unesco:191052",
+"artist": "David Heald",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1496_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=191052"
+}
 ]
 },
 {
@@ -85959,6 +86375,57 @@
 "是仙人掌科的主要分化中心之一，生物多樣性居北美乾旱地帶之冠",
 "保存美洲大陸上最古老的水資源管理系統",
 "考古遺存顯示早期作物馴化與技術發展"
+],
+"photos": [
+{
+"file": "unesco:158032",
+"artist": "Diana Hernandez",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1534_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158032",
+"thumb": "img/thumb/1534_0.webp"
+},
+{
+"file": "unesco:158035",
+"artist": "Diana Hernandez",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1534_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158035"
+},
+{
+"file": "unesco:158034",
+"artist": "Diana Hernandez",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1534_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158034"
+},
+{
+"file": "unesco:158028",
+"artist": "Diana Hernandez",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1534_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158028"
+},
+{
+"file": "unesco:158021",
+"artist": "Blas Castellon",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1534_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158021"
+},
+{
+"file": "unesco:158024",
+"artist": "Cecillia Gas",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1534_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158024"
+}
 ]
 },
 {
@@ -86692,6 +87159,17 @@
 "保存從石器時代至今的人類活動證據",
 "蔻瑪尼桑人發展出獨特的民族植物學知識",
 "價值在於人與環境的關係及仍在傳承的無形文化"
+],
+"photos": [
+{
+"file": "unesco:158113",
+"artist": "Francois Odendaal Productions",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1545_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=158113",
+"thumb": "img/thumb/1545_0.webp"
+}
 ]
 },
 {
@@ -87046,6 +87524,30 @@
 "license": "CC BY-SA 3.0 ro",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
 "src": "img/800/1552_2.webp"
+},
+{
+"file": "unesco:165745",
+"artist": "Daniel Vrabioiu",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1552_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165745"
+},
+{
+"file": "unesco:165749",
+"artist": "Radu Sălcudean",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1552_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165749"
+},
+{
+"file": "unesco:165750",
+"artist": "Rădu Sălcudean",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1552_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165750"
 }
 ]
 },
@@ -87754,6 +88256,57 @@
 "反映原住民如何適應十九世紀末的克朗代克淘金熱",
 "包含原住民與殖民者交流及原住民適應殖民的遺址",
 "提供有別於常見淘金熱敘事的原住民視角"
+],
+"photos": [
+{
+"file": "unesco:192980",
+"artist": "GroundTruth Exploration Inc.",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1564_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=192980",
+"thumb": "img/thumb/1564_0.webp"
+},
+{
+"file": "unesco:192976",
+"artist": "GroundTruth Exploration Inc.",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1564_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=192976"
+},
+{
+"file": "unesco:192978",
+"artist": "Government of Yukon",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1564_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=192978"
+},
+{
+"file": "unesco:192981",
+"artist": "GroundTruth Exploration Inc.",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1564_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=192981"
+},
+{
+"file": "unesco:192982",
+"artist": "Tr’ondëk Hwëch’in",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1564_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=192982"
+},
+{
+"file": "unesco:192984",
+"artist": "Government of Yukon",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1564_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=192984"
+}
 ]
 },
 {
@@ -88192,6 +88745,38 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1571_1.webp"
+},
+{
+"file": "unesco:166224",
+"artist": "Arcangelo Piai e Luca Schiavo",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1571_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166224"
+},
+{
+"file": "unesco:165818",
+"artist": "Francesco Galifi",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1571_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165818"
+},
+{
+"file": "unesco:166255",
+"artist": "Arcangelo Piai    fotografo",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1571_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166255"
+},
+{
+"file": "unesco:165833",
+"artist": "Leopoldo Saccon",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1571_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165833"
 }
 ]
 },
@@ -88477,6 +89062,30 @@
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "src": "img/800/1575_2.webp"
+},
+{
+"file": "unesco:165827",
+"artist": "Tony Ferrar",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1575_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165827"
+},
+{
+"file": "unesco:165826",
+"artist": "Tony Ferrar",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1575_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165826"
+},
+{
+"file": "unesco:165823",
+"artist": "Tonny Ferrar",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1575_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=165823"
 }
 ]
 },
@@ -90046,6 +90655,49 @@
 "杜魯拉遺址可追溯至西元前8世紀，為境內最早的煉鐵證據",
 "約十五座自然通風煉鐵爐至今仍然矗立",
 "村落鐵匠仍供應工具並參與儀式，技藝與信仰傳統延續至今"
+],
+"photos": [
+{
+"file": "unesco:166686",
+"artist": "Lassina Simporé",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1602_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166686",
+"thumb": "img/thumb/1602_0.webp"
+},
+{
+"file": "unesco:166675",
+"artist": "Sébastien Moriset",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1602_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166675"
+},
+{
+"file": "unesco:166687",
+"artist": "Lassina Simporé",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1602_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166687"
+},
+{
+"file": "unesco:166683",
+"artist": "Sébastien Moriset",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1602_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166683"
+},
+{
+"file": "unesco:166684",
+"artist": "David Gandreau",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1602_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166684"
+}
 ]
 },
 {
@@ -90298,6 +90950,57 @@
 "位於世界上最大的潮間帶濕地系統之一",
 "棲息的鳥類超過四百種，包含大量遷徙水鳥",
 "是東亞—澳大利西亞遷徙路線上不可替代的中途停歇地"
+],
+"photos": [
+{
+"file": "unesco:166352",
+"artist": "Yancheng Broadcasting Television",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1606_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166352",
+"thumb": "img/thumb/1606_0.webp"
+},
+{
+"file": "unesco:166344",
+"artist": "Yancheng Broadcasting Television",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1606_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166344"
+},
+{
+"file": "unesco:166346",
+"artist": "Yancheng Broadcasting Television",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1606_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166346"
+},
+{
+"file": "unesco:166342",
+"artist": "Yancheng Broadcasting Television",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1606_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166342"
+},
+{
+"file": "unesco:166350",
+"artist": "Yancheng Broadcasting Television",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1606_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166350"
+},
+{
+"file": "unesco:166351",
+"artist": "Yancheng Broadcasting Television",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1606_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=166351"
+}
 ]
 },
 {
@@ -95186,6 +95889,57 @@
 "結合高山村落、夏季牧場與冬季平原牧場",
 "希納雷格人仍保有長距離垂直轉場放牧傳統",
 "路徑、營地、陵墓與清真寺構成完整網絡"
+],
+"photos": [
+{
+"file": "unesco:200110",
+"artist": "Azerbaijan Tourism Board",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1696_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=200110",
+"thumb": "img/thumb/1696_0.webp"
+},
+{
+"file": "unesco:200114",
+"artist": "Emil Khalilov",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1696_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=200114"
+},
+{
+"file": "unesco:200116",
+"artist": "Emil Khalilov",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1696_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=200116"
+},
+{
+"file": "unesco:200117",
+"artist": "Emil Khalilov",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1696_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=200117"
+},
+{
+"file": "unesco:200113",
+"artist": "Emil Khalilov",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1696_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=200113"
+},
+{
+"file": "unesco:200118",
+"artist": "Emil Khalilov",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1696_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=200118"
+}
 ]
 },
 {
@@ -95658,6 +96412,57 @@
 "路網如辮般連接原住民的神聖景觀",
 "終點之一為奇瓦瓦沙漠中的威里庫塔",
 "又稱「我們祖父火之路」，傳統仍在實踐"
+],
+"photos": [
+{
+"file": "unesco:219959",
+"artist": "Nicola Lorusso",
+"license": "Nomination File (non exclusive cession of rights: yes, non commercial)",
+"license_url": "https://whc.unesco.org/en/licenses/19",
+"src": "img/800/1704_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219959",
+"thumb": "img/thumb/1704_0.webp"
+},
+{
+"file": "unesco:219957",
+"artist": "Totupica Candelario",
+"license": "Nomination File (non exclusive cession of rights: yes, non commercial)",
+"license_url": "https://whc.unesco.org/en/licenses/19",
+"src": "img/800/1704_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219957"
+},
+{
+"file": "unesco:219961",
+"artist": "Anaid López",
+"license": "Nomination File (non exclusive cession of rights: yes, non commercial)",
+"license_url": "https://whc.unesco.org/en/licenses/19",
+"src": "img/800/1704_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219961"
+},
+{
+"file": "unesco:219962",
+"artist": "Greco de la Torre",
+"license": "Nomination File (non exclusive cession of rights: yes, non commercial)",
+"license_url": "https://whc.unesco.org/en/licenses/19",
+"src": "img/800/1704_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219962"
+},
+{
+"file": "unesco:219952",
+"artist": "Joaquín Giménez de Azcárate",
+"license": "Nomination File (non exclusive cession of rights: yes, non commercial)",
+"license_url": "https://whc.unesco.org/en/licenses/19",
+"src": "img/800/1704_4.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219952"
+},
+{
+"file": "unesco:219960",
+"artist": "Humberto Fernández Borja",
+"license": "Nomination File (non exclusive cession of rights: yes, non commercial)",
+"license_url": "https://whc.unesco.org/en/licenses/19",
+"src": "img/800/1704_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219960"
+}
 ]
 },
 {
@@ -96380,6 +97185,14 @@
 "license": "CC BY-SA 3.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "src": "img/800/1715_4.webp"
+},
+{
+"file": "unesco:219966",
+"artist": "B. Ponikiewski",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1715_5.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=219966"
 }
 ]
 },
@@ -99035,6 +99848,41 @@
 "主墓規模龐大、墓室深邃，反映貴族階層的權力與動員能力",
 "小型環狀土丘陪葬墓與成對石塊排列的祭祀設施，是葬地的特色",
 "出土馬具、戰車與武器等，可窺見游牧社會的生活與社會結構"
+],
+"photos": [
+{
+"file": "unesco:226552",
+"artist": "G.Eregzen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1759_0.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=226552",
+"thumb": "img/thumb/1759_0.webp"
+},
+{
+"file": "unesco:226211",
+"artist": "D.Erdenebaatar",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1759_1.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=226211"
+},
+{
+"file": "unesco:226212",
+"artist": "N.Erdene-Ochir",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1759_2.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=226212"
+},
+{
+"file": "unesco:226210",
+"artist": "G.Eregzen",
+"license": "Nomination File (non exclusive cession of rights: yes)",
+"license_url": "https://whc.unesco.org/en/licenses/13",
+"src": "img/800/1759_3.webp",
+"page": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=226210"
+}
 ]
 },
 {

@@ -42,7 +42,7 @@ for sid,s in I.items():
     if w5 and len(cand)<6 and f'p5_{sid}' in CV:  # photos5 只用 Claude 篩選過的
         seen={x[2]['file'] for x in cand}
         cand+=[('img5',k,w5['photos'][k]) for k in dict.fromkeys(CV[f'p5_{sid}']['keep']) if k<len(w5['photos']) and w5['photos'][k]['file'] not in seen]
-    for tag,src,pp in (('p6','img6',p6),('pu','imgU',pu)):  # 2026-11-07：photos6（重新對應 Wikidata）與 UNESCO 官方圖庫（CC 授權），皆只用 Claude 篩選過的
+    for tag,src,pp in (('p6','img6',p6),('pu','imgU',pu),('pn','imgU',pu)):  # pn：UNESCO Nomination File 授權（2026-11-07 Brian 同意採用，含非商業版）  # 2026-11-07：photos6（重新對應 Wikidata）與 UNESCO 官方圖庫（CC 授權），皆只用 Claude 篩選過的
         w6=pp.get(sid)
         if w6 and len(cand)<6 and f'{tag}_{sid}' in CV:
             seen={x[2]['file'] for x in cand}
@@ -59,6 +59,7 @@ for sid,cs in out.items():
         if p.get('page'):
             e['page']=p['page']
             if not e['license_url'] and 'sharealike 3.0 igo' in e['license'].lower(): e['license_url']='https://creativecommons.org/licenses/by-sa/3.0/igo/'
+            if not e['license_url'] and p.get('license_id'): e['license_url']=f"https://whc.unesco.org/en/licenses/{p['license_id']}"
         if j==0: shutil.copy(f'{A}/{src}/thumb/{sid}_{k}.webp',f'{R}/img/thumb/{sid}_0.webp'); e['thumb']=f'img/thumb/{sid}_0.webp'
         ph.append(e)
     if ph: I[sid]['photos']=ph
